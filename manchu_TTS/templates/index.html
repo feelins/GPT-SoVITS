@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ project_title }}</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">Manchu TTS</div>
+    <nav class="navlinks">
+      <a href="#demo">演示区</a>
+      <a href="#models">模型信息</a>
+      <a href="#about">项目说明</a>
+      <a href="https://www.muc.edu.cn/" target="_blank" rel="noreferrer">学校主页</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <h1>{{ project_title }}</h1>
+      <p>本系统仅支持满语推理演示，固定单说话人参考音频，面向教学与研究展示。</p>
+    </section>
+
+    <section id="demo" class="card">
+      <h2>满语推理演示</h2>
+      <label for="sourceText">原文本（输入满语文本）</label>
+      <textarea id="sourceText" rows="4" placeholder="例如：si yabade tiyehebi yaba bu sin bou yabade bi ai tokso"></textarea>
+
+      <div class="actions">
+        <button id="btnConvert" class="btn primary">转化前端</button>
+        <button id="btnSynthesize" class="btn">合成</button>
+      </div>
+
+      <div class="grid-2">
+        <div>
+          <label for="latinText">拉丁读音序列（规范化结果）</label>
+          <textarea id="latinText" rows="4" readonly></textarea>
+        </div>
+        <div>
+          <label for="cmuText">CMUdict 音素序列</label>
+          <textarea id="cmuText" rows="4" readonly></textarea>
+        </div>
+      </div>
+
+      <div id="resultArea" class="result hidden">
+        <p><strong>合成音频 URL：</strong> <a id="audioUrl" href="#" target="_blank" rel="noreferrer"></a></p>
+        <audio id="audioPlayer" controls></audio>
+        <img id="specImage" alt="spectrogram" />
+      </div>
+
+      <pre id="logBox" class="logbox"></pre>
+    </section>
+
+    <section id="models" class="card">
+      <h2>固定模型与参考音频</h2>
+      <ul>
+        <li>GPT: {{ model_gpt }}</li>
+        <li>SoVITS: {{ model_sovits }}</li>
+        <li>参考音频: {{ ref_wav }}</li>
+        <li>参考文本: {{ ref_txt }}</li>
+      </ul>
+    </section>
+
+    <section id="about" class="card">
+      <h2>说明</h2>
+      <p>本演示系统只提供满语文本到语音的单路径推理，不包含多语种切换、不包含训练功能，便于研究室进行快速展示与课堂试用。</p>
+      <p>建议用于：满语语音教学演示、研究汇报样例、数据流程说明。</p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <span>Manchu TTS Demo for Academic Showcase</span>
+    <a href="https://github.com/RVC-Boss/GPT-SoVITS" target="_blank" rel="noreferrer">GPT-SoVITS</a>
+  </footer>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

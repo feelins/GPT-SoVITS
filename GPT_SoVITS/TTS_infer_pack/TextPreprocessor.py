@@ -79,7 +79,7 @@ class TextPreprocessor:
         if len(text) == 0:
             return []
         if text[0] not in splits and len(get_first(text)) < 4:
-            text = "。" + text if lang != "en" else "." + text
+            text = "。" + text if lang not in ("en", "man", "all_man") else "." + text
         print(i18n("实际输入的目标文本:"))
         print(text)
 
@@ -102,7 +102,7 @@ class TextPreprocessor:
                 # 检测一下，如果是纯符号，就跳过。
                 continue
             if text[-1] not in splits:
-                text += "。" if lang != "en" else "."
+                text += "。" if lang not in ("en", "man", "all_man") else "."
 
             # 解决句子过长导致Bert报错的问题
             if len(text) > 510:
@@ -144,6 +144,10 @@ class TextPreprocessor:
                     textlist.append(tmp["text"])
             elif language == "en":
                 langlist.append("en")
+                textlist.append(text)
+            elif language in ("man", "all_man"):
+                # Manchu: treat whole text as a single Manchu segment (no LangSegmenter)
+                langlist.append("man")
                 textlist.append(text)
             elif language == "auto":
                 for tmp in LangSegmenter.getTexts(text):

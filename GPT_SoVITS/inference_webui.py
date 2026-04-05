@@ -151,6 +151,7 @@ dict_language_v2 = {
     i18n("日文"): "all_ja",  # 全部按日文识别
     i18n("粤语"): "all_yue",  # 全部按中文识别
     i18n("韩文"): "all_ko",  # 全部按韩文识别
+    i18n("满语"): "all_man",  # 全部按满语识别（拉丁转写→CMUdict音素）
     i18n("中英混合"): "zh",  # 按中英混合识别####不变
     i18n("日英混合"): "ja",  # 按日英混合识别####不变
     i18n("粤英混合"): "yue",  # 按粤英混合识别####不变
@@ -623,6 +624,10 @@ def get_phones_and_bert(text, language, version, final=False):
     elif language == "en":
         langlist.append("en")
         textlist.append(text)
+    elif language in ("man", "all_man"):
+        # Manchu: treat whole segment as Manchu, no LangSegmenter
+        langlist.append("man")
+        textlist.append(text)
     elif language == "auto":
         for tmp in LangSegmenter.getTexts(text):
             langlist.append(tmp["lang"])
@@ -652,10 +657,16 @@ def get_phones_and_bert(text, language, version, final=False):
     norm_text_list = []
     for i in range(len(textlist)):
         lang = langlist[i]
-        phones, word2ph, norm_text = clean_text_inf(textlist[i], lang, version)
-        bert = get_bert_inf(phones, word2ph, norm_text, lang)
+        # Get raw symbolic phones before converting to IDs (for logging)
+        _lang_bare = lang.replace("all_", "")
+        _raw_phones, _word2ph, _norm_text = clean_text(textlist[i], _lang_bare, version)
+        if lang in ("man", "all_man"):
+            print("[Manchu G2P] text   :", textlist[i])
+            print("[Manchu G2P] phones :", " ".join(_raw_phones))
+        phones = cleaned_text_to_sequence(_raw_phones, version)
+        bert = get_bert_inf(phones, _word2ph, _norm_text, lang)
         phones_list.append(phones)
-        norm_text_list.append(norm_text)
+        norm_text_list.append(_norm_text)
         bert_list.append(bert)
     bert = torch.cat(bert_list, dim=1)
     phones = sum(phones_list, [])
@@ -793,7 +804,7 @@ def get_tts_wav(
     if not ref_free:
         prompt_text = prompt_text.strip("\n")
         if prompt_text[-1] not in splits:
-            prompt_text += "。" if prompt_language != "en" else "."
+            prompt_text += "." if prompt_language in ("en", "man", "all_man") else "。"
         print(i18n("实际输入的参考文本:"), prompt_text)
     text = text.strip("\n")
     # if (text[0] not in splits and len(get_first(text)) < 4): text = "。" + text if text_language != "en" else "." + text
@@ -854,7 +865,7 @@ def get_tts_wav(
         if len(text.strip()) == 0:
             continue
         if text[-1] not in splits:
-            text += "。" if text_language != "en" else "."
+            text += "。" if text_language not in ("en", "man", "all_man") else "."
         print(i18n("实际输入的目标文本(每句):"), text)
         phones2, bert2, norm_text2 = get_phones_and_bert(text, text_language, version)
         print(i18n("前端处理后的文本(每句):"), norm_text2)

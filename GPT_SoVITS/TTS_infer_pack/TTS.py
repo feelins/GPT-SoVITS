@@ -273,7 +273,7 @@ class TTS_Config:
     }
     configs: dict = None
     v1_languages: list = ["auto", "en", "zh", "ja", "all_zh", "all_ja"]
-    v2_languages: list = ["auto", "auto_yue", "en", "zh", "ja", "yue", "ko", "all_zh", "all_ja", "all_yue", "all_ko"]
+    v2_languages: list = ["auto", "auto_yue", "en", "zh", "ja", "yue", "ko", "man", "all_zh", "all_ja", "all_yue", "all_ko", "all_man"]
     languages: list = v2_languages
     mute_tokens: dict = {
         "v1" : 486,

@@ -1,11 +1,11 @@
 custom:
   bert_base_path: GPT_SoVITS/pretrained_models/chinese-roberta-wwm-ext-large
   cnhuhbert_base_path: GPT_SoVITS/pretrained_models/chinese-hubert-base
-  device: cuda
-  is_half: true
-  t2s_weights_path: GPT_SoVITS/pretrained_models/gsv-v2final-pretrained/s1bert25hz-5kh-longer-epoch=12-step=369668.ckpt
-  version: v2
-  vits_weights_path: GPT_SoVITS/pretrained_models/gsv-v2final-pretrained/s2G2333k.pth
+  device: cpu
+  is_half: false
+  t2s_weights_path: /Users/feelins/works/GPT-SoVITS/GPT_weights_v2Pro/manchu_speaker-e15.ckpt
+  version: v2Pro
+  vits_weights_path: /Users/feelins/works/GPT-SoVITS/SoVITS_weights_v2Pro/manchu_speaker_e8_s5928.pth
 v1:
   bert_base_path: GPT_SoVITS/pretrained_models/chinese-roberta-wwm-ext-large
   cnhuhbert_base_path: GPT_SoVITS/pretrained_models/chinese-hubert-base

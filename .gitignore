@@ -193,3 +193,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+GPT_SoVITS/pretrained_models/*
+# Large model/data files - do not commit
+GPT_SoVITS/pretrained_models.zip
+*.tsv
+*.docx

@@ -180,7 +180,8 @@ if __name__ == "__main__":
     model_size = cmd.model_size
     if model_size == "large":
         model_size = "large-v3"
-    model_path = download_model(model_size)
+    # model_path = download_model(model_size)
+    model_path = r'/Users/feelins/works/models/deepdml-faster-whisper-large-v3-turbo-ct2'
     output_file_path = execute_asr(
         input_folder=cmd.input_folder,
         output_folder=cmd.output_folder,
