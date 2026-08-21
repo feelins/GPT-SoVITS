@@ -1,0 +1,1317 @@
+wavs/common_voice_nan-tw_32135920.wav|nan_tw_spk1|公館（Kong-kuán | Kong-koán）
+wavs/common_voice_nan-tw_32135921.wav|nan_tw_spk1|三觀五覆 （sam-kuan-ngóo-hok）
+wavs/common_voice_nan-tw_32135922.wav|nan_tw_spk1|蟮蟲仔（siān-thâng-á）
+wavs/common_voice_nan-tw_32135923.wav|nan_tw_spk1|反抗期（huán-khòng-kî）
+wavs/common_voice_nan-tw_32135924.wav|nan_tw_spk1|門掣（mn̂g-tshuah）
+wavs/common_voice_nan-tw_32135925.wav|nan_tw_spk1|十三股（Tsa̍p-sann-kóo）
+wavs/common_voice_nan-tw_32135926.wav|nan_tw_spk1|山鼻仔 （Suann-phīnn-á）
+wavs/common_voice_nan-tw_32135927.wav|nan_tw_spk1|腌屁（am-puì）
+wavs/common_voice_nan-tw_32135928.wav|nan_tw_spk1|密婆坑（Bi̍t-pô-khinn | Bi̍t-pô-khiⁿ）
+wavs/common_voice_nan-tw_32135929.wav|nan_tw_spk1|警示燈（kìng-sī-ting）
+wavs/common_voice_nan-tw_32135930.wav|nan_tw_spk1|雞油龜（kue-iû-ku | ke-iû-ku | kere-iû-ku）
+wavs/common_voice_nan-tw_32135931.wav|nan_tw_spk1|想欲（siūnn-beh | siūnn-bueh）
+wavs/common_voice_nan-tw_32135932.wav|nan_tw_spk1|上愛 （siōng ài）
+wavs/common_voice_nan-tw_32135933.wav|nan_tw_spk1|無要意（bô-iàu-ì）
+wavs/common_voice_nan-tw_32135934.wav|nan_tw_spk1|玉兔（Gio̍k-thòo）
+wavs/common_voice_nan-tw_32135935.wav|nan_tw_spk1|鰆魚（tshun-hî）
+wavs/common_voice_nan-tw_32135936.wav|nan_tw_spk1|全班（tsuân pan）
+wavs/common_voice_nan-tw_32135937.wav|nan_tw_spk1|鉤股（kau-kóo）
+wavs/common_voice_nan-tw_32135938.wav|nan_tw_spk1|魑魅魍魎（Lî-muī Bóng-lióng）
+wavs/common_voice_nan-tw_32135939.wav|nan_tw_spk1|囡仔仙，扮大仙（gín-á sian, pān tuā-sian）
+wavs/common_voice_nan-tw_32135940.wav|nan_tw_spk1|銅鉎（tâng-sian）
+wavs/common_voice_nan-tw_32135941.wav|nan_tw_spk1|昏頭（hun-thâu）
+wavs/common_voice_nan-tw_32135942.wav|nan_tw_spk1|三跤鱉 （sann-kha pih）
+wavs/common_voice_nan-tw_32135943.wav|nan_tw_spk1|火戛仔（hué-khiat-á）
+wavs/common_voice_nan-tw_32135944.wav|nan_tw_spk1|筊會跋，屎嘛會食得（kiáu ē pua̍h, sái mā-ē tsia̍h-tit）
+wavs/common_voice_nan-tw_32135945.wav|nan_tw_spk1|阿里史（A-lí-sú）
+wavs/common_voice_nan-tw_32135946.wav|nan_tw_spk1|鎮星（tìn-tshenn）
+wavs/common_voice_nan-tw_32135947.wav|nan_tw_spk1|吉林（Kiat-nâ）
+wavs/common_voice_nan-tw_32135948.wav|nan_tw_spk1|暗號貨幣（àm-hō-huè-pè）
+wavs/common_voice_nan-tw_32135949.wav|nan_tw_spk1|喙是風，字是蹤（tshuì sī hong, jī sī tsong）
+wavs/common_voice_nan-tw_32135950.wav|nan_tw_spk1|勻位字（ûn-uī-jī）
+wavs/common_voice_nan-tw_32135951.wav|nan_tw_spk1|拍瀑拉族（Phah-po̍k-lá-tso̍k）
+wavs/common_voice_nan-tw_32135952.wav|nan_tw_spk1|水濺仔（tsuí-tsuānn-á）
+wavs/common_voice_nan-tw_32135953.wav|nan_tw_spk1|丸仔蟲 （uân-á-thâng）
+wavs/common_voice_nan-tw_32135954.wav|nan_tw_spk1|一還一，二還二 （tsi̍t huân tsi̍t, jī huân jī）
+wavs/common_voice_nan-tw_32135955.wav|nan_tw_spk1|莊頂路（Chng-téng-lō͘）
+wavs/common_voice_nan-tw_32135956.wav|nan_tw_spk1|求神問佛（kiû-sîn-mn̄g-pu̍t）
+wavs/common_voice_nan-tw_32135957.wav|nan_tw_spk1|埤仔跤（Pi-á-kha）
+wavs/common_voice_nan-tw_32135958.wav|nan_tw_spk1|頂流（tíng-liû）
+wavs/common_voice_nan-tw_32135959.wav|nan_tw_spk1|聖潔石（Sìng-kiat-si̍k）
+wavs/common_voice_nan-tw_32135960.wav|nan_tw_spk1|衝紅燈（tshiong-âng-ting）
+wavs/common_voice_nan-tw_32135961.wav|nan_tw_spk1|太上老君（thài siōng ló kun）
+wavs/common_voice_nan-tw_32135962.wav|nan_tw_spk1|富陽生態公園（Hù-iông Sing-thài Kong-hn̂g）
+wavs/common_voice_nan-tw_32135963.wav|nan_tw_spk1|細喙壺（suè-tshuì-ôo | sè-tshuì-ôo）
+wavs/common_voice_nan-tw_32135964.wav|nan_tw_spk1|金華公園（Kim-huâ Kong-hn̂g）
+wavs/common_voice_nan-tw_32135975.wav|nan_tw_spk1|栗美國（La̍t-bí-kok）
+wavs/common_voice_nan-tw_32135976.wav|nan_tw_spk1|山牛犅（suann-gû-káng）
+wavs/common_voice_nan-tw_32135977.wav|nan_tw_spk1|滅火（bia̍t-hué | bia̍t-hé）
+wavs/common_voice_nan-tw_32135978.wav|nan_tw_spk1|十指迵心肝 （tsa̍p-tsáinn thàng sim-kuann）
+wavs/common_voice_nan-tw_32135979.wav|nan_tw_spk1|名號表嘛咧欲用了（miâ-hō-piáu mā leh beh īng-liáu）
+wavs/common_voice_nan-tw_32135980.wav|nan_tw_spk1|查某囝飼大別人个（tsa-bóo-kiánn tshī-tuā pa̍t-lâng ê）
+wavs/common_voice_nan-tw_32135981.wav|nan_tw_spk1|台北（Tâi-pak）
+wavs/common_voice_nan-tw_32135982.wav|nan_tw_spk1|戇虎咬炮紙（gōng-hóo kā phàu-tsuá）
+wavs/common_voice_nan-tw_32135983.wav|nan_tw_spk1|藉著（tsioh-tio̍h）
+wavs/common_voice_nan-tw_32135984.wav|nan_tw_spk1|涼腔仔話（liâng-khiang-á-uē）
+wavs/common_voice_nan-tw_32135985.wav|nan_tw_spk1|登山客（ting-san-kheh）
+wavs/common_voice_nan-tw_32135986.wav|nan_tw_spk1|阿本仔（A-pún-á）
+wavs/common_voice_nan-tw_32135987.wav|nan_tw_spk1|頭銜（thâu-hâm）
+wavs/common_voice_nan-tw_32135988.wav|nan_tw_spk1|伊已經倒轉去下港矣（I í-king tò-tńg-khì ē-káng--ah）
+wavs/common_voice_nan-tw_32135989.wav|nan_tw_spk1|欠貨（khiàm-huè）
+wavs/common_voice_nan-tw_32135990.wav|nan_tw_spk1|千甲（Tshian-kah | Chhian-kah）
+wavs/common_voice_nan-tw_32135991.wav|nan_tw_spk1|在你行（tsāi-lí-kiânn）
+wavs/common_voice_nan-tw_32135992.wav|nan_tw_spk1|傳病蠓（thuân-pēnn-báng | thuân-pīnn-báng）
+wavs/common_voice_nan-tw_32135993.wav|nan_tw_spk1|孤?的（koo-khu̍t-ê）
+wavs/common_voice_nan-tw_32135994.wav|nan_tw_spk1|雞翼（ke-si̍t | kue-si̍t）
+wavs/common_voice_nan-tw_32135995.wav|nan_tw_spk1|跩折（tsuāi--tsi̍h | tsuāinn--tsi̍h）
+wavs/common_voice_nan-tw_32135996.wav|nan_tw_spk1|撨價數（tshiâu-kè-siàu）
+wavs/common_voice_nan-tw_32135997.wav|nan_tw_spk1|白耳龍（Pe̍h-hīnn-liông）
+wavs/common_voice_nan-tw_32135998.wav|nan_tw_spk1|二酸化炭素 （lī-sng-huà thuànn-sòo）
+wavs/common_voice_nan-tw_32135999.wav|nan_tw_spk1|縉雲（Tsìn-hûn）
+wavs/common_voice_nan-tw_32136000.wav|nan_tw_spk1|獅仔鄉（Sai-á-hiong）
+wavs/common_voice_nan-tw_32136001.wav|nan_tw_spk1|山院 （suann-īnn）
+wavs/common_voice_nan-tw_32136002.wav|nan_tw_spk1|佮肩胛頭平闊（kah king-kah-thâu pênn | pînn khuah）
+wavs/common_voice_nan-tw_32136003.wav|nan_tw_spk1|咖啡園（Ka-pi-hn̂g）
+wavs/common_voice_nan-tw_32136064.wav|nan_tw_spk1|怙（kōo）
+wavs/common_voice_nan-tw_32136065.wav|nan_tw_spk1|輸贏（su-iânn）
+wavs/common_voice_nan-tw_32136066.wav|nan_tw_spk1|孔教（Khóng-kàu）
+wavs/common_voice_nan-tw_32136067.wav|nan_tw_spk1|透明片（thàu-bîng-phìnn）
+wavs/common_voice_nan-tw_32136068.wav|nan_tw_spk1|花白sut-sut（hue pe̍h-sut-sut）
+wavs/common_voice_nan-tw_32136465.wav|nan_tw_spk1|歹面相看（pháinn-bīn-sio-khuànn）
+wavs/common_voice_nan-tw_32136466.wav|nan_tw_spk1|鳳山區（Hōng-suann-khu）
+wavs/common_voice_nan-tw_32136467.wav|nan_tw_spk1|番鼠（huan-tshí）
+wavs/common_voice_nan-tw_32136468.wav|nan_tw_spk1|囡仔人，大人心肝（gín-á-lâng, tuā-lâng sim-kuann）
+wavs/common_voice_nan-tw_32136469.wav|nan_tw_spk1|頭綴（thâu-tuè）
+wavs/common_voice_nan-tw_32136470.wav|nan_tw_spk1|相駛（sann-sái）
+wavs/common_voice_nan-tw_32136471.wav|nan_tw_spk1|偷微（thau-bî）
+wavs/common_voice_nan-tw_32136472.wav|nan_tw_spk1|袂假會（bē ké ē）
+wavs/common_voice_nan-tw_32136473.wav|nan_tw_spk1|頷頸（ām-kún）
+wavs/common_voice_nan-tw_32136474.wav|nan_tw_spk1|報路（pò-lōo）
+wavs/common_voice_nan-tw_32136480.wav|nan_tw_spk1|新園鄉（Sin-hn̂g-hiong）
+wavs/common_voice_nan-tw_32136481.wav|nan_tw_spk1|目降鬚聳（ba̍k-kang tshiu tshàng）
+wavs/common_voice_nan-tw_32136482.wav|nan_tw_spk1|鳳山區（Hōng-suann-khu | Hōng-soaⁿ-khu）
+wavs/common_voice_nan-tw_32136483.wav|nan_tw_spk1|予人看現現（hōo lâng khuànn-hiān-hiān）
+wavs/common_voice_nan-tw_32136484.wav|nan_tw_spk1|仁愛國小（Jîn-ài Kok-sió）
+wavs/common_voice_nan-tw_32136485.wav|nan_tw_spk1|華山公園（Huâ-san Kong-hn̂g | Hôa-san Kong-hn̂g）
+wavs/common_voice_nan-tw_32136486.wav|nan_tw_spk1|無定著彼件代誌就是伊做的（Bô-tiānn-tio̍h hit kiānn tāi-tsì tō sī i tsò--ê）
+wavs/common_voice_nan-tw_32136487.wav|nan_tw_spk1|游泳箍仔（iû-íng-khoo-á）
+wavs/common_voice_nan-tw_32136488.wav|nan_tw_spk1|后里區（Āu-lí-khu）
+wavs/common_voice_nan-tw_32136490.wav|nan_tw_spk1|魚嶺（hî-niá）
+wavs/common_voice_nan-tw_32136495.wav|nan_tw_spk1|後尾仔（āu-bué-á）
+wavs/common_voice_nan-tw_32136496.wav|nan_tw_spk1|碧藍幻想（Phik-nâ-huàn-sióng）
+wavs/common_voice_nan-tw_32136497.wav|nan_tw_spk1|自樂岫（tsū-lo̍k-siū）
+wavs/common_voice_nan-tw_32136498.wav|nan_tw_spk1|蔭酒（ìm-tsiú）
+wavs/common_voice_nan-tw_32136499.wav|nan_tw_spk1|一碗飯來分我好無？（Tsi̍t uánn pn̄g lâi pun--guá hó--bô?）
+wavs/common_voice_nan-tw_32136505.wav|nan_tw_spk1|食較䆀（tsia̍h khah bái）
+wavs/common_voice_nan-tw_32136506.wav|nan_tw_spk1|溝仔（kau-á）
+wavs/common_voice_nan-tw_32136507.wav|nan_tw_spk1|有心，無氣力（ū-sim, bô khuì-la̍t）
+wavs/common_voice_nan-tw_32136508.wav|nan_tw_spk1|臺北大巨蛋（Tâi-pak Tuā-kī-tàn | Tâi pak Tuā-kū-tàn）
+wavs/common_voice_nan-tw_32136509.wav|nan_tw_spk1|網紗（bāng-se）
+wavs/common_voice_nan-tw_32136515.wav|nan_tw_spk1|市立體育場（Tshī-li̍p Thé-io̍k-kuán）
+wavs/common_voice_nan-tw_32136516.wav|nan_tw_spk1|松柏樹（tshîng-peh-tshiū）
+wavs/common_voice_nan-tw_32136517.wav|nan_tw_spk1|爸母生成（pē-bó senn-tsiânn）
+wavs/common_voice_nan-tw_32136518.wav|nan_tw_spk1|一手包辦 （tsi̍t-tshiú pau-pān）
+wavs/common_voice_nan-tw_32136519.wav|nan_tw_spk1|頂頂下下（tíng-tíng-ē-ē）
+wavs/common_voice_nan-tw_32136520.wav|nan_tw_spk1|五結鄉（Gōo-kiat-hiong）
+wavs/common_voice_nan-tw_32136521.wav|nan_tw_spk1|山坪 （suann-phiânn）
+wavs/common_voice_nan-tw_32136522.wav|nan_tw_spk1|臭柑吐籠（tshàu-kam thòo-láng）
+wavs/common_voice_nan-tw_32136523.wav|nan_tw_spk1|松山路（Siông-san-lōo）
+wavs/common_voice_nan-tw_32136524.wav|nan_tw_spk1|字卡（jī-khah）
+wavs/common_voice_nan-tw_32136525.wav|nan_tw_spk1|落水頭（lo̍h-tsuí-thâu）
+wavs/common_voice_nan-tw_32136526.wav|nan_tw_spk1|二八張（Jī-peh-tiunn | Jī-peh-tiuⁿ）
+wavs/common_voice_nan-tw_32136527.wav|nan_tw_spk1|山里（San-lí）
+wavs/common_voice_nan-tw_32136528.wav|nan_tw_spk1|隘寮坑（Ài-liâu-khinn）
+wavs/common_voice_nan-tw_32136529.wav|nan_tw_spk1|腎盂（sīn-û）
+wavs/common_voice_nan-tw_32136530.wav|nan_tw_spk1|竹坑口（Tik-khinn-kháu）
+wavs/common_voice_nan-tw_32136531.wav|nan_tw_spk1|赤跤仙仔（tshiah-kha-sian-á）
+wavs/common_voice_nan-tw_32136532.wav|nan_tw_spk1|飽流（pá-lâu）
+wavs/common_voice_nan-tw_32136533.wav|nan_tw_spk1|深山林內（tshim-suann nâ-lāi）
+wavs/common_voice_nan-tw_32136534.wav|nan_tw_spk1|吳興街（Ngôo-hing-ke）
+wavs/common_voice_nan-tw_32136535.wav|nan_tw_spk1|扯（tshé）
+wavs/common_voice_nan-tw_32136536.wav|nan_tw_spk1|岐山（Kiâ-suann）
+wavs/common_voice_nan-tw_32136537.wav|nan_tw_spk1|餘姚（Û-iâu）
+wavs/common_voice_nan-tw_32136538.wav|nan_tw_spk1|隔腹阿姊（keh-pak a-tsí）
+wavs/common_voice_nan-tw_32136539.wav|nan_tw_spk1|塗角厝（thôo-kak-tshù）
+wavs/common_voice_nan-tw_32136540.wav|nan_tw_spk1|你去共門開開（Lí khì kā mn̂g khui--khui）
+wavs/common_voice_nan-tw_32136541.wav|nan_tw_spk1|馬卡龍（bé-kha̍h-liông）
+wavs/common_voice_nan-tw_32136542.wav|nan_tw_spk1|國民黨（Kok-bîn-tóng）
+wavs/common_voice_nan-tw_32136543.wav|nan_tw_spk1|報鳥鼠冤（pò niáu-tshí | tshú-á-uan）
+wavs/common_voice_nan-tw_32136544.wav|nan_tw_spk1|燒褲（sio-khòo）
+wavs/common_voice_nan-tw_32136550.wav|nan_tw_spk1|真讚（tsin tsán）
+wavs/common_voice_nan-tw_32136551.wav|nan_tw_spk1|小可事變做大曠臼 （sió-khuá sū piàn-tsó tuā khàng-khū）
+wavs/common_voice_nan-tw_32136552.wav|nan_tw_spk1|花痴（hue-tshi）
+wavs/common_voice_nan-tw_32136553.wav|nan_tw_spk1|掰喙（pué-tshuì）
+wavs/common_voice_nan-tw_32136554.wav|nan_tw_spk1|看無上目（khuànn-bô tsiūnn-ba̍k）
+wavs/common_voice_nan-tw_32137066.wav|nan_tw_spk1|幼齒（iù-khí）
+wavs/common_voice_nan-tw_32137067.wav|nan_tw_spk1|崇德（Tsông-tik）
+wavs/common_voice_nan-tw_32137068.wav|nan_tw_spk1|插車（tshah-tshia）
+wavs/common_voice_nan-tw_32137069.wav|nan_tw_spk1|福星國小（Hok-sing-kok-sió）
+wavs/common_voice_nan-tw_32137070.wav|nan_tw_spk1|池上鄉（Tî-siōng-hiong）
+wavs/common_voice_nan-tw_32137084.wav|nan_tw_spk1|啥物命，食甲竹塹餅（siánn-mi̍h miā tsia̍h kah Tik-tshàm piánn）
+wavs/common_voice_nan-tw_32137085.wav|nan_tw_spk1|牯嶺街（Kóo-niá-kue）
+wavs/common_voice_nan-tw_32137086.wav|nan_tw_spk1|我來揀菜，揀好才予你洗（Guá lâi kíng-tshài, kíng-hó tsiah hōo lí sé）
+wavs/common_voice_nan-tw_32137087.wav|nan_tw_spk1|法人（huat-jîn）
+wavs/common_voice_nan-tw_32137088.wav|nan_tw_spk1|灣潭（Uan-thâm | Oan-thâm）
+wavs/common_voice_nan-tw_32137109.wav|nan_tw_spk1|焦燥花（ta-sò-hue）
+wavs/common_voice_nan-tw_32137110.wav|nan_tw_spk1|棧船（tsàn-tsûn）
+wavs/common_voice_nan-tw_32137112.wav|nan_tw_spk1|魚池仔（hî-tî-á）
+wavs/common_voice_nan-tw_32137113.wav|nan_tw_spk1|趨溜廊（tshu-liu-lông）
+wavs/common_voice_nan-tw_32137115.wav|nan_tw_spk1|放盡磅（pàng-tsīn-pōng）
+wavs/common_voice_nan-tw_32137147.wav|nan_tw_spk1|大極大，細極細 （tuā ki̍k tuā, sè ki̍k sè）
+wavs/common_voice_nan-tw_32137149.wav|nan_tw_spk1|伊真凍霜，連一屑仔物都毋甘予人（I tsin tàng-sng, liân tsi̍t-sut-á mih to m̄-kam hōo--lâng）
+wavs/common_voice_nan-tw_32137152.wav|nan_tw_spk1|冊型電腦（tsheh-hîng tiān-náu）
+wavs/common_voice_nan-tw_32137153.wav|nan_tw_spk1|瑞源（Suī-guân | Sūi-goân）
+wavs/common_voice_nan-tw_32137155.wav|nan_tw_spk1|熟悉（si̍k-sik）
+wavs/common_voice_nan-tw_32137157.wav|nan_tw_spk1|蠹魚（tòo-hî）
+wavs/common_voice_nan-tw_32137158.wav|nan_tw_spk1|寒帽（kuânn-bō）
+wavs/common_voice_nan-tw_32137159.wav|nan_tw_spk1|魔鏡（môo-kiànn）
+wavs/common_voice_nan-tw_32137160.wav|nan_tw_spk1|愛斯提（Ài-su-tê）
+wavs/common_voice_nan-tw_32137161.wav|nan_tw_spk1|三姓橋（Sam-sìng-kiô）
+wavs/common_voice_nan-tw_32137188.wav|nan_tw_spk1|大武窟部落 （Tuā-bú-khut Pōo-lo̍k）
+wavs/common_voice_nan-tw_32137189.wav|nan_tw_spk1|做會到（tsò ē kàu）
+wavs/common_voice_nan-tw_32137190.wav|nan_tw_spk1|袂接力（bē tsih-la̍t）
+wavs/common_voice_nan-tw_32137191.wav|nan_tw_spk1|後壠（Āu-lâng）
+wavs/common_voice_nan-tw_32137192.wav|nan_tw_spk1|紅記記（âng-kì-kì）
+wavs/common_voice_nan-tw_32137196.wav|nan_tw_spk1|毋畏寒（m̄ uì-kuânn）
+wavs/common_voice_nan-tw_32137197.wav|nan_tw_spk1|統埔（Thóng-poo）
+wavs/common_voice_nan-tw_32137198.wav|nan_tw_spk1|匯水（huē-tsuí）
+wavs/common_voice_nan-tw_32137199.wav|nan_tw_spk1|分袂平，拍甲二九暝（pun-bē-pênn phah-kah Jī-káu-mê）
+wavs/common_voice_nan-tw_32137200.wav|nan_tw_spk1|迂拘（u-khu）
+wavs/common_voice_nan-tw_32137202.wav|nan_tw_spk1|山巖 （suann-gâm）
+wavs/common_voice_nan-tw_32137203.wav|nan_tw_spk1|有歲（ū-huè | ū-hè）
+wavs/common_voice_nan-tw_32137204.wav|nan_tw_spk1|向頭族（ànn-thâu-tso̍k）
+wavs/common_voice_nan-tw_32137205.wav|nan_tw_spk1|隔壁位（keh-piah-uī）
+wavs/common_voice_nan-tw_32137206.wav|nan_tw_spk1|拍第一（phah-tē-it）
+wavs/common_voice_nan-tw_32145876.wav|nan_tw_spk1|光洘山（kng-khó-suann）
+wavs/common_voice_nan-tw_32145877.wav|nan_tw_spk1|陂內坑（Pi-lāi--khinn）
+wavs/common_voice_nan-tw_32145878.wav|nan_tw_spk1|離櫥（lī-tû）
+wavs/common_voice_nan-tw_32145879.wav|nan_tw_spk1|海岸（hái-huānn）
+wavs/common_voice_nan-tw_32145880.wav|nan_tw_spk1|打猫（Tá-bâ）
+wavs/common_voice_nan-tw_32145881.wav|nan_tw_spk1|公館鄉（Kong-koán-hiong）
+wavs/common_voice_nan-tw_32145882.wav|nan_tw_spk1|戛仔頭（khiat-á-thâu）
+wavs/common_voice_nan-tw_32145883.wav|nan_tw_spk1|水湳（tsuí-làm）
+wavs/common_voice_nan-tw_32145884.wav|nan_tw_spk1|電蠓拍（tiān-báng-phah）
+wavs/common_voice_nan-tw_32145885.wav|nan_tw_spk1|神岡（Sin-gong | Sîn-góng | Sin-kóng | Sîn-kóng）
+wavs/common_voice_nan-tw_32145896.wav|nan_tw_spk1|媠甲十全（suí kah tsa̍p-tsn̂g）
+wavs/common_voice_nan-tw_32145897.wav|nan_tw_spk1|溪口國小（Khue-kháu Kok-sió | Khoe-kháu Kok-sió）
+wavs/common_voice_nan-tw_32145898.wav|nan_tw_spk1|正規（tsìng-kui）
+wavs/common_voice_nan-tw_32145899.wav|nan_tw_spk1|眵眵（tshuh-tshuh）
+wavs/common_voice_nan-tw_32145900.wav|nan_tw_spk1|橐袋仔袋磅子（lak-tē-á tē pōng-tsí）
+wavs/common_voice_nan-tw_32145906.wav|nan_tw_spk1|電火戲（tiān-huē hì）
+wavs/common_voice_nan-tw_32145907.wav|nan_tw_spk1|兩句半話（nn̄g-kù-puànn-uē）
+wavs/common_voice_nan-tw_32145908.wav|nan_tw_spk1|佬仔（láu-á）
+wavs/common_voice_nan-tw_32145909.wav|nan_tw_spk1|烏屎（oo-sái）
+wavs/common_voice_nan-tw_32145910.wav|nan_tw_spk1|喙較密閣菜籃（tshuì khah ba̍t koh tshài-nâ）
+wavs/common_voice_nan-tw_32145916.wav|nan_tw_spk1|原原照舊（guân-guân tsiàu-kū）
+wavs/common_voice_nan-tw_32145917.wav|nan_tw_spk1|枋仔（pang-á）
+wavs/common_voice_nan-tw_32145918.wav|nan_tw_spk1|保本基金（pó-pún ki-kim）
+wavs/common_voice_nan-tw_32145919.wav|nan_tw_spk1|鍾南山（Tsing Lâm-san）
+wavs/common_voice_nan-tw_32145920.wav|nan_tw_spk1|下內埔（Ē-lâi-poo）
+wavs/common_voice_nan-tw_32145921.wav|nan_tw_spk1|大同區（Tāi-tông-khu）
+wavs/common_voice_nan-tw_32145922.wav|nan_tw_spk1|伊是來亂的，咱莫管伊（I sī lâi luān--ê, lán mài kuán--i）
+wavs/common_voice_nan-tw_32145923.wav|nan_tw_spk1|無順序（bô sūn-sī | bô sūn-sū）
+wavs/common_voice_nan-tw_32145924.wav|nan_tw_spk1|回檔（huê-tóng）
+wavs/common_voice_nan-tw_32145925.wav|nan_tw_spk1|跗骨（hū-kut）
+wavs/common_voice_nan-tw_32145926.wav|nan_tw_spk1|苧仔園坑（Tuē-á-hn̂g-khinn）
+wavs/common_voice_nan-tw_32145927.wav|nan_tw_spk1|風較恬（hong khah tiām | huang khah tiām）
+wavs/common_voice_nan-tw_32145928.wav|nan_tw_spk1|松山（Siông-san）
+wavs/common_voice_nan-tw_32145929.wav|nan_tw_spk1|框箍（khong-khoo）
+wavs/common_voice_nan-tw_32145930.wav|nan_tw_spk1|神經線絞無絚（sîn-king-suànn ká-bô-ân）
+wavs/common_voice_nan-tw_32145931.wav|nan_tw_spk1|烏點格仔（oo-tiám-keh-á）
+wavs/common_voice_nan-tw_32145932.wav|nan_tw_spk1|士林公館公園（Sū-lîm Kong-kuán Kong-hn̂g）
+wavs/common_voice_nan-tw_32145933.wav|nan_tw_spk1|山水 （suann-tsuí）
+wavs/common_voice_nan-tw_32145934.wav|nan_tw_spk1|魔獸爭霸（môo-siū-tsing-pà）
+wavs/common_voice_nan-tw_32145935.wav|nan_tw_spk1|大雺 （tuā-bông）
+wavs/common_voice_nan-tw_32145936.wav|nan_tw_spk1|老猴無粉頭（lāu-kâu bô hún-thâu）
+wavs/common_voice_nan-tw_32145937.wav|nan_tw_spk1|八仙橋（Pat-sian-kiô）
+wavs/common_voice_nan-tw_32145938.wav|nan_tw_spk1|倒手仔猴（tò-tshiú-á-kâu）
+wavs/common_voice_nan-tw_32145939.wav|nan_tw_spk1|中央氣象局 （Tiong-ng-khì-siōng-kio̍k）
+wavs/common_voice_nan-tw_32145940.wav|nan_tw_spk1|白醋（pe̍h-tshòo）
+wavs/common_voice_nan-tw_32145941.wav|nan_tw_spk1|妄（bōng）
+wavs/common_voice_nan-tw_32145942.wav|nan_tw_spk1|忝頭（thiám-thâu）
+wavs/common_voice_nan-tw_32145943.wav|nan_tw_spk1|智慧型手機（tì-huī-hîng tshiú-ki）
+wavs/common_voice_nan-tw_32145944.wav|nan_tw_spk1|飛來飛去的火金姑（pue-lâi-pue-khì ê hué-kim-koo）
+wavs/common_voice_nan-tw_32145945.wav|nan_tw_spk1|細粒電火球仔（suè-lia̍p tiān-hué-kiû-á）
+wavs/common_voice_nan-tw_32145946.wav|nan_tw_spk1|洪秀柱（Âng Siù-thiāu）
+wavs/common_voice_nan-tw_32145947.wav|nan_tw_spk1|后山崎（Āu-suaⁿ-kiā）
+wavs/common_voice_nan-tw_32145948.wav|nan_tw_spk1|斜角線（tshua̍h-kak-suànn）
+wavs/common_voice_nan-tw_32145949.wav|nan_tw_spk1|蜘蛛膜（ti-tu-mo̍oh）
+wavs/common_voice_nan-tw_32145950.wav|nan_tw_spk1|答應（tap-ìng）
+wavs/common_voice_nan-tw_32145951.wav|nan_tw_spk1|斗南鎮（Táu-lâm-tìn）
+wavs/common_voice_nan-tw_32145952.wav|nan_tw_spk1|大病院 （Tuā-pēnn-īnn）
+wavs/common_voice_nan-tw_32145953.wav|nan_tw_spk1|少年人愛較有志氣咧（Siàu-liân-lâng ài khah ū tsì-khì--leh）
+wavs/common_voice_nan-tw_32145954.wav|nan_tw_spk1|米粉羹（bí-hún kenn）
+wavs/common_voice_nan-tw_32145955.wav|nan_tw_spk1|車擋脣（tshia-tòng-tûn）
+wavs/common_voice_nan-tw_32145956.wav|nan_tw_spk1|櫻花鉤吻鮭（ing-hue kau-bún-kui）
+wavs/common_voice_nan-tw_32145957.wav|nan_tw_spk1|膨風豆（phòng-hong-tāu）
+wavs/common_voice_nan-tw_32145958.wav|nan_tw_spk1|魔法少女（Môo-huat Siàu-lú）
+wavs/common_voice_nan-tw_32145959.wav|nan_tw_spk1|食飽未（tsia̍h-pá--buē | tsia̍h-pá--bē）
+wavs/common_voice_nan-tw_32145960.wav|nan_tw_spk1|神廣（Sîn-kóng）
+wavs/common_voice_nan-tw_32145961.wav|nan_tw_spk1|騎（gî | khî | khiâ）
+wavs/common_voice_nan-tw_32145962.wav|nan_tw_spk1|天頂雲尾（thinn-tíng hûn-bué）
+wavs/common_voice_nan-tw_32145963.wav|nan_tw_spk1|黃葉猫（n̂g-hio̍h-bâ）
+wavs/common_voice_nan-tw_32145964.wav|nan_tw_spk1|星仔（tshenn-á）
+wavs/common_voice_nan-tw_32145965.wav|nan_tw_spk1|礦物學（khòng-bu̍t-ha̍k）
+wavs/common_voice_nan-tw_32145966.wav|nan_tw_spk1|好食的物件（hó-tsia̍h ê mi̍h-kiānn）
+wavs/common_voice_nan-tw_32145967.wav|nan_tw_spk1|俄羅斯疊磚仔（Gô-lô-su-thiap-tsng-á）
+wavs/common_voice_nan-tw_32145968.wav|nan_tw_spk1|仝款（kâng-khuán）
+wavs/common_voice_nan-tw_32145969.wav|nan_tw_spk1|女使 （lú-sú）
+wavs/common_voice_nan-tw_32145970.wav|nan_tw_spk1|石頭格仔（tsio̍h-thâukeh-á）
+wavs/common_voice_nan-tw_32145976.wav|nan_tw_spk1|燒山（sio-suann）
+wavs/common_voice_nan-tw_32145977.wav|nan_tw_spk1|紙屑仔（tsuá-sap-á）
+wavs/common_voice_nan-tw_32145978.wav|nan_tw_spk1|湠生（thuànn-sing）
+wavs/common_voice_nan-tw_32145979.wav|nan_tw_spk1|攑耙柫摃（gia̍h pê-put kòng）家己頭額（ka-kī thâu-hia̍h | ka-tī thâu-hia̍h）
+wavs/common_voice_nan-tw_32145980.wav|nan_tw_spk1|畢業戶橂（pit-gia̍p-hōo-tīng）
+wavs/common_voice_nan-tw_32145986.wav|nan_tw_spk1|袋鼠（tē-tshiú）
+wavs/common_voice_nan-tw_32145987.wav|nan_tw_spk1|無合時機（bô-ha̍h sî-ki）
+wavs/common_voice_nan-tw_32145988.wav|nan_tw_spk1|思維（su-î）
+wavs/common_voice_nan-tw_32145989.wav|nan_tw_spk1|太空梭（thài-khong-so）
+wavs/common_voice_nan-tw_32145990.wav|nan_tw_spk1|骨（kut）
+wavs/common_voice_nan-tw_32145991.wav|nan_tw_spk1|拍煙腸（phah ian-tshiâng）
+wavs/common_voice_nan-tw_32145992.wav|nan_tw_spk1|榮星花園公園（Îng-tshínn Hue-hn̂g Kong-hn̂g）
+wavs/common_voice_nan-tw_32145993.wav|nan_tw_spk1|好空（hó-khang）
+wavs/common_voice_nan-tw_32145994.wav|nan_tw_spk1|陽明交大陽明校區（Iông-bîng Kau-tāi Iông-bîng Hāu-khu）
+wavs/common_voice_nan-tw_32145995.wav|nan_tw_spk1|亡人節 （Bông-lâng-tseh | Bông-lâng-tsueh）
+wavs/common_voice_nan-tw_32146001.wav|nan_tw_spk1|燈徛u（ting-khiā-u）
+wavs/common_voice_nan-tw_32146002.wav|nan_tw_spk1|頭殼歹去（thâu-khak phái--khì | thâu-khak pháinn--khì）
+wavs/common_voice_nan-tw_32146003.wav|nan_tw_spk1|中壢（Tiong-li̍k | Tiong-le̍k）
+wavs/common_voice_nan-tw_32146004.wav|nan_tw_spk1|相關兩意（siang-kuan lióng-ì）
+wavs/common_voice_nan-tw_32146005.wav|nan_tw_spk1|土地公擽跤底 （Thóo-tē-kong ngiau kha-té）
+wavs/common_voice_nan-tw_32146006.wav|nan_tw_spk1|無線電字母的呼號（bô-suànn-tiān jī-bú ê hoo-hō）
+wavs/common_voice_nan-tw_32146007.wav|nan_tw_spk1|悶悶慒慒（būn-būn tso-tso）
+wavs/common_voice_nan-tw_32146008.wav|nan_tw_spk1|飄撇（phiau-phiat）
+wavs/common_voice_nan-tw_32146009.wav|nan_tw_spk1|埋沒（bâi-bua̍t）
+wavs/common_voice_nan-tw_32146010.wav|nan_tw_spk1|流感的檢驗結果攏是陰性（liû-kám ê kiám-giām kiat-kó lóng sī im-sìng）
+wavs/common_voice_nan-tw_32146011.wav|nan_tw_spk1|伊蹛佇阮隔壁（I tuà tī guán keh-piah）
+wavs/common_voice_nan-tw_32146012.wav|nan_tw_spk1|絞群（ká-kûn）
+wavs/common_voice_nan-tw_32146018.wav|nan_tw_spk1|借殼上市（tsioh-khak tsiūnn-tshī）
+wavs/common_voice_nan-tw_32146019.wav|nan_tw_spk1|花瓜仔（hue-kue-á）
+wavs/common_voice_nan-tw_32146020.wav|nan_tw_spk1|犁園寮（Lê-hn̂g-liâu）
+wavs/common_voice_nan-tw_32146021.wav|nan_tw_spk1|窒咧（that--leh）
+wavs/common_voice_nan-tw_32146023.wav|nan_tw_spk1|熟士（si̍k-sū）
+wavs/common_voice_nan-tw_32146048.wav|nan_tw_spk1|拍包（phah pau）
+wavs/common_voice_nan-tw_32146049.wav|nan_tw_spk1|實字（si̍t-jī）
+wavs/common_voice_nan-tw_32146050.wav|nan_tw_spk1|真真正正（tsin tsin tsiànn tsiànn）
+wavs/common_voice_nan-tw_32146051.wav|nan_tw_spk1|譀鏡（hàm-kiànn）
+wavs/common_voice_nan-tw_32146052.wav|nan_tw_spk1|無機化合物（bû-ki huà-ha̍p-bu̍t）
+wavs/common_voice_nan-tw_32146058.wav|nan_tw_spk1|楔暗烏（sueh-àm-oo | seh-àm-oo）
+wavs/common_voice_nan-tw_32146059.wav|nan_tw_spk1|府中（Hú-tiong）
+wavs/common_voice_nan-tw_32146060.wav|nan_tw_spk1|零星股（lân-san-kóo）
+wavs/common_voice_nan-tw_32146061.wav|nan_tw_spk1|石觀音（Tsio̍h-kuan-im）
+wavs/common_voice_nan-tw_32146062.wav|nan_tw_spk1|心狂火熱（sim-kông-hué-jia̍t）
+wavs/common_voice_nan-tw_32146073.wav|nan_tw_spk1|指甲刀仔（tsíng-kah-to-á）
+wavs/common_voice_nan-tw_32146074.wav|nan_tw_spk1|聽你的腔口敢若是臺南人（Thiann lí ê khiunn-kháu kánn-ná sī Tâi-lâm-lâng）
+wavs/common_voice_nan-tw_32146075.wav|nan_tw_spk1|所羅門（Sóo-lô-bûn）
+wavs/common_voice_nan-tw_32146076.wav|nan_tw_spk1|干樂 （kan-lo̍k）
+wavs/common_voice_nan-tw_32146078.wav|nan_tw_spk1|公車（kong-tshia）
+wavs/common_voice_nan-tw_32146079.wav|nan_tw_spk1|羅東溪（Lô-tong-khe）
+wavs/common_voice_nan-tw_32146080.wav|nan_tw_spk1|矮頓矮頓（é-tǹg-é-tǹg）
+wavs/common_voice_nan-tw_32146081.wav|nan_tw_spk1|三月節 （sann-gue̍h tseh）
+wavs/common_voice_nan-tw_32146082.wav|nan_tw_spk1|趨枋仔車（tshu-pang-á-tshia）
+wavs/common_voice_nan-tw_32146088.wav|nan_tw_spk1|雲端（hûn-tuan）
+wavs/common_voice_nan-tw_32146089.wav|nan_tw_spk1|雪文膏（sap-bûn-ko）
+wavs/common_voice_nan-tw_32146090.wav|nan_tw_spk1|三三五五 （sam sam ngóo ngóo）
+wavs/common_voice_nan-tw_32146091.wav|nan_tw_spk1|薰頭莫亂擲（hun-thâu mài luān tàn）
+wavs/common_voice_nan-tw_32146092.wav|nan_tw_spk1|加答兒（ka-tap-jî）
+wavs/common_voice_nan-tw_32146103.wav|nan_tw_spk1|父母用心來栽培（pē-bú iōng-sim lâi tsai-puê）
+wavs/common_voice_nan-tw_32146104.wav|nan_tw_spk1|景美（Kíng-bí | Kéng-bí）
+wavs/common_voice_nan-tw_32146105.wav|nan_tw_spk1|霧霧（bū-bū）
+wavs/common_voice_nan-tw_32146106.wav|nan_tw_spk1|腹蓋筋力（pak-kuà-kin-la̍t）
+wavs/common_voice_nan-tw_32146107.wav|nan_tw_spk1|糞埽話（pùn-sò uē）
+wavs/common_voice_nan-tw_32146114.wav|nan_tw_spk1|宜蘭（Gî-lân）
+wavs/common_voice_nan-tw_32146115.wav|nan_tw_spk1|三仙台 （Sam-sian-tâi）
+wavs/common_voice_nan-tw_32146116.wav|nan_tw_spk1|一坵田 （tsi̍t khu tshân）
+wavs/common_voice_nan-tw_32146117.wav|nan_tw_spk1|燒水機（sio-tsuí-ki）
+wavs/common_voice_nan-tw_32146118.wav|nan_tw_spk1|土米仔 （thóo-bí-á）
+wavs/common_voice_nan-tw_32146128.wav|nan_tw_spk1|犁頭山（Lê-thâu-suann）
+wavs/common_voice_nan-tw_32146129.wav|nan_tw_spk1|大風大湧 （tuā-hong tuā-íng）
+wavs/common_voice_nan-tw_32146130.wav|nan_tw_spk1|十五分內（Tsa̍p-gōo-hūn-lāi | Cha̍p-gō͘-hūn-lāi）
+wavs/common_voice_nan-tw_32146131.wav|nan_tw_spk1|天主教堂（Thian-tsú Kàu-tn̂g | Thian-chú Kàu-tn̂g）
+wavs/common_voice_nan-tw_32146132.wav|nan_tw_spk1|牲醴文（sing-lé-bûn）
+wavs/common_voice_nan-tw_32146136.wav|nan_tw_spk1|礦車（khòng-tshia）
+wavs/common_voice_nan-tw_32146137.wav|nan_tw_spk1|頭拄仔（tha̍h-tú-á）
+wavs/common_voice_nan-tw_32146138.wav|nan_tw_spk1|悾歁（khong-khám）
+wavs/common_voice_nan-tw_32146139.wav|nan_tw_spk1|挽草（bán-tsháu）
+wavs/common_voice_nan-tw_32146140.wav|nan_tw_spk1|店仔口（Tiám-á-kháu）
+wavs/common_voice_nan-tw_32146158.wav|nan_tw_spk1|新屋區（Sin-ok-khu）
+wavs/common_voice_nan-tw_32146159.wav|nan_tw_spk1|淚腺（luī-suànn）
+wavs/common_voice_nan-tw_32146160.wav|nan_tw_spk1|天公地道（thinn-kong-tē-tō）
+wavs/common_voice_nan-tw_32146161.wav|nan_tw_spk1|焦花（ta-hue）
+wavs/common_voice_nan-tw_32146162.wav|nan_tw_spk1|興網路症頭（hing bāng-lōo tsìng-thâu）
+wavs/common_voice_nan-tw_32146172.wav|nan_tw_spk1|田墘（tshân-kînn）
+wavs/common_voice_nan-tw_32146173.wav|nan_tw_spk1|獸人（siù-lâng）
+wavs/common_voice_nan-tw_32146174.wav|nan_tw_spk1|虹彩（khīng-tshái）
+wavs/common_voice_nan-tw_32146175.wav|nan_tw_spk1|井底水雞（tsénn-té tsuí-ke）
+wavs/common_voice_nan-tw_32146176.wav|nan_tw_spk1|厚麶（kāu-thi）
+wavs/common_voice_nan-tw_32146182.wav|nan_tw_spk1|蔡厝（Tshuà-tshù | Chhòa-chhù）
+wavs/common_voice_nan-tw_32146183.wav|nan_tw_spk1|炊斗（tshe-táu | tshue-táu）
+wavs/common_voice_nan-tw_32146184.wav|nan_tw_spk1|跋落枕（pua̍h-lo̍h-tsím）
+wavs/common_voice_nan-tw_32146185.wav|nan_tw_spk1|烏雉（oo-thī）
+wavs/common_voice_nan-tw_32146194.wav|nan_tw_spk1|冇蟳夯籠（phànn tsîm giâ láng）
+wavs/common_voice_nan-tw_32146195.wav|nan_tw_spk1|輕鬆熊（Khin-sang-hîm）
+wavs/common_voice_nan-tw_32146196.wav|nan_tw_spk1|做代誌嘛誠骨力（Tsò tāi-tsì mā tsiânn kut-la̍t）
+wavs/common_voice_nan-tw_32146197.wav|nan_tw_spk1|著猴（tio̍h-kâu）
+wavs/common_voice_nan-tw_32146198.wav|nan_tw_spk1|濾水鈷（lī-tsuí-kóo | lū-tsuí-kóo）
+wavs/common_voice_nan-tw_32146203.wav|nan_tw_spk1|未拄好（buē-tú-hó | bē-tú-hó）
+wavs/common_voice_nan-tw_32146213.wav|nan_tw_spk1|熱學（jia̍t-ha̍k）
+wavs/common_voice_nan-tw_32146214.wav|nan_tw_spk1|揤落去（tshi̍h--lueh）
+wavs/common_voice_nan-tw_32146215.wav|nan_tw_spk1|景興國中（Kíng-hing Kok-tiong | Kéng-heng Kok-tiong）
+wavs/common_voice_nan-tw_32146216.wav|nan_tw_spk1|烏日國小（Oo-ji̍t-kok-sió）
+wavs/common_voice_nan-tw_32146217.wav|nan_tw_spk1|東區（Tang-khu）
+wavs/common_voice_nan-tw_32146233.wav|nan_tw_spk1|使性鳥（Sái-sìng-tsiáu）
+wavs/common_voice_nan-tw_32146234.wav|nan_tw_spk1|屬託（sio̍k-thok）
+wavs/common_voice_nan-tw_32146235.wav|nan_tw_spk1|不丹 （Put-tan）
+wavs/common_voice_nan-tw_32146236.wav|nan_tw_spk1|壓迫感（ap-pik-kám）
+wavs/common_voice_nan-tw_32146237.wav|nan_tw_spk1|只會當靠這來趁食過日
+wavs/common_voice_nan-tw_32146269.wav|nan_tw_spk1|究勘（kiù-khàm）
+wavs/common_voice_nan-tw_32146270.wav|nan_tw_spk1|戮空（lak-khang）
+wavs/common_voice_nan-tw_32146271.wav|nan_tw_spk1|新市橋（Sin-chhī-kiô）
+wavs/common_voice_nan-tw_32146286.wav|nan_tw_spk1|過工空（kuè-kong-khang | kè-kong-khang）
+wavs/common_voice_nan-tw_32146287.wav|nan_tw_spk1|水滾矣（Tsuí kún--ah）
+wavs/common_voice_nan-tw_32146288.wav|nan_tw_spk1|中和橋（Tiong-hô-kiô）
+wavs/common_voice_nan-tw_32146289.wav|nan_tw_spk1|喙甜心肝烏（tshuì-tinn sim-kuann oo）
+wavs/common_voice_nan-tw_32146290.wav|nan_tw_spk1|查某囡仔人（tsa-bóo gín-á-lâng）
+wavs/common_voice_nan-tw_32146295.wav|nan_tw_spk1|起路（khí-lōo）
+wavs/common_voice_nan-tw_32146296.wav|nan_tw_spk1|躉納（tún-la̍p）
+wavs/common_voice_nan-tw_32146297.wav|nan_tw_spk1|電動奕者（tiān-tōng ī-tsiá）
+wavs/common_voice_nan-tw_32146298.wav|nan_tw_spk1|國立高雄大學（Kok-li̍p Ko-hiông Tāi-ha̍k）
+wavs/common_voice_nan-tw_32146299.wav|nan_tw_spk1|和仁（Hô-jîn）
+wavs/common_voice_nan-tw_32146309.wav|nan_tw_spk1|花瓜（hue-kue）
+wavs/common_voice_nan-tw_32146310.wav|nan_tw_spk1|竇（tōo）
+wavs/common_voice_nan-tw_32146311.wav|nan_tw_spk1|菝仔（pa̍t-á）
+wavs/common_voice_nan-tw_32146312.wav|nan_tw_spk1|秦風（Tsîn-hong）
+wavs/common_voice_nan-tw_32146313.wav|nan_tw_spk1|萬波（bān-pho）
+wavs/common_voice_nan-tw_32146353.wav|nan_tw_spk1|英蘭（Ing-lân）
+wavs/common_voice_nan-tw_32146355.wav|nan_tw_spk1|夢時代（Bāng-sî-tāi）
+wavs/common_voice_nan-tw_32146356.wav|nan_tw_spk1|愣愣去（gāng-gāng-khì）
+wavs/common_voice_nan-tw_32146357.wav|nan_tw_spk1|雙蓮國小（Siang-liân Kok-sió）
+wavs/common_voice_nan-tw_32146358.wav|nan_tw_spk1|攏（láng）
+wavs/common_voice_nan-tw_32146364.wav|nan_tw_spk1|流星群（liû-tshenn-kûn | liû-tshinn-kûn）
+wavs/common_voice_nan-tw_32146365.wav|nan_tw_spk1|蔥仔鴨（Tshang-á-ah）
+wavs/common_voice_nan-tw_32146366.wav|nan_tw_spk1|橐袋仔妖怪（lak-tē-á-iau-kuài）
+wavs/common_voice_nan-tw_32146367.wav|nan_tw_spk1|袂落樓梯（bē lo̍h lâu-thui）
+wavs/common_voice_nan-tw_32146368.wav|nan_tw_spk1|高級衛生紙（ko-kip-uī-sing-tsuá）
+wavs/common_voice_nan-tw_32158809.wav|nan_tw_spk1|中興坑（Tiong-hing-khinn）
+wavs/common_voice_nan-tw_32158810.wav|nan_tw_spk1|獨立書店（to̍k-li̍p tsu-tiàm）
+wavs/common_voice_nan-tw_32158811.wav|nan_tw_spk1|東寧國（Tang-lîng-kok）
+wavs/common_voice_nan-tw_32158812.wav|nan_tw_spk1|塗豆塊仔（thôo-tāu-tè-á）
+wavs/common_voice_nan-tw_32158813.wav|nan_tw_spk1|濁口溪（Lô-kháu-khe）
+wavs/common_voice_nan-tw_32158824.wav|nan_tw_spk1|頓井（tùn-tsénn | tùn-tsínn）
+wavs/common_voice_nan-tw_32158825.wav|nan_tw_spk1|刺海馬（Tshiah-hái-bé）
+wavs/common_voice_nan-tw_32158826.wav|nan_tw_spk1|甘甜（kam-tinn）
+wavs/common_voice_nan-tw_32158827.wav|nan_tw_spk1|目睭黏著蜊仔肉（ba̍k-tsiu liâm-tio̍h lâ-á-bah）
+wavs/common_voice_nan-tw_32158828.wav|nan_tw_spk1|放nih捒（pàng-nih-sak）
+wavs/common_voice_nan-tw_32163007.wav|nan_tw_spk1|一下雷，天下響 （tsi̍t-ē luî, thian-hā hiáng）
+wavs/common_voice_nan-tw_32163008.wav|nan_tw_spk1|戇猴擔石頭（gōng-kâu tann tsio̍h-thâu）
+wavs/common_voice_nan-tw_32163009.wav|nan_tw_spk1|結拜（kiat-pài）
+wavs/common_voice_nan-tw_32163010.wav|nan_tw_spk1|狗肉忌蔥（káu-bah kī tshang）
+wavs/common_voice_nan-tw_32163011.wav|nan_tw_spk1|乏定著（ha̍t-tiānn-tio̍h）
+wavs/common_voice_nan-tw_32163017.wav|nan_tw_spk1|鼓山（Kóo-san）
+wavs/common_voice_nan-tw_32163018.wav|nan_tw_spk1|普篩（phóo-thai）
+wavs/common_voice_nan-tw_32163019.wav|nan_tw_spk1|出師表（Tshut-su-piáu）
+wavs/common_voice_nan-tw_32163020.wav|nan_tw_spk1|大坵園（Tuā-khu-hn̂g）
+wavs/common_voice_nan-tw_32163021.wav|nan_tw_spk1|榖雨（kok-ú | kok-í）
+wavs/common_voice_nan-tw_32163027.wav|nan_tw_spk1|生徒會（sing-tôo-huē）
+wavs/common_voice_nan-tw_32163028.wav|nan_tw_spk1|公竹跤（Kong-ti̍k-kha | Kong-tek-kha）
+wavs/common_voice_nan-tw_32163029.wav|nan_tw_spk1|看現場（khuànn hiān-tiûnn）
+wavs/common_voice_nan-tw_32163030.wav|nan_tw_spk1|洗身軀精（sé-sin-khu-tsing）
+wavs/common_voice_nan-tw_32163031.wav|nan_tw_spk1|零時政府（Lîng-sî-tsìng-hú）
+wavs/common_voice_nan-tw_32163032.wav|nan_tw_spk1|柴橋（tshâ-kiô）
+wavs/common_voice_nan-tw_32163033.wav|nan_tw_spk1|暗坑下（Àm-khenn-hā | Àm-kheⁿ-hā）
+wavs/common_voice_nan-tw_32163034.wav|nan_tw_spk1|麥仔角（be̍h-á-kak）
+wavs/common_voice_nan-tw_32163035.wav|nan_tw_spk1|走甲離褲跤（tsáu kah lī khóo-kha）
+wavs/common_voice_nan-tw_32163036.wav|nan_tw_spk1|辛亥國小（Sin-hāi Kok-sió）
+wavs/common_voice_nan-tw_32163042.wav|nan_tw_spk1|分蜢薛（pun meh-sih）
+wavs/common_voice_nan-tw_32163043.wav|nan_tw_spk1|偌爾（guā-nī）
+wavs/common_voice_nan-tw_32163044.wav|nan_tw_spk1|長榮航空（tiông-îng-hâng-khong）
+wavs/common_voice_nan-tw_32163045.wav|nan_tw_spk1|失角擦（sit-kak-tshat）
+wavs/common_voice_nan-tw_32163046.wav|nan_tw_spk1|你欲信無我落人予你死（Lí beh sìn--bô? Guá làu-lâng hōo lí sí）
+wavs/common_voice_nan-tw_32163052.wav|nan_tw_spk1|沓滴（ta̍p-tih）
+wavs/common_voice_nan-tw_32163053.wav|nan_tw_spk1|佛心（pu̍t-sim）
+wavs/common_voice_nan-tw_32163054.wav|nan_tw_spk1|冰雪奇緣（Ping-suat-kî-iân）
+wavs/common_voice_nan-tw_32163055.wav|nan_tw_spk1|有勢不可盡量（iú sè put-khótsīn-liōng）
+wavs/common_voice_nan-tw_32163056.wav|nan_tw_spk1|福斗路口（Hok-táu Lōo-kháu）
+wavs/common_voice_nan-tw_32163057.wav|nan_tw_spk1|台灣猴山仔（Tâi-uân kâu-san-á）
+wavs/common_voice_nan-tw_32163058.wav|nan_tw_spk1|抱起毛（phō-khí-moo）
+wavs/common_voice_nan-tw_32163059.wav|nan_tw_spk1|褪褲拍的（thǹg khòo phah--ê）
+wavs/common_voice_nan-tw_32163060.wav|nan_tw_spk1|閃袂離（siám-bē-lī | siám-buē-lī）
+wavs/common_voice_nan-tw_32163061.wav|nan_tw_spk1|見鬼司公白賊戲（kìnn kuí sai-kong pe̍h-tsha̍t hì）
+wavs/common_voice_nan-tw_32163072.wav|nan_tw_spk1|點心擔（tiám-sim-tànn）
+wavs/common_voice_nan-tw_32163073.wav|nan_tw_spk1|坐咧食，倒咧放（tsē leh tsia̍h tó leh pàng）
+wavs/common_voice_nan-tw_32163074.wav|nan_tw_spk1|鹹死死（kiâm-sí-sí）
+wavs/common_voice_nan-tw_32163075.wav|nan_tw_spk1|十份（Tsa̍p-hūn | Cha̍p-hūn）
+wavs/common_voice_nan-tw_32163076.wav|nan_tw_spk1|正月初四（tsiann-gue̍h tshe-sù）
+wavs/common_voice_nan-tw_32163092.wav|nan_tw_spk1|按呢做一日歇一日（Án-ne tsò tsi̍t ji̍t hioh tsi̍t ji̍t）
+wavs/common_voice_nan-tw_32163093.wav|nan_tw_spk1|余天（Û Thian）
+wavs/common_voice_nan-tw_32163094.wav|nan_tw_spk1|汐止區（Si̍k-tsí-khu）
+wavs/common_voice_nan-tw_32163095.wav|nan_tw_spk1|臺羅拼音（Tâi-lô phing-im）
+wavs/common_voice_nan-tw_32163096.wav|nan_tw_spk1|向望（ǹg-bāng）
+wavs/common_voice_nan-tw_32163102.wav|nan_tw_spk1|數獨（sóo-to̍k | sòo-to̍k）
+wavs/common_voice_nan-tw_32163103.wav|nan_tw_spk1|乙狀結腸 （it-tsōng-kiat-tn̂g）
+wavs/common_voice_nan-tw_32163104.wav|nan_tw_spk1|粉間（hún-king）
+wavs/common_voice_nan-tw_32163105.wav|nan_tw_spk1|跑馬（pháu-má）
+wavs/common_voice_nan-tw_32163106.wav|nan_tw_spk1|鐵甲蚵仔（Thih-kah-ô-á）
+wavs/common_voice_nan-tw_32163112.wav|nan_tw_spk1|雙湖國小（Siang-ôo-kok-sió | Siang-ô͘-kok-sió）
+wavs/common_voice_nan-tw_32163113.wav|nan_tw_spk1|雨傘樹（hōo-suànn tshiū）
+wavs/common_voice_nan-tw_32163114.wav|nan_tw_spk1|車幫（tshia-pang）
+wavs/common_voice_nan-tw_32163115.wav|nan_tw_spk1|興福（Hing-hok）
+wavs/common_voice_nan-tw_32163116.wav|nan_tw_spk1|拍噗仔（phah-phòo--á）
+wavs/common_voice_nan-tw_32163117.wav|nan_tw_spk1|拚力（piànn-la̍t）
+wavs/common_voice_nan-tw_32163118.wav|nan_tw_spk1|遮食（tsia tsia̍h）
+wavs/common_voice_nan-tw_32163119.wav|nan_tw_spk1|下蟶下蚵，到時攏無 （hē than hē ô, kàu-sî lóng-bô）
+wavs/common_voice_nan-tw_32163120.wav|nan_tw_spk1|鑿枷家己夯（Tsha̍k-kê ka-tī giâ）
+wavs/common_voice_nan-tw_32163121.wav|nan_tw_spk1|湯匙狐（Thng-sî-kuài）
+wavs/common_voice_nan-tw_32163122.wav|nan_tw_spk1|石駁（tsio̍h-poh）
+wavs/common_voice_nan-tw_32163123.wav|nan_tw_spk1|囡仔嬰（gín-á-enn）
+wavs/common_voice_nan-tw_32163124.wav|nan_tw_spk1|高鐵站（ko-thih-tsām）
+wavs/common_voice_nan-tw_32163125.wav|nan_tw_spk1|保同陂（Pó-tông-pi）
+wavs/common_voice_nan-tw_32163126.wav|nan_tw_spk1|火犁仔（hué-lê-á）
+wavs/common_voice_nan-tw_32163127.wav|nan_tw_spk1|石碇磅空（Tsio̍h-tiânn Pōng-khang）
+wavs/common_voice_nan-tw_32163128.wav|nan_tw_spk1|核子武器（hi̍k-tsú bú-khì）
+wavs/common_voice_nan-tw_32163129.wav|nan_tw_spk1|花蓮（Hua-liân）
+wavs/common_voice_nan-tw_32163130.wav|nan_tw_spk1|青潭（Tshing-thâm | Chheng-thâm）
+wavs/common_voice_nan-tw_32163131.wav|nan_tw_spk1|興華國小（Hìng-huâ Kok-sió）
+wavs/common_voice_nan-tw_32163132.wav|nan_tw_spk1|木柵國中（Ba̍k-sa Kok-tiong）
+wavs/common_voice_nan-tw_32163133.wav|nan_tw_spk1|魚丸米粉（hî-uân bí-hún）
+wavs/common_voice_nan-tw_32163134.wav|nan_tw_spk1|攏有（lóng ū）
+wavs/common_voice_nan-tw_32163135.wav|nan_tw_spk1|拍頭子（phah-thâu-tsí）
+wavs/common_voice_nan-tw_32163136.wav|nan_tw_spk1|龍騰（Liông-thîng | Liông-thêng）
+wavs/common_voice_nan-tw_32163137.wav|nan_tw_spk1|十全十美 （si̍p tsuân si̍p bí）
+wavs/common_voice_nan-tw_32163138.wav|nan_tw_spk1|假的（ké--ê）
+wavs/common_voice_nan-tw_32163139.wav|nan_tw_spk1|液晶螢幕（ik-tsing îng-bōo）
+wavs/common_voice_nan-tw_32163140.wav|nan_tw_spk1|我佮意你（guá kah-ì lí）
+wavs/common_voice_nan-tw_32163141.wav|nan_tw_spk1|四枝釘仔未霆毋知哭（sì-ki ting-á bē tân m̄ tsai khàu）
+wavs/common_voice_nan-tw_32163157.wav|nan_tw_spk1|中正國民中小（Tiong-tsìng Kok-tiong-sió）
+wavs/common_voice_nan-tw_32163158.wav|nan_tw_spk1|茂谷柑（Bōo-kok-kam）
+wavs/common_voice_nan-tw_32163159.wav|nan_tw_spk1|拭桌仔（tshit toh-á）
+wavs/common_voice_nan-tw_32163160.wav|nan_tw_spk1|度針（tōo-tsiam）
+wavs/common_voice_nan-tw_32163161.wav|nan_tw_spk1|日子未到，不是天道無報（ji̍t-tsí bī tò put sī thian tō bô pò）
+wavs/common_voice_nan-tw_32163174.wav|nan_tw_spk1|坑仔（khenn-á）
+wavs/common_voice_nan-tw_32163176.wav|nan_tw_spk1|種芋仔（tsiòng-ōo-á）
+wavs/common_voice_nan-tw_32163177.wav|nan_tw_spk1|噴瀾（phùn-nuā）
+wavs/common_voice_nan-tw_32163178.wav|nan_tw_spk1|滿洋直蓋（muá-iûnn-ti̍t-kài）
+wavs/common_voice_nan-tw_32163179.wav|nan_tw_spk1|民權路（Bîn-khuân-lōo）
+wavs/common_voice_nan-tw_32163182.wav|nan_tw_spk1|後閘（āu-tsa̍h）
+wavs/common_voice_nan-tw_32163183.wav|nan_tw_spk1|吐谷渾（Thóo-kio̍k-hûn）
+wavs/common_voice_nan-tw_32163184.wav|nan_tw_spk1|慢速野球（bān-sok iá-kiû）
+wavs/common_voice_nan-tw_32163185.wav|nan_tw_spk1|薅菜（khau-tshài）
+wavs/common_voice_nan-tw_32163186.wav|nan_tw_spk1|陳盈潔（Tân Îng-kiat）
+wavs/common_voice_nan-tw_32163195.wav|nan_tw_spk1|做臭頭雞仔（tsò-tshàu-thâu-ke-á）
+wavs/common_voice_nan-tw_32163196.wav|nan_tw_spk1|中深烘（tiong-tshim-hang）
+wavs/common_voice_nan-tw_32163197.wav|nan_tw_spk1|掠交替（Lia̍h-kau-thè）
+wavs/common_voice_nan-tw_32163198.wav|nan_tw_spk1|烏片（oo-phìnn）
+wavs/common_voice_nan-tw_32163199.wav|nan_tw_spk1|無兩人相親像 （bô nn̄g-lâng sio-tshin-tshiūnn）
+wavs/common_voice_nan-tw_32163211.wav|nan_tw_spk1|毋知進退（m̄ tsai tsìn-thè | mt-sai tsìn-thè）
+wavs/common_voice_nan-tw_32163212.wav|nan_tw_spk1|雨水（í-suí）
+wavs/common_voice_nan-tw_32163213.wav|nan_tw_spk1|孤人房（koo-lâng-pâng）
+wavs/common_voice_nan-tw_32163214.wav|nan_tw_spk1|六甲頂（La̍k-kah-tíng-á | La̍k-kah-téng-á）
+wavs/common_voice_nan-tw_32163215.wav|nan_tw_spk1|蝴蝶泅（ôo-tia̍p-siû）
+wavs/common_voice_nan-tw_32163221.wav|nan_tw_spk1|驚掣（kiann-tshuah）
+wavs/common_voice_nan-tw_32163222.wav|nan_tw_spk1|塗蜂仔（thôo-phang-á）
+wavs/common_voice_nan-tw_32163223.wav|nan_tw_spk1|細百（sè-pah）
+wavs/common_voice_nan-tw_32163224.wav|nan_tw_spk1|鐵牛車（thih-gû-tshia）
+wavs/common_voice_nan-tw_32163225.wav|nan_tw_spk1|倚欲（uá-beh）
+wavs/common_voice_nan-tw_32163228.wav|nan_tw_spk1|高雄（Ko-hiông）
+wavs/common_voice_nan-tw_32163229.wav|nan_tw_spk1|有影有跡（ū-iánn-ū-tsiah）
+wavs/common_voice_nan-tw_32163230.wav|nan_tw_spk1|珠（tsu）
+wavs/common_voice_nan-tw_32163231.wav|nan_tw_spk1|輜物機（tsu-mi̍h-ki）
+wavs/common_voice_nan-tw_32163232.wav|nan_tw_spk1|愛新覺羅（Ài-sin-kak-lô）
+wavs/common_voice_nan-tw_32163236.wav|nan_tw_spk1|唐人街（tông-jîn-ke）
+wavs/common_voice_nan-tw_32163237.wav|nan_tw_spk1|電火（tiān-hér）
+wavs/common_voice_nan-tw_32163238.wav|nan_tw_spk1|洗錢（sé-tsînn）
+wavs/common_voice_nan-tw_32163239.wav|nan_tw_spk1|覓搭覓搭（bā-tah bā-tah）
+wavs/common_voice_nan-tw_32163240.wav|nan_tw_spk1|四方金（sù-hong-kim）
+wavs/common_voice_nan-tw_32163245.wav|nan_tw_spk1|飼水（tshī-tsuí）
+wavs/common_voice_nan-tw_32163246.wav|nan_tw_spk1|是毋是（sī m̄ sī）
+wavs/common_voice_nan-tw_32163247.wav|nan_tw_spk1|火雞肉飯（hué-ke-bah-pn̄g）
+wavs/common_voice_nan-tw_32163248.wav|nan_tw_spk1|千言萬語 （tshian giân bān gí）
+wavs/common_voice_nan-tw_32163249.wav|nan_tw_spk1|戰狼（tsiàn-lông）
+wavs/common_voice_nan-tw_32163251.wav|nan_tw_spk1|用心計較（iōng-sim-kè-kàu）
+wavs/common_voice_nan-tw_32163252.wav|nan_tw_spk1|船仔草（tsûn-á tsháu）
+wavs/common_voice_nan-tw_32163253.wav|nan_tw_spk1|東石（Tang-tsio̍h）
+wavs/common_voice_nan-tw_32163254.wav|nan_tw_spk1|煞經（suah-king）
+wavs/common_voice_nan-tw_32163261.wav|nan_tw_spk1|蘆趵（lôo tà）
+wavs/common_voice_nan-tw_32163285.wav|nan_tw_spk1|捽土地（sut thóo-tē）
+wavs/common_voice_nan-tw_32163286.wav|nan_tw_spk1|大葉校栗 （ttuā-hio̍h kàu la̍t）
+wavs/common_voice_nan-tw_32163287.wav|nan_tw_spk1|哭爸（khàu-pē）
+wavs/common_voice_nan-tw_32163288.wav|nan_tw_spk1|聖佛無分大細身（siànn hu̍t bô-hun tuā-sè sin）
+wavs/common_voice_nan-tw_32163289.wav|nan_tw_spk1|入眠 （ji̍p-bîn）
+wavs/common_voice_nan-tw_32163300.wav|nan_tw_spk1|女同志 （lú-tông-tsì）
+wavs/common_voice_nan-tw_32163301.wav|nan_tw_spk1|喙角（tshuì-kak）
+wavs/common_voice_nan-tw_32163302.wav|nan_tw_spk1|自由之戰（Tsū-iû-tsi-tsiàn）
+wavs/common_voice_nan-tw_32163303.wav|nan_tw_spk1|厚洘（kāu-khó）
+wavs/common_voice_nan-tw_32163304.wav|nan_tw_spk1|一粒一 （it-lia̍p-it）
+wavs/common_voice_nan-tw_32163305.wav|nan_tw_spk1|沉水艦（tîm-tsúi-lām）
+wavs/common_voice_nan-tw_32163306.wav|nan_tw_spk1|播箍仔（pòo khoo-á）
+wavs/common_voice_nan-tw_32163307.wav|nan_tw_spk1|夏哈烏（hā-ha-oo）
+wavs/common_voice_nan-tw_32163308.wav|nan_tw_spk1|郵送投票（iû-sàng tâu-phiò）
+wavs/common_voice_nan-tw_32163309.wav|nan_tw_spk1|毋是款（m̄ sī khuán）
+wavs/common_voice_nan-tw_32163312.wav|nan_tw_spk1|火杜伯（Hué-tōo-peh）
+wavs/common_voice_nan-tw_32163313.wav|nan_tw_spk1|失眠（sit-bîn）
+wavs/common_voice_nan-tw_32163314.wav|nan_tw_spk1|桃志其（Thô-tsì-kî）
+wavs/common_voice_nan-tw_32163315.wav|nan_tw_spk1|突勉（Tu̍t-bián）
+wavs/common_voice_nan-tw_32163317.wav|nan_tw_spk1|亥在亥在（hāi-tsāi-hāi-tsāi）
+wavs/common_voice_nan-tw_32163330.wav|nan_tw_spk1|高血油（ko hueh-iû | ko-hiat-iû）
+wavs/common_voice_nan-tw_32163331.wav|nan_tw_spk1|火燒厝（Hué-sio-tshù）
+wavs/common_voice_nan-tw_32163332.wav|nan_tw_spk1|風說（hong-suat | hong-seh）
+wavs/common_voice_nan-tw_32163333.wav|nan_tw_spk1|新北大都會公園（Sin-pak-tuā-too-huē-kong-hn̂g）
+wavs/common_voice_nan-tw_32163334.wav|nan_tw_spk1|跤頭腕（kha-thâu-uánn）
+wavs/common_voice_nan-tw_32163344.wav|nan_tw_spk1|廟公（biō-kong）
+wavs/common_voice_nan-tw_32163345.wav|nan_tw_spk1|索仔小?咧就會使（Soh-á sió hân--leh tō ē-sái）
+wavs/common_voice_nan-tw_32163346.wav|nan_tw_spk1|母身獨身（bó-sin-to̍k-sin）
+wavs/common_voice_nan-tw_32163347.wav|nan_tw_spk1|芳苑鄉（Hong-oán-hiong）
+wavs/common_voice_nan-tw_32163348.wav|nan_tw_spk1|起塗龍（khí-thôo-liông | khí-thôo-lîng）
+wavs/common_voice_nan-tw_32163368.wav|nan_tw_spk1|出頭（tshut-thâu）
+wavs/common_voice_nan-tw_32163369.wav|nan_tw_spk1|水碓仔（Tsuí-tuì-á | Chúi-tùi-á）
+wavs/common_voice_nan-tw_32163370.wav|nan_tw_spk1|水圳仔（tsuí-tsún-á）
+wavs/common_voice_nan-tw_32163371.wav|nan_tw_spk1|雞仔咯咯叫（Ke-á kok-kok-kiò）
+wavs/common_voice_nan-tw_32163372.wav|nan_tw_spk1|阿百尼（A-pah-nî）
+wavs/common_voice_nan-tw_32163383.wav|nan_tw_spk1|埔里站（Poo-lí-tsām | Po͘-lí-chām）
+wavs/common_voice_nan-tw_32163384.wav|nan_tw_spk1|辛亥（Sin-hāi）
+wavs/common_voice_nan-tw_32163385.wav|nan_tw_spk1|蹂躪（jiú-līn）
+wavs/common_voice_nan-tw_32163387.wav|nan_tw_spk1|無啥物（bô-siánn-mi̍h）
+wavs/common_voice_nan-tw_32163399.wav|nan_tw_spk1|投影燈（tâu-iánn-ting）
+wavs/common_voice_nan-tw_32163400.wav|nan_tw_spk1|建安國小（Kiàn-an Kok-sió）
+wavs/common_voice_nan-tw_32163401.wav|nan_tw_spk1|㪉紙機（kap-tsuá-ki）
+wavs/common_voice_nan-tw_32163402.wav|nan_tw_spk1|白頭偕老（pi̍k-thiô-kai-ló | pi̍k-thiô-kai-nóo）
+wavs/common_voice_nan-tw_32163403.wav|nan_tw_spk1|三改 （sann kái）
+wavs/common_voice_nan-tw_32163429.wav|nan_tw_spk1|人心不足蛇吞象 （jîn-sim put-tsiok siâ thun tshiūnn）
+wavs/common_voice_nan-tw_32163430.wav|nan_tw_spk1|蘇格蘭（Soo-keh-lân）
+wavs/common_voice_nan-tw_32163431.wav|nan_tw_spk1|松河街（Siong-hô-ke）
+wavs/common_voice_nan-tw_32163432.wav|nan_tw_spk1|反粒子（huán-lia̍p-tsú）
+wavs/common_voice_nan-tw_32163433.wav|nan_tw_spk1|統埔（Thóng-poo | Thóng-po͘）
+wavs/common_voice_nan-tw_32163439.wav|nan_tw_spk1|三福街（Sann-hok-kue | Saⁿ-hok-koe）
+wavs/common_voice_nan-tw_32163440.wav|nan_tw_spk1|膃肭（Ut-lut）
+wavs/common_voice_nan-tw_32163441.wav|nan_tw_spk1|高雄的九龍殯儀館（Ko-hiông--ê Kiú-liông Pin-gî-kuán）
+wavs/common_voice_nan-tw_32163442.wav|nan_tw_spk1|一捲 （tsi̍t kńg）
+wavs/common_voice_nan-tw_32163443.wav|nan_tw_spk1|橫切面（huâinn-tshiat-bīn）
+wavs/common_voice_nan-tw_32163459.wav|nan_tw_spk1|恭喜發財（kiong-hí-huat-tsâi）
+wavs/common_voice_nan-tw_32163460.wav|nan_tw_spk1|大湖公園（Tuā-ôo Kong-hn̂g）
+wavs/common_voice_nan-tw_32163461.wav|nan_tw_spk1|涵空肥龜（ām-khang-puî-ku）
+wavs/common_voice_nan-tw_32163462.wav|nan_tw_spk1|明年（muâ-nî）
+wavs/common_voice_nan-tw_32163463.wav|nan_tw_spk1|頂崙尾（Tíng-lūn-bé | Téng-lūn-bé）
+wavs/common_voice_nan-tw_32163466.wav|nan_tw_spk1|仁德區（Jîn-tik-khu）
+wavs/common_voice_nan-tw_32163467.wav|nan_tw_spk1|惜命（sioh-miā）
+wavs/common_voice_nan-tw_32163468.wav|nan_tw_spk1|才袂予人看無目地（Tsiah bē hōo lâng khuànn-bô ba̍k-tē）
+wavs/common_voice_nan-tw_32163469.wav|nan_tw_spk1|變啥蠓（pìnn-siànn-báng）
+wavs/common_voice_nan-tw_32163470.wav|nan_tw_spk1|實作（si̍t-tsoh）
+wavs/common_voice_nan-tw_32163473.wav|nan_tw_spk1|南苗派出所（Lâm-biâu Phài-tshut-sóo | Lâm-biâu Phài-chhut-só͘）
+wavs/common_voice_nan-tw_32163488.wav|nan_tw_spk1|周柏雅（Tsiu Pek-ngá）
+wavs/common_voice_nan-tw_32163489.wav|nan_tw_spk1|大頭家 （tuā-thâu-ke）
+wavs/common_voice_nan-tw_32163490.wav|nan_tw_spk1|新店溪（Sin-tiàm-khue）
+wavs/common_voice_nan-tw_32163491.wav|nan_tw_spk1|田椪花（tshân-phòng-hue）
+wavs/common_voice_nan-tw_32163492.wav|nan_tw_spk1|萬壽無疆（bān-siū-bû-kiong）
+wavs/common_voice_nan-tw_32163500.wav|nan_tw_spk1|一步差，步步差 （tsi̍t-pōo tsha, pōo-pōo tsha）
+wavs/common_voice_nan-tw_32163501.wav|nan_tw_spk1|品明（phín-bîng）
+wavs/common_voice_nan-tw_32163502.wav|nan_tw_spk1|十年修得同船渡 （si̍p liân siu tik tông tsûn tōo）
+wavs/common_voice_nan-tw_32163503.wav|nan_tw_spk1|人中齒 （jîn-tiong-khí）
+wavs/common_voice_nan-tw_32163504.wav|nan_tw_spk1|薰尾（hun-bué | bé）
+wavs/common_voice_nan-tw_32163510.wav|nan_tw_spk1|鐵枋燒（thih-pang-sio）
+wavs/common_voice_nan-tw_32163511.wav|nan_tw_spk1|白蝦（Pe̍h-hê）
+wavs/common_voice_nan-tw_32163512.wav|nan_tw_spk1|我遮（guá tsia）
+wavs/common_voice_nan-tw_32163513.wav|nan_tw_spk1|仙岩公園（Sian-giâm Kong-hn̂g）
+wavs/common_voice_nan-tw_32163514.wav|nan_tw_spk1|甌底亞賴（Au-té-a-luā）
+wavs/common_voice_nan-tw_32169532.wav|nan_tw_spk1|蝦仔兵，草蜢將（hê-á-ping, tsháu-me̍h-tsiòng）
+wavs/common_voice_nan-tw_32169533.wav|nan_tw_spk1|蟬蠳（siân-ni）
+wavs/common_voice_nan-tw_32169534.wav|nan_tw_spk1|伊生做較幼骨（I senn-tsò khah iù-kut）
+wavs/common_voice_nan-tw_32169535.wav|nan_tw_spk1|血蚶（huih-ham）
+wavs/common_voice_nan-tw_32169536.wav|nan_tw_spk1|國立臺灣大學（Kok-li̍p-tâi-uân-tāi-ha̍k）
+wavs/common_voice_nan-tw_32169567.wav|nan_tw_spk1|和尚洲（Huê-siūnn-tsiu | Hê-siūnn-tsiu）
+wavs/common_voice_nan-tw_32169568.wav|nan_tw_spk1|斜lui（tshiâ-lui）
+wavs/common_voice_nan-tw_32169569.wav|nan_tw_spk1|唐詩三百首（Tông-si Sam-pik-siú）
+wavs/common_voice_nan-tw_32169570.wav|nan_tw_spk1|噷噷（hm̍h-hm̍h）
+wavs/common_voice_nan-tw_32169571.wav|nan_tw_spk1|草踏（tsháu-ta̍h）
+wavs/common_voice_nan-tw_32169587.wav|nan_tw_spk1|廟前（Biō-tsîng | Biō-chêng）
+wavs/common_voice_nan-tw_32169588.wav|nan_tw_spk1|三興國小（Sann-hing Kok-sió）
+wavs/common_voice_nan-tw_32169589.wav|nan_tw_spk1|工倍功半 （kang-puē-kong-puànn）
+wavs/common_voice_nan-tw_32169590.wav|nan_tw_spk1|漩民（suān-bîn | suan-bîn）
+wavs/common_voice_nan-tw_32169591.wav|nan_tw_spk1|想空想縫（siūnn-khang-siūnn-phāng）
+wavs/common_voice_nan-tw_32169597.wav|nan_tw_spk1|無影無隻（bû-iánn-bû-tsiah）
+wavs/common_voice_nan-tw_32169598.wav|nan_tw_spk1|瓷仔店（huî-á-tiàm）
+wavs/common_voice_nan-tw_32169599.wav|nan_tw_spk1|輝（hui）
+wavs/common_voice_nan-tw_32169600.wav|nan_tw_spk1|跤頭趺碗（kha-thâu-u-uánn）
+wavs/common_voice_nan-tw_32169601.wav|nan_tw_spk1|豬仔過槽芳（ti-á kuè-tsô phang）
+wavs/common_voice_nan-tw_32169607.wav|nan_tw_spk1|有囡仔（ū-gín-á）
+wavs/common_voice_nan-tw_32169610.wav|nan_tw_spk1|比比鳥（Pí-pí-tsiáu）
+wavs/common_voice_nan-tw_32169612.wav|nan_tw_spk1|景山溪（Kíng-suann-khe | Kéng-soaⁿ-khe）
+wavs/common_voice_nan-tw_32169613.wav|nan_tw_spk1|世運（Sè-ūn）
+wavs/common_voice_nan-tw_32169615.wav|nan_tw_spk1|啡啡子（pi-pi-á）
+wavs/common_voice_nan-tw_32169621.wav|nan_tw_spk1|祝山（Tsiok-suann | Chiok-soaⁿ）
+wavs/common_voice_nan-tw_32169622.wav|nan_tw_spk1|五跤趖出來（gōo-kha-sô--tshut-lâi）
+wavs/common_voice_nan-tw_32169623.wav|nan_tw_spk1|美麗島（Bí-lē-tó）
+wavs/common_voice_nan-tw_32169624.wav|nan_tw_spk1|禽胸肉（khîm-hing-bah）
+wavs/common_voice_nan-tw_32169625.wav|nan_tw_spk1|袂呵咾得（bē o-ló tit）
+wavs/common_voice_nan-tw_32169646.wav|nan_tw_spk1|將軍澳（Tsiang-kun-ò | Tsiong-kun-ò）
+wavs/common_voice_nan-tw_32169647.wav|nan_tw_spk1|海䖳（hái-thē）
+wavs/common_voice_nan-tw_32169648.wav|nan_tw_spk1|有來有往（ū lâi ū óng）
+wavs/common_voice_nan-tw_32169649.wav|nan_tw_spk1|茄苳（Ka-tang）
+wavs/common_voice_nan-tw_32169650.wav|nan_tw_spk1|雌雄眼（tshú hiông gán）
+wavs/common_voice_nan-tw_32169661.wav|nan_tw_spk1|海刺龍（Hái-tshì-liông）
+wavs/common_voice_nan-tw_32169662.wav|nan_tw_spk1|去睏（khì-khùn）
+wavs/common_voice_nan-tw_32169663.wav|nan_tw_spk1|萬榮鄉（Bān-êng-hiong）
+wavs/common_voice_nan-tw_32169664.wav|nan_tw_spk1|虛華（hi-hua）
+wavs/common_voice_nan-tw_32169665.wav|nan_tw_spk1|豪（hô）
+wavs/common_voice_nan-tw_32169671.wav|nan_tw_spk1|滿地金錢（buán tē kim-tsînn）
+wavs/common_voice_nan-tw_32169672.wav|nan_tw_spk1|有賰錢轉來無？（ū tshun-tsînn tńg--lâi--bô?）
+wavs/common_voice_nan-tw_32169673.wav|nan_tw_spk1|樹獺（tshiū-thuah）
+wavs/common_voice_nan-tw_32169674.wav|nan_tw_spk1|事件視界召鏡（sū-kiānn-sī-kài tiàu-kiànn）
+wavs/common_voice_nan-tw_32169675.wav|nan_tw_spk1|按會（án-huē）
+wavs/common_voice_nan-tw_32169681.wav|nan_tw_spk1|駐水（tū-tsuí）
+wavs/common_voice_nan-tw_32169682.wav|nan_tw_spk1|禮記（Lé-kì）
+wavs/common_voice_nan-tw_32169683.wav|nan_tw_spk1|塗葛窟港（Thôo-kat-khut káng）
+wavs/common_voice_nan-tw_32169684.wav|nan_tw_spk1|猴桃仔（kâu-thô-á）
+wavs/common_voice_nan-tw_32169685.wav|nan_tw_spk1|信義國小（Sìn-gī Kok-sió）
+wavs/common_voice_nan-tw_32169691.wav|nan_tw_spk1|無聲無說（bô-siann-bô-seh）
+wavs/common_voice_nan-tw_32169692.wav|nan_tw_spk1|挈批的（khe̍h phue--ê）
+wavs/common_voice_nan-tw_32169693.wav|nan_tw_spk1|有來有去（ū lâi ū khì）
+wavs/common_voice_nan-tw_32169694.wav|nan_tw_spk1|攑鼓仔扇去（gia̍h kóo-á-sìnn khì）
+wavs/common_voice_nan-tw_32169695.wav|nan_tw_spk1|萬弩箭齊發（bān lóo tsìnn tsê huat）
+wavs/common_voice_nan-tw_32169701.wav|nan_tw_spk1|喙?（tshuì-tshio）
+wavs/common_voice_nan-tw_32169702.wav|nan_tw_spk1|擔仔車（tànn-á-tshia）
+wavs/common_voice_nan-tw_32169703.wav|nan_tw_spk1|頭子（thâu-jí）
+wavs/common_voice_nan-tw_32169704.wav|nan_tw_spk1|催速的（tsui-sok--ê）
+wavs/common_voice_nan-tw_32169705.wav|nan_tw_spk1|無代無誌（bô-tāi-bô-tsì）
+wavs/common_voice_nan-tw_32169730.wav|nan_tw_spk1|雪花（seh-hue）
+wavs/common_voice_nan-tw_32169731.wav|nan_tw_spk1|澹巾仔（tâm-kin-á | tâm-kun-á）
+wavs/common_voice_nan-tw_32169732.wav|nan_tw_spk1|單草一糊（tan-tsháu tsi̍t kôo）
+wavs/common_voice_nan-tw_32169733.wav|nan_tw_spk1|三年的狗屎乾，提來做月半 （sann-nî ê káu-sái kuann, the̍h-lâi tsò gue̍h-puànn）
+wavs/common_voice_nan-tw_32169734.wav|nan_tw_spk1|薑水（kiunn-tsuí）
+wavs/common_voice_nan-tw_32169740.wav|nan_tw_spk1|草鞋蟲（tsháu-ê-thâng）
+wavs/common_voice_nan-tw_32169741.wav|nan_tw_spk1|破無，天光（phuà bô, thinn-kng）
+wavs/common_voice_nan-tw_32169742.wav|nan_tw_spk1|吉安（Kiat-an）
+wavs/common_voice_nan-tw_32169743.wav|nan_tw_spk1|隨人的物件，隨人做記號（Suî lâng ê mi̍h-kiānn, suî lâng tsò kì-hō）
+wavs/common_voice_nan-tw_32169744.wav|nan_tw_spk1|啥物時陣（siánn-mih sî-tsūn）
+wavs/common_voice_nan-tw_32169745.wav|nan_tw_spk1|紅菇蟳（Âng-koo-tsîm）
+wavs/common_voice_nan-tw_32169746.wav|nan_tw_spk1|王如玄（Ông Lû-hiân | Ông Jû-hiân）
+wavs/common_voice_nan-tw_32169747.wav|nan_tw_spk1|護理系（hōo-lí-hē）
+wavs/common_voice_nan-tw_32169748.wav|nan_tw_spk1|一無所長 （it-bû-sóo-tiông）
+wavs/common_voice_nan-tw_32169749.wav|nan_tw_spk1|濟水濟豆腐，濟囝濟新婦（tsē tsuí tsē tāu-hū tsē kiánn tsē sin-pū）
+wavs/common_voice_nan-tw_32169750.wav|nan_tw_spk1|拜五（pài-gōo）
+wavs/common_voice_nan-tw_32169751.wav|nan_tw_spk1|七十二坎（Tshit-tsa̍p-jī-khám）
+wavs/common_voice_nan-tw_32169752.wav|nan_tw_spk1|林政則（Lîm Tsèng-tsik）
+wavs/common_voice_nan-tw_32169753.wav|nan_tw_spk1|堉琪橋（Io̍k-kî-kiô）
+wavs/common_voice_nan-tw_32169754.wav|nan_tw_spk1|大葉九重炊 （tuā-hio̍h káu-tîng-tshue）
+wavs/common_voice_nan-tw_32169755.wav|nan_tw_spk1|九如 （Kiú-jû | Kiú-lû）
+wavs/common_voice_nan-tw_32169756.wav|nan_tw_spk1|臺北市立第一女子高級中學（Tâi-pak Tshī-li̍p Tē-it Lú-tsú Ko-kip-tiong-ha̍k）
+wavs/common_voice_nan-tw_32169757.wav|nan_tw_spk1|亂使講（luān-sú kóng）
+wavs/common_voice_nan-tw_32169758.wav|nan_tw_spk1|走精（tsáu-tsing）
+wavs/common_voice_nan-tw_32169759.wav|nan_tw_spk1|總有一工，我一定會成功（Tsóng-ū tsi̍t kang, guá it-tīng ē sîng-kong）
+wavs/common_voice_nan-tw_32169760.wav|nan_tw_spk1|媽祖魚（Má-tsóo-hî）
+wavs/common_voice_nan-tw_32169761.wav|nan_tw_spk1|拍人無風神（phah-lâng bô-hong-sîn）
+wavs/common_voice_nan-tw_32169762.wav|nan_tw_spk1|膨肚短命（phòng-tōo-té-miā）
+wavs/common_voice_nan-tw_32169763.wav|nan_tw_spk1|八仙圳（Pat-sian-chùn）
+wavs/common_voice_nan-tw_32169764.wav|nan_tw_spk1|叨甪（lo-lut）
+wavs/common_voice_nan-tw_32169765.wav|nan_tw_spk1|買物（bé-bu̍t）
+wavs/common_voice_nan-tw_32169766.wav|nan_tw_spk1|飛行機埕（hue-lîng-ki-tiânn）
+wavs/common_voice_nan-tw_32169767.wav|nan_tw_spk1|幸安國小（Hìng-an Kok-sió）
+wavs/common_voice_nan-tw_32169768.wav|nan_tw_spk1|有兩步七仔（ū--nn̄g-pōo-tshit-á）
+wavs/common_voice_nan-tw_32169769.wav|nan_tw_spk1|鴨母王來到水尾寮（ah-bó-ông lâi-kàu tsuí-bué-liâu）
+wavs/common_voice_nan-tw_32169770.wav|nan_tw_spk1|羅斯福路大客車專用道（Lô-su-hok-lōo Tuā-kheh-tshia tsuan-īng-tō）
+wavs/common_voice_nan-tw_32169771.wav|nan_tw_spk1|僥行喔（hiau-hīng--ooh）
+wavs/common_voice_nan-tw_32169772.wav|nan_tw_spk1|娶新娘（tshuā-sin-niû）
+wavs/common_voice_nan-tw_32169773.wav|nan_tw_spk1|下橛 （ē-kue̍h）
+wavs/common_voice_nan-tw_32169774.wav|nan_tw_spk1|余清芳（Û Tshing-hong）
+wavs/common_voice_nan-tw_32169775.wav|nan_tw_spk1|跤腕（kha-uánn）
+wavs/common_voice_nan-tw_32169776.wav|nan_tw_spk1|暗安台灣（àm-an Tâi-uân）
+wavs/common_voice_nan-tw_32169777.wav|nan_tw_spk1|地味（tē-bī）
+wavs/common_voice_nan-tw_32169778.wav|nan_tw_spk1|刺虯（tshì-khiû）
+wavs/common_voice_nan-tw_32169779.wav|nan_tw_spk1|樹葬（tshiū-tsòng）
+wavs/common_voice_nan-tw_32169790.wav|nan_tw_spk1|大主大意 （tuā-tsú-tuā-ì）
+wavs/common_voice_nan-tw_32169791.wav|nan_tw_spk1|下崙尾（Hā-lūn-bué）
+wavs/common_voice_nan-tw_32169792.wav|nan_tw_spk1|徛名（khiā-miâ）
+wavs/common_voice_nan-tw_32169793.wav|nan_tw_spk1|十叮嚀，八吩咐 （tsa̍p ting-lîng peh huan-hù | tsa̍p ting-lîng pueh huan-hù）
+wavs/common_voice_nan-tw_32169794.wav|nan_tw_spk1|數碼翕相機（sòo-má hip-siòng-ki）
+wavs/common_voice_nan-tw_32169800.wav|nan_tw_spk1|薁蕘（ò-giô）
+wavs/common_voice_nan-tw_32169801.wav|nan_tw_spk1|崎路（kiā-lōo）
+wavs/common_voice_nan-tw_32169807.wav|nan_tw_spk1|番仔坑（Huan-á-khenn）
+wavs/common_voice_nan-tw_32169808.wav|nan_tw_spk1|極光（ki̍k-kng）
+wavs/common_voice_nan-tw_32169814.wav|nan_tw_spk1|十股（Tsa̍p-kóo | Cha̍p-kó͘）
+wavs/common_voice_nan-tw_32169820.wav|nan_tw_spk1|數碼（sòo-bé | sòo-má）
+wavs/common_voice_nan-tw_32169821.wav|nan_tw_spk1|所辦（sóo-pān）
+wavs/common_voice_nan-tw_32169822.wav|nan_tw_spk1|冬帽（tang-bō）
+wavs/common_voice_nan-tw_32169823.wav|nan_tw_spk1|鼻流沓滴（phīnn-lâu ta̍p-tih）
+wavs/common_voice_nan-tw_32169824.wav|nan_tw_spk1|霧峰區（Bū-hong-khu）
+wavs/common_voice_nan-tw_32169830.wav|nan_tw_spk1|開源人（khai-guân-lâng）
+wavs/common_voice_nan-tw_32169831.wav|nan_tw_spk1|陽光峇里（Iông-kong Pa-lí）
+wavs/common_voice_nan-tw_32169832.wav|nan_tw_spk1|土地公錢 （thóo-tē-kong-tsînn）
+wavs/common_voice_nan-tw_32169833.wav|nan_tw_spk1|消牽頭（siau-khan-thâu）
+wavs/common_voice_nan-tw_32169834.wav|nan_tw_spk1|吳園藝文中心（Ngôo-uân Gē-bûn Tiong-sim）
+wavs/common_voice_nan-tw_32169845.wav|nan_tw_spk1|竹嵩嶺橋（Tek-siong-niá-kiô）
+wavs/common_voice_nan-tw_32169846.wav|nan_tw_spk1|敢若捌看過（kán-ná bat khuànn--kuè | kán-ná pat khuànn--kuè）
+wavs/common_voice_nan-tw_32169847.wav|nan_tw_spk1|馬港（Má-káng）
+wavs/common_voice_nan-tw_32169848.wav|nan_tw_spk1|大帽 （tuā-bō）
+wavs/common_voice_nan-tw_32169849.wav|nan_tw_spk1|三頓逐無一頓飽 （sann-tn̄g jiok bô tsit-tǹg pá）
+wavs/common_voice_nan-tw_32183921.wav|nan_tw_spk1|文山二分局（Bûn-san Jī-hun-kio̍k）
+wavs/common_voice_nan-tw_32183922.wav|nan_tw_spk1|內坑（Lāi-khinn）
+wavs/common_voice_nan-tw_32183923.wav|nan_tw_spk1|都蘭（Too-lân）
+wavs/common_voice_nan-tw_32183924.wav|nan_tw_spk1|聖誕老阿伯（sìng-tàn-lāu-a-peh）
+wavs/common_voice_nan-tw_32183925.wav|nan_tw_spk1|這个頭家猶真少年（Tsit ê thâu-ke iáu tsin siàu-liân）
+wavs/common_voice_nan-tw_32183929.wav|nan_tw_spk1|耶穌的愛（Iâ-soo ê ài）
+wavs/common_voice_nan-tw_32183930.wav|nan_tw_spk1|捒責任（sak-tsik-jīm | sak-tsik-līm）
+wavs/common_voice_nan-tw_32183931.wav|nan_tw_spk1|理則（lí-tsik）
+wavs/common_voice_nan-tw_32183932.wav|nan_tw_spk1|作十六歲（tsò-tsa̍p-la̍k-huè | tsò-tsa̍p-la̍k-hè）
+wavs/common_voice_nan-tw_32183933.wav|nan_tw_spk1|跤甕（kha-àng）
+wavs/common_voice_nan-tw_32183938.wav|nan_tw_spk1|糋圈仔（tsìnn-khian-á）
+wavs/common_voice_nan-tw_32183939.wav|nan_tw_spk1|做司公（tsò-sai-kong）
+wavs/common_voice_nan-tw_32183940.wav|nan_tw_spk1|彼領洋裝看著真大範（Hit niá iûnn-tsong khuànn-tio̍h tsin tuā-pān）
+wavs/common_voice_nan-tw_32183941.wav|nan_tw_spk1|五穀豐收，雨水接應（ngóo-kok hong-siu hōo-tsuí tsiap-ìng）
+wavs/common_voice_nan-tw_32183942.wav|nan_tw_spk1|尾仔伊佇當地時間（Bué--á i tī tong-tē sî-kan）
+wavs/common_voice_nan-tw_32183949.wav|nan_tw_spk1|路邊消息（lōo-pinn siau-sik）
+wavs/common_voice_nan-tw_32183950.wav|nan_tw_spk1|嬌蠻（kiau-bân）
+wavs/common_voice_nan-tw_32183951.wav|nan_tw_spk1|線路圖（suànn-lōo-tôo）
+wavs/common_voice_nan-tw_32183952.wav|nan_tw_spk1|落水金剛（lo̍h-tsuí kim-kong）
+wavs/common_voice_nan-tw_32183953.wav|nan_tw_spk1|舊莊（Kū-tsng）
+wavs/common_voice_nan-tw_32183954.wav|nan_tw_spk1|做成（tsò-sîng）
+wavs/common_voice_nan-tw_32183955.wav|nan_tw_spk1|新生高架道路（Sin-sing Ko-kà Tō-lōo | Sin-seng Ko-kà Tō-lō͘）
+wavs/common_voice_nan-tw_32183956.wav|nan_tw_spk1|袂收煞（bē-siu-suah | buē-siu-suah）
+wavs/common_voice_nan-tw_32183957.wav|nan_tw_spk1|提筆來寫字（The̍h pit lâi siá-jī）
+wavs/common_voice_nan-tw_32183958.wav|nan_tw_spk1|掠鹹魚放生（lia̍h kiâm-hî pàng-senn）
+wavs/common_voice_nan-tw_32183959.wav|nan_tw_spk1|阿沙不魯（a-sa-puh-luh）
+wavs/common_voice_nan-tw_32183960.wav|nan_tw_spk1|宛（uán | uàn | uan | uân）
+wavs/common_voice_nan-tw_32183961.wav|nan_tw_spk1|平鼎仔（pênn-tiánn-á | pînn-tiánn-á）
+wavs/common_voice_nan-tw_32183962.wav|nan_tw_spk1|遊船（iû-tsûn）
+wavs/common_voice_nan-tw_32183963.wav|nan_tw_spk1|圓環（Înn-khuân | Îⁿ-khoân）
+wavs/common_voice_nan-tw_32183964.wav|nan_tw_spk1|石頭粒仔（tsio̍h-thâu liap-á）
+wavs/common_voice_nan-tw_32183965.wav|nan_tw_spk1|天津街（Thian-tin-kue）
+wavs/common_voice_nan-tw_32183966.wav|nan_tw_spk1|頭前（thâu-tsîng）
+wavs/common_voice_nan-tw_32183967.wav|nan_tw_spk1|過圳（Kuè-tsùn | kòe-chùn）
+wavs/common_voice_nan-tw_32183968.wav|nan_tw_spk1|欠碼（khiàm-bé）
+wavs/common_voice_nan-tw_32183969.wav|nan_tw_spk1|放蕩不羈（hòng-tōng-put-ki）
+wavs/common_voice_nan-tw_32183970.wav|nan_tw_spk1|按怎（án-tsuánn）
+wavs/common_voice_nan-tw_32183971.wav|nan_tw_spk1|港口（Káng-kháu）
+wavs/common_voice_nan-tw_32183972.wav|nan_tw_spk1|天災人禍（thian-tsai jîn-hō）
+wavs/common_voice_nan-tw_32183973.wav|nan_tw_spk1|下一站 （ē tsi̍t tsām）
+wavs/common_voice_nan-tw_32183974.wav|nan_tw_spk1|陽仔目（iông-á-ba̍k）
+wavs/common_voice_nan-tw_32183975.wav|nan_tw_spk1|生理結構（sing-lí-kiat-kòo）
+wavs/common_voice_nan-tw_32183976.wav|nan_tw_spk1|泏沫（tsuat-phue̍h）
+wavs/common_voice_nan-tw_32183977.wav|nan_tw_spk1|酸牛奶膏（sng-gû-ling-ko）
+wavs/common_voice_nan-tw_32183978.wav|nan_tw_spk1|到佇（kàu-tī）
+wavs/common_voice_nan-tw_32183984.wav|nan_tw_spk1|伊講欲中立，兩爿攏無愛參加（I kóng beh tiong-li̍p, nn̄g pîng lóng bô-ài tsham-ka）
+wavs/common_voice_nan-tw_32183985.wav|nan_tw_spk1|臭油埃（tshàu-iû-ai）
+wavs/common_voice_nan-tw_32183986.wav|nan_tw_spk1|亥革（Hâi-kik）
+wavs/common_voice_nan-tw_32183987.wav|nan_tw_spk1|愛河（Ài-hô）
+wavs/common_voice_nan-tw_32183988.wav|nan_tw_spk1|搝生理（giú-sing-lí）
+wavs/common_voice_nan-tw_32183989.wav|nan_tw_spk1|尻脊後（kha-tsiah-āu）
+wavs/common_voice_nan-tw_32183990.wav|nan_tw_spk1|食老倒少年（tsia̍h-lāu-tò-siàu-liân）
+wavs/common_voice_nan-tw_32183991.wav|nan_tw_spk1|你提轉去了後，就一項一項共伊讀出來
+wavs/common_voice_nan-tw_32183992.wav|nan_tw_spk1|內大溪（Lāi-tuā-khue | Lāi-tōa-khoe）
+wavs/common_voice_nan-tw_32183993.wav|nan_tw_spk1|雜差兼管家（tsa̍p-tshe kiam kuán-ke）
+wavs/common_voice_nan-tw_32183994.wav|nan_tw_spk1|順昌（Sūn-tshiong）
+wavs/common_voice_nan-tw_32183995.wav|nan_tw_spk1|出來講（tshut-lâi-kóng）
+wavs/common_voice_nan-tw_32183996.wav|nan_tw_spk1|擋落屎藥（tòng-làu-sái-io̍h）
+wavs/common_voice_nan-tw_32183997.wav|nan_tw_spk1|歪哥錢（uai-ko-tsînn）
+wavs/common_voice_nan-tw_32183998.wav|nan_tw_spk1|豔麗（iām-lē）
+wavs/common_voice_nan-tw_32183999.wav|nan_tw_spk1|草埔後社（Tsháu-poo Āu-siā | Chháu-po͘ Āu-siā）
+wavs/common_voice_nan-tw_32184000.wav|nan_tw_spk1|內媽祖田（Lāi-má-tsóo-tshân）
+wavs/common_voice_nan-tw_32184001.wav|nan_tw_spk1|十鼓仁糖文創園區 （Si̍p-kóo Jîn-thn̂g Bûn-tshòng Uân-khu）
+wavs/common_voice_nan-tw_32184002.wav|nan_tw_spk1|羽毛球（ú-môo-kiû）
+wavs/common_voice_nan-tw_32184003.wav|nan_tw_spk1|腦炎（náu-iām）
+wavs/common_voice_nan-tw_32184009.wav|nan_tw_spk1|婊仔（piáu-á）
+wavs/common_voice_nan-tw_32184010.wav|nan_tw_spk1|蕭萬長（Siau Bān-tiông）
+wavs/common_voice_nan-tw_32184011.wav|nan_tw_spk1|囡仔鬼（gín-á-kuí）
+wavs/common_voice_nan-tw_32184012.wav|nan_tw_spk1|食菜食甲肚臍為界（tsia̍h-tshài tsia̍h kah tōo-tsâi uî-kài）
+wavs/common_voice_nan-tw_32184013.wav|nan_tw_spk1|檳榔坑（Pin-nn̂g-khinn）
+wavs/common_voice_nan-tw_32184014.wav|nan_tw_spk1|欠一跤（khiàm tsi̍t kha）
+wavs/common_voice_nan-tw_32184015.wav|nan_tw_spk1|生炭（tshinn-thuànn）
+wavs/common_voice_nan-tw_32184016.wav|nan_tw_spk1|南樹林（Lâm-tshiū-nâ | Lâm-chhiū-nâ）
+wavs/common_voice_nan-tw_32184017.wav|nan_tw_spk1|麻薟鍋（bâ-hiam-ko）
+wavs/common_voice_nan-tw_32184018.wav|nan_tw_spk1|毋捌芳臭（m̄ bat phang tshàu）
+wavs/common_voice_nan-tw_32184019.wav|nan_tw_spk1|蔥頭水雞（Tshang-thâu-tsuí-ke）
+wavs/common_voice_nan-tw_32184021.wav|nan_tw_spk1|德語（tik-gí | tik-gú）
+wavs/common_voice_nan-tw_32184022.wav|nan_tw_spk1|炒肉（tshá-bah）
+wavs/common_voice_nan-tw_32184024.wav|nan_tw_spk1|馬鞍苴（bé-uann-tsū）
+wavs/common_voice_nan-tw_32184025.wav|nan_tw_spk1|三角肉 （sann-kak-bah）
+wavs/common_voice_nan-tw_32184085.wav|nan_tw_spk1|山魈 （sam-siau）
+wavs/common_voice_nan-tw_32184086.wav|nan_tw_spk1|未上三寸水，著欲扒龍船（buē tsiūnn sann tshùn tsuí, tio̍h-beh pê-liông-tsûn）
+wavs/common_voice_nan-tw_32184087.wav|nan_tw_spk1|國立臺北藝術大學（Kok-li̍p Tâi-pak Gē-su̍t Tāi-ha̍k）
+wavs/common_voice_nan-tw_32184088.wav|nan_tw_spk1|逢甲（Hông-kah）
+wavs/common_voice_nan-tw_32184089.wav|nan_tw_spk1|市府路（Tshī-hú-lōo）
+wavs/common_voice_nan-tw_32184090.wav|nan_tw_spk1|抌篤（tìm-táu）
+wavs/common_voice_nan-tw_32184150.wav|nan_tw_spk1|桑葚（sng-sûinn）
+wavs/common_voice_nan-tw_32184151.wav|nan_tw_spk1|救生環（kiù-sing-khuân）
+wavs/common_voice_nan-tw_32184152.wav|nan_tw_spk1|這塊尿苴仔誠臭尿薟（Tsit tè jiō-tsū-á tsiânn tshàu-jiō-hiam）
+wavs/common_voice_nan-tw_32184153.wav|nan_tw_spk1|大比鳥 （Tuā-pí-tsiáu）
+wavs/common_voice_nan-tw_32184154.wav|nan_tw_spk1|轉錢空（tńg-tsînn-khang）
+wavs/common_voice_nan-tw_32184155.wav|nan_tw_spk1|内城（Lāi-siânn）
+wavs/common_voice_nan-tw_32184156.wav|nan_tw_spk1|麭業（pháng-gia̍p）
+wavs/common_voice_nan-tw_32184157.wav|nan_tw_spk1|若歕雞胿仝款（ná pûn ke-kui kāng-khuán）
+wavs/common_voice_nan-tw_32184158.wav|nan_tw_spk1|拗韻（áu-ūn）
+wavs/common_voice_nan-tw_32184159.wav|nan_tw_spk1|牛仔囝（gû-á-kiánn）
+wavs/common_voice_nan-tw_32184160.wav|nan_tw_spk1|過年初四（kuè-nî tshe-sù）
+wavs/common_voice_nan-tw_32184161.wav|nan_tw_spk1|規嚾規黨（kui-uang-kui-tóng）
+wavs/common_voice_nan-tw_32184162.wav|nan_tw_spk1|西寧南路（Se-lîng-lâm-lōo）
+wavs/common_voice_nan-tw_32184163.wav|nan_tw_spk1|小等一下 （sió-tán--tsi̍t-ē）
+wavs/common_voice_nan-tw_32184164.wav|nan_tw_spk1|索仔雲（soh-á-hûn）
+wavs/common_voice_nan-tw_32184170.wav|nan_tw_spk1|無沙無圾（bô-sua-bô-sap）
+wavs/common_voice_nan-tw_32184171.wav|nan_tw_spk1|內埔鄉（Lāi-poo-hiong）
+wavs/common_voice_nan-tw_32184172.wav|nan_tw_spk1|得取（tit-tshú）
+wavs/common_voice_nan-tw_32184173.wav|nan_tw_spk1|無成體統（bô-sîng thé-thóng）
+wavs/common_voice_nan-tw_32184174.wav|nan_tw_spk1|看人殕殕（khuànn lâng phú-phú）
+wavs/common_voice_nan-tw_32184175.wav|nan_tw_spk1|興福（Hing-hok | Heng-hok）
+wavs/common_voice_nan-tw_32184176.wav|nan_tw_spk1|鈍市（tūn-tshī）
+wavs/common_voice_nan-tw_32184177.wav|nan_tw_spk1|崁仔跤（Khàm-á-kha）
+wavs/common_voice_nan-tw_32184178.wav|nan_tw_spk1|祕結（pì-kiat）
+wavs/common_voice_nan-tw_32184179.wav|nan_tw_spk1|臺灣查埔人（tâi-uân tsa-poo-lâng）
+wavs/common_voice_nan-tw_32184185.wav|nan_tw_spk1|過櫳跤（kuè-lang-kha）
+wavs/common_voice_nan-tw_32184186.wav|nan_tw_spk1|蒔裡國小（Sī-lí-kok-sió）
+wavs/common_voice_nan-tw_32184187.wav|nan_tw_spk1|溫州街（Un-tsiu-kue | Un-chiu-koe）
+wavs/common_voice_nan-tw_32184188.wav|nan_tw_spk1|你講甲哩哩囉囉，我聽攏無！（Lí kóng kah li-li-lo-lo, guá thiann lóng bô!）
+wavs/common_voice_nan-tw_32184189.wav|nan_tw_spk1|阿里阿查（a-lí-a-tsa）
+wavs/common_voice_nan-tw_32184195.wav|nan_tw_spk1|天無照甲子，人無照情理（thinn bô tsiàu kah-tsí, lâng bô tsiàu tsîng-lí）
+wavs/common_voice_nan-tw_32184196.wav|nan_tw_spk1|南機場（Lâm-ki-tiûnn）
+wavs/common_voice_nan-tw_32184197.wav|nan_tw_spk1|暗光鳥（àm-kong-tsiáu）
+wavs/common_voice_nan-tw_32184198.wav|nan_tw_spk1|殿水（tìnn-tsuí）
+wavs/common_voice_nan-tw_32184199.wav|nan_tw_spk1|細本燈徛u（sè-pún ting khiā u）
+wavs/common_voice_nan-tw_32184205.wav|nan_tw_spk1|痟狗浪（siáu-káu-lōng）
+wavs/common_voice_nan-tw_32184206.wav|nan_tw_spk1|伊差一點仔就著獎矣，有夠無彩（I tsha tsi̍t-tiám-á tō tio̍h-tsióng--ah, ū-kàu bô-tshái）
+wavs/common_voice_nan-tw_32184207.wav|nan_tw_spk1|冒之冒捏（mōo-tsi-mōo-liap）
+wavs/common_voice_nan-tw_32184208.wav|nan_tw_spk1|牛仔毋捌虎（gû-á m̄ bat hóo）
+wavs/common_voice_nan-tw_32184209.wav|nan_tw_spk1|礁坑二號橋（Ta-khenn-jī-hō-kiô）
+wavs/common_voice_nan-tw_32184210.wav|nan_tw_spk1|雜頭（tsa̍p-thâu）
+wavs/common_voice_nan-tw_32184211.wav|nan_tw_spk1|芬園鄉（Hun-hn̂g-hiong）
+wavs/common_voice_nan-tw_32184212.wav|nan_tw_spk1|康熙（Khong-hi）
+wavs/common_voice_nan-tw_32184213.wav|nan_tw_spk1|溫室效應（un-sik-hāu-ìng）
+wavs/common_voice_nan-tw_32184214.wav|nan_tw_spk1|雞卵麭（ke-nńg-pháng）
+wavs/common_voice_nan-tw_32184220.wav|nan_tw_spk1|尻川癢（kha-tshng tsiūnn）
+wavs/common_voice_nan-tw_32184221.wav|nan_tw_spk1|落米雪（lo̍h-bí-seh）
+wavs/common_voice_nan-tw_32184222.wav|nan_tw_spk1|伊的孝心予人真感動（I ê hàu-sim hōo lâng tsin kám-tōng）
+wavs/common_voice_nan-tw_32184223.wav|nan_tw_spk1|寶螺（pó-lê）
+wavs/common_voice_nan-tw_32184224.wav|nan_tw_spk1|烏貓仔母（oo-niau-á-bú）
+wavs/common_voice_nan-tw_32184225.wav|nan_tw_spk1|後一个（āu tsit-ê | āu tsi̍t-ê）
+wavs/common_voice_nan-tw_32184226.wav|nan_tw_spk1|目睭看懸無看低（ba̍k-tsiu khuànn kuân bô khuànn kē）
+wavs/common_voice_nan-tw_32184227.wav|nan_tw_spk1|複歌（ho̍k-kua）
+wavs/common_voice_nan-tw_32184228.wav|nan_tw_spk1|帳幕（tiùnn-bōo）
+wavs/common_voice_nan-tw_32184229.wav|nan_tw_spk1|赤峰街（Tshiah-hong-kue）
+wavs/common_voice_nan-tw_32184230.wav|nan_tw_spk1|熥凊飯（thuīnn-tshìn-puīnn）
+wavs/common_voice_nan-tw_32184231.wav|nan_tw_spk1|上埤頭（Siōng-pi-thâu）
+wavs/common_voice_nan-tw_32184232.wav|nan_tw_spk1|看仿（khuànn-hóng）
+wavs/common_voice_nan-tw_32184233.wav|nan_tw_spk1|緘默（khiâm-bi̍t）
+wavs/common_voice_nan-tw_32184234.wav|nan_tw_spk1|手藝（tshiú-gē）
+wavs/common_voice_nan-tw_32184235.wav|nan_tw_spk1|國立臺灣大學（Kok-li̍p-tâi-uân-tāi-ha̍k | Kok-li̍p Tâi-oân Tāi-ha̍k）
+wavs/common_voice_nan-tw_32184236.wav|nan_tw_spk1|烘予熟（hang hōo si̍k）
+wavs/common_voice_nan-tw_32184237.wav|nan_tw_spk1|歹喙鼻（pháinn-tshuì-phīnn）
+wavs/common_voice_nan-tw_32184238.wav|nan_tw_spk1|九份仔 （Káu-hūn-á）
+wavs/common_voice_nan-tw_32184239.wav|nan_tw_spk1|大肚區（Tuā-tōo-khu）
+wavs/common_voice_nan-tw_32184240.wav|nan_tw_spk1|若咧行灶跤（ná leh kiânn tsàu-kha）
+wavs/common_voice_nan-tw_32184241.wav|nan_tw_spk1|煙黗（ian-thûn）
+wavs/common_voice_nan-tw_32184242.wav|nan_tw_spk1|細圓界（sè-înn-kài）
+wavs/common_voice_nan-tw_32184243.wav|nan_tw_spk1|小資 （sió-tsu）
+wavs/common_voice_nan-tw_32184244.wav|nan_tw_spk1|卵絲（nn̄g-si）
+wavs/common_voice_nan-tw_32184245.wav|nan_tw_spk1|閘倚（tsa̍h-uá）
+wavs/common_voice_nan-tw_32184246.wav|nan_tw_spk1|掩喙的（am-tshuì--ê）
+wavs/common_voice_nan-tw_32184247.wav|nan_tw_spk1|跤仔（kha-á）
+wavs/common_voice_nan-tw_32184248.wav|nan_tw_spk1|圍爐（uî-lôo）
+wavs/common_voice_nan-tw_32184249.wav|nan_tw_spk1|喙食物仔（tshuì-tsia̍h-mi̍h-á）
+wavs/common_voice_nan-tw_32184250.wav|nan_tw_spk1|河童（hô-tông）
+wavs/common_voice_nan-tw_32184251.wav|nan_tw_spk1|龍潭區（Liông-thâm-khu）
+wavs/common_voice_nan-tw_32184252.wav|nan_tw_spk1|血暈（hiat-hūn）
+wavs/common_voice_nan-tw_32184253.wav|nan_tw_spk1|落停盤鎖起來（lo̍h-thîng-puânn só--khí-lâi）
+wavs/common_voice_nan-tw_32184254.wav|nan_tw_spk1|無影槍揬死（bô-iánn tshiunn tu̍h-sí）
+wavs/common_voice_nan-tw_32184255.wav|nan_tw_spk1|將軍區（Chiong-kun-khu）
+wavs/common_voice_nan-tw_32184256.wav|nan_tw_spk1|連線（liân-suànn）
+wavs/common_voice_nan-tw_32184257.wav|nan_tw_spk1|慒心（tso-sim）
+wavs/common_voice_nan-tw_32184258.wav|nan_tw_spk1|大水柴 （tuā-tsuí-tshâ）
+wavs/common_voice_nan-tw_32184259.wav|nan_tw_spk1|白羅斯（Pe̍h-lô-su）
+wavs/common_voice_nan-tw_32184260.wav|nan_tw_spk1|無守本份（bô siú pún-hūn）
+wavs/common_voice_nan-tw_32184261.wav|nan_tw_spk1|火化去矣（hué hua-khì ah）
+wavs/common_voice_nan-tw_32184262.wav|nan_tw_spk1|?（kán）
+wavs/common_voice_nan-tw_32184263.wav|nan_tw_spk1|有二步七仔（ū--jī-pōo-tshit-á | ū--lī-pōo-tshit-á）
+wavs/common_voice_nan-tw_32184264.wav|nan_tw_spk1|落停價（lo̍h-thîng-kè）
+wavs/common_voice_nan-tw_32184265.wav|nan_tw_spk1|廣播（kóng-pò）
+wavs/common_voice_nan-tw_32184266.wav|nan_tw_spk1|嘲臉（sau-lián）
+wavs/common_voice_nan-tw_32184267.wav|nan_tw_spk1|邊境牧羊犬（pian-kíng bo̍k-iûnn-khián）
+wavs/common_voice_nan-tw_32184268.wav|nan_tw_spk1|縮寫（sok-siá）
+wavs/common_voice_nan-tw_32184269.wav|nan_tw_spk1|塗藤（thôo-tîn）
+wavs/common_voice_nan-tw_32184270.wav|nan_tw_spk1|覆菜（phak-tshài）
+wavs/common_voice_nan-tw_32184271.wav|nan_tw_spk1|南庄鄉（Lâm-chng-hiong）
+wavs/common_voice_nan-tw_32184272.wav|nan_tw_spk1|紅仁塗（âng-jîn-thôo）
+wavs/common_voice_nan-tw_32184273.wav|nan_tw_spk1|香仔針（Hiang-á-tsiam）
+wavs/common_voice_nan-tw_32184274.wav|nan_tw_spk1|太保市（Thài-pó-chhī）
+wavs/common_voice_nan-tw_32184275.wav|nan_tw_spk1|牛路巷（Gû-lōo-hāng）
+wavs/common_voice_nan-tw_32184276.wav|nan_tw_spk1|大箍人 （tuā-khoo-lâng）
+wavs/common_voice_nan-tw_32184277.wav|nan_tw_spk1|混聲（hūn-siann）
+wavs/common_voice_nan-tw_32184278.wav|nan_tw_spk1|深坑區（Tshim-khenn-khu）
+wavs/common_voice_nan-tw_32184279.wav|nan_tw_spk1|咒誓（tsiù-tsuā）
+wavs/common_voice_nan-tw_32184280.wav|nan_tw_spk1|犁（lerê | luê）
+wavs/common_voice_nan-tw_32184281.wav|nan_tw_spk1|中醫學（tiong-i-ha̍k）
+wavs/common_voice_nan-tw_32184282.wav|nan_tw_spk1|䆀手（bái-tshiú）
+wavs/common_voice_nan-tw_32184283.wav|nan_tw_spk1|月信（gue̍h-sìn）
+wavs/common_voice_nan-tw_32184284.wav|nan_tw_spk1|發膿（puh-lâng）
+wavs/common_voice_nan-tw_32184285.wav|nan_tw_spk1|仙岩路（Sian-giâm-lōo | Sian-giâm-lō͘）
+wavs/common_voice_nan-tw_32184286.wav|nan_tw_spk1|搜底（tshiau-té）
+wavs/common_voice_nan-tw_32184287.wav|nan_tw_spk1|放袂記得（pàng buē kì-tit | pàng bē kì-tit）
+wavs/common_voice_nan-tw_32184288.wav|nan_tw_spk1|猴怪（Kâu-kuài）
+wavs/common_voice_nan-tw_32184289.wav|nan_tw_spk1|考試場（khó-tshì-tiûnn）
+wavs/common_voice_nan-tw_32184290.wav|nan_tw_spk1|木工（ba̍k-kang）
+wavs/common_voice_nan-tw_32184291.wav|nan_tw_spk1|流形（liû-hîng）
+wavs/common_voice_nan-tw_32184292.wav|nan_tw_spk1|碧潭路（Phik-thâm-lōo | Phek-thâm-lō͘）
+wavs/common_voice_nan-tw_32184293.wav|nan_tw_spk1|跋桮號（pua̍h-pue-hō）
+wavs/common_voice_nan-tw_32184294.wav|nan_tw_spk1|台灣料理（Tâi-uân liāu-lí）
+wavs/common_voice_nan-tw_32184295.wav|nan_tw_spk1|烘豆仔（hang tāu-á）
+wavs/common_voice_nan-tw_32184296.wav|nan_tw_spk1|罩雺（tà-bông）
+wavs/common_voice_nan-tw_32184297.wav|nan_tw_spk1|虎吼口（Hó͘-háu-kháu）
+wavs/common_voice_nan-tw_32184298.wav|nan_tw_spk1|智覺著（tì-kak tio̍h）
+wavs/common_voice_nan-tw_32184299.wav|nan_tw_spk1|汗流屑滴（kuānn lâu sap tih）
+wavs/common_voice_nan-tw_32184300.wav|nan_tw_spk1|痟查某（siáu-tsa-bóo）
+wavs/common_voice_nan-tw_32184301.wav|nan_tw_spk1|按呢毋是辦法（Án-ne m̄ sī pān-huat）
+wavs/common_voice_nan-tw_32184302.wav|nan_tw_spk1|高坎（ko-khám）
+wavs/common_voice_nan-tw_32184303.wav|nan_tw_spk1|三餐不度 （sam-tshan put-tōo）
+wavs/common_voice_nan-tw_32184304.wav|nan_tw_spk1|喙目鼻（tshuì-ba̍k-phīnn）
+wavs/common_voice_nan-tw_32184305.wav|nan_tw_spk1|狹心症（kiap-sim-tsìng）
+wavs/common_voice_nan-tw_32184306.wav|nan_tw_spk1|壁虎（piah-hóo）
+wavs/common_voice_nan-tw_32184307.wav|nan_tw_spk1|無鵁鴒無草蜢（bô ka-līng bô tsháu-meh）
+wavs/common_voice_nan-tw_32184308.wav|nan_tw_spk1|踏著好地步（ta̍h-tio̍h hó-tē-pōo）
+wavs/common_voice_nan-tw_32184309.wav|nan_tw_spk1|食早起飯（tsia̍h-tsái-khí-puīnn）
+wavs/common_voice_nan-tw_32184310.wav|nan_tw_spk1|你嘛卡好（lí-mā-khah-hó）
+wavs/common_voice_nan-tw_32184311.wav|nan_tw_spk1|敢是（kánn-sī）
+wavs/common_voice_nan-tw_32184312.wav|nan_tw_spk1|到站（kàu-tsām）
+wavs/common_voice_nan-tw_32184313.wav|nan_tw_spk1|千里駒 （tshian lí khu）
+wavs/common_voice_nan-tw_32184314.wav|nan_tw_spk1|三十張犁公園（Sann-tsa̍p-tiunn-luê Kong-hn̂g | Saⁿ-cha̍p-tiuⁿ-lôe Kong-hn̂g）
+wavs/common_voice_nan-tw_32184315.wav|nan_tw_spk1|庶民（sù-bîn）
+wavs/common_voice_nan-tw_32184316.wav|nan_tw_spk1|雷鳥（luî-tsiáu）
+wavs/common_voice_nan-tw_32184317.wav|nan_tw_spk1|摖破皮（tshè-phuà-phuê | tshuè-phuà-phê）
+wavs/common_voice_nan-tw_32184318.wav|nan_tw_spk1|毋知好䆀（m̄ tsai hó-bái）
+wavs/common_voice_nan-tw_32184319.wav|nan_tw_spk1|擋索仔（tòng-soh--á）
+wavs/common_voice_nan-tw_32184320.wav|nan_tw_spk1|溪岸（khe-huānn）
+wavs/common_voice_nan-tw_32184321.wav|nan_tw_spk1|恨天怨地（hūn-thinn uàn-tē）
+wavs/common_voice_nan-tw_32184322.wav|nan_tw_spk1|大園區（Tuā-hn̂g-khu）
+wavs/common_voice_nan-tw_32184323.wav|nan_tw_spk1|廣州（Kńg-tshiu）
+wavs/common_voice_nan-tw_32184324.wav|nan_tw_spk1|凍戇（tòng-gōng）
+wavs/common_voice_nan-tw_32184390.wav|nan_tw_spk1|忍尿（lún-jiō）
+wavs/common_voice_nan-tw_32184391.wav|nan_tw_spk1|深丘（Tshim-khiu）
+wavs/common_voice_nan-tw_32184392.wav|nan_tw_spk1|心肝頭噗噗衝（sim-kuann-thâu pho̍k-pho̍k-tshìng）
+wavs/common_voice_nan-tw_32184393.wav|nan_tw_spk1|揣無（tshuē bô）
+wavs/common_voice_nan-tw_32184394.wav|nan_tw_spk1|標準偏差（piau-tsún-phian-tsha）
+wavs/common_voice_nan-tw_32184395.wav|nan_tw_spk1|憂鬱症（iu-ut-tsìng）
+wavs/common_voice_nan-tw_32184396.wav|nan_tw_spk1|大目降 （Tuā-ba̍k-kàng）
+wavs/common_voice_nan-tw_32184397.wav|nan_tw_spk1|喙䫌紅（tshuì-phué-âng）
+wavs/common_voice_nan-tw_32184398.wav|nan_tw_spk1|河狹水緊，人急智生（hô e̍h tsuí kín, lâng kip tì senn）
+wavs/common_voice_nan-tw_32184399.wav|nan_tw_spk1|我欲去台灣結婚辦桌（guá beh khì Tâi-uân kiat-hun pān-toh）
+wavs/common_voice_nan-tw_32184400.wav|nan_tw_spk1|腹肚脹起來（Pak-tóo tiòng--khí-lâi）
+wavs/common_voice_nan-tw_32184401.wav|nan_tw_spk1|漁船（hî-tsûn）
+wavs/common_voice_nan-tw_32184402.wav|nan_tw_spk1|水林鄉（Chúi-nâ-hiong）
+wavs/common_voice_nan-tw_32184403.wav|nan_tw_spk1|陪同偵訊（puê-tông tsing-sìn）
+wavs/common_voice_nan-tw_32184404.wav|nan_tw_spk1|沙崙路（Sua-lūn-lōo | Soa-lūn-lō͘）
+wavs/common_voice_nan-tw_32184405.wav|nan_tw_spk1|鐵仔塗（thih-á-thôo）
+wavs/common_voice_nan-tw_32184406.wav|nan_tw_spk1|電界（tiān-kài）
+wavs/common_voice_nan-tw_32184407.wav|nan_tw_spk1|袂曉轉踅一下！（Bē-hiáu tńg-se̍h--tsi̍t-ē!）
+wavs/common_voice_nan-tw_32184408.wav|nan_tw_spk1|活樂（hua̍t-lo̍k）
+wavs/common_voice_nan-tw_32184409.wav|nan_tw_spk1|狀元粿（tsiōng-guân-kué | tsiōng-guân-ké）
+wavs/common_voice_nan-tw_32184420.wav|nan_tw_spk1|屁囝（phuì-kiánn）
+wavs/common_voice_nan-tw_32184421.wav|nan_tw_spk1|按尾仔算（àn bué-á-sǹg）
+wavs/common_voice_nan-tw_32184422.wav|nan_tw_spk1|本邦（pún-pang）
+wavs/common_voice_nan-tw_32184423.wav|nan_tw_spk1|褪褲（thǹg khòo）
+wavs/common_voice_nan-tw_32184424.wav|nan_tw_spk1|樂山（Lo̍k-suann）
+wavs/common_voice_nan-tw_32184425.wav|nan_tw_spk1|千層雞卵糕 （tshian-tsân ke-nn̄g-ko | tshian-tsân kue-nn̄g-ko）
+wavs/common_voice_nan-tw_32184426.wav|nan_tw_spk1|調解委員會（tiâu-kái uí-uân-huē）
+wavs/common_voice_nan-tw_32184427.wav|nan_tw_spk1|世新大學（Sè-sin Tāi-ha̍k）
+wavs/common_voice_nan-tw_32184428.wav|nan_tw_spk1|創空球（tshòng-khang-kiû）
+wavs/common_voice_nan-tw_32184429.wav|nan_tw_spk1|相拍龜仔（sio-phah-ku-á）
+wavs/common_voice_nan-tw_32184430.wav|nan_tw_spk1|無明無朗（bô-bîng-bô-lóng）
+wavs/common_voice_nan-tw_32184431.wav|nan_tw_spk1|跤梢仔（kha-sau á）
+wavs/common_voice_nan-tw_32184432.wav|nan_tw_spk1|協作（hia̍p-tsok）
+wavs/common_voice_nan-tw_32184433.wav|nan_tw_spk1|膽頭在（tann-thâu tsāi）
+wavs/common_voice_nan-tw_32184434.wav|nan_tw_spk1|日本料理（Ji̍t-pún liāu-lí）
+wavs/common_voice_nan-tw_32184435.wav|nan_tw_spk1|遮爾（tsiah-nī）
+wavs/common_voice_nan-tw_32184436.wav|nan_tw_spk1|追分（Tui-hun）
+wavs/common_voice_nan-tw_32184437.wav|nan_tw_spk1|義重町（Gi-tiōng-ting）
+wavs/common_voice_nan-tw_32184438.wav|nan_tw_spk1|跳踢（thiàu-thah | thiàu-that）
+wavs/common_voice_nan-tw_32184439.wav|nan_tw_spk1|草猴（tsháu-kâu）
+wavs/common_voice_nan-tw_32184440.wav|nan_tw_spk1|排甲躼躼長（pâi kah lò-lò-tn̂g）
+wavs/common_voice_nan-tw_32184441.wav|nan_tw_spk1|北港溪溫泉（Pak-káng-khe Un-tsuânn）
+wavs/common_voice_nan-tw_32184442.wav|nan_tw_spk1|抐舌（lā-tsi̍h）
+wavs/common_voice_nan-tw_32184443.wav|nan_tw_spk1|緊急出口（kín-kip tshut-kháu）
+wavs/common_voice_nan-tw_32184444.wav|nan_tw_spk1|一擺 （tsi̍t-pái）
+wavs/common_voice_nan-tw_32184445.wav|nan_tw_spk1|麥達路（Be̍h-ta̍t-lōo）
+wavs/common_voice_nan-tw_32184446.wav|nan_tw_spk1|窟仔墘（Khut-á-kînn）
+wavs/common_voice_nan-tw_32184447.wav|nan_tw_spk1|閩南人（bân-lâm-lâng）
+wavs/common_voice_nan-tw_32184448.wav|nan_tw_spk1|這件代誌會做得（Tsit kiānn tāi-tsì ē-tsò--tit）
+wavs/common_voice_nan-tw_32184449.wav|nan_tw_spk1|屎龜蟲（Sái-ku-thâng）
+wavs/common_voice_nan-tw_32184450.wav|nan_tw_spk1|減（kiám）
+wavs/common_voice_nan-tw_32184451.wav|nan_tw_spk1|妖嬌美麗（iau-kiau bí-lē）
+wavs/common_voice_nan-tw_32184452.wav|nan_tw_spk1|日冠（jit-kuan）
+wavs/common_voice_nan-tw_32184453.wav|nan_tw_spk1|姓啥（sènn sannh）
+wavs/common_voice_nan-tw_32184454.wav|nan_tw_spk1|甲仙埔（Kah-sian-poo）
+wavs/common_voice_nan-tw_32184455.wav|nan_tw_spk1|富源溪（Hù-goân-khe）
+wavs/common_voice_nan-tw_32184456.wav|nan_tw_spk1|祝山（Tsiok-suann）
+wavs/common_voice_nan-tw_32184457.wav|nan_tw_spk1|茶湯會（Tê-thng-huē）
+wavs/common_voice_nan-tw_32184458.wav|nan_tw_spk1|閣（koh）
+wavs/common_voice_nan-tw_32184459.wav|nan_tw_spk1|智識人（tì-sik-lâng | tì-sik-jîn）
+wavs/common_voice_nan-tw_32184460.wav|nan_tw_spk1|屎礐仔（sái-ha̍k-á）
+wavs/common_voice_nan-tw_32184461.wav|nan_tw_spk1|頭桱師仔（thâu-kìnn sai-á）
+wavs/common_voice_nan-tw_32184462.wav|nan_tw_spk1|八德區（Pat-tik-khu | Pat-tek-khu）
+wavs/common_voice_nan-tw_32184463.wav|nan_tw_spk1|愛媠（ài-suí）
+wavs/common_voice_nan-tw_32184464.wav|nan_tw_spk1|西米露（sai-bí-lōo）
+wavs/common_voice_nan-tw_32192670.wav|nan_tw_spk1|彰化市（Chiong-hoà-chhī）
+wavs/common_voice_nan-tw_32192671.wav|nan_tw_spk1|遮的花愛沃水（Tsia-ê hue ài ak-tsuí）
+wavs/common_voice_nan-tw_32192672.wav|nan_tw_spk1|輪辦（lûn-pān）
+wavs/common_voice_nan-tw_32192673.wav|nan_tw_spk1|薄荷冰（po̍k-hô-ping）
+wavs/common_voice_nan-tw_32192674.wav|nan_tw_spk1|荔城（Nāi-siânn）
+wavs/common_voice_nan-tw_32192675.wav|nan_tw_spk1|落片（lo̍h-phìnn）
+wavs/common_voice_nan-tw_32192676.wav|nan_tw_spk1|鎖匙圈仔（só-sî-khian-á）
+wavs/common_voice_nan-tw_32192677.wav|nan_tw_spk1|注血射（tsù-hueh-siā | tsù-huih-siā）
+wavs/common_voice_nan-tw_32192678.wav|nan_tw_spk1|有龍骨个動物（ū liōng-kut ê tōng-bu̍t）
+wavs/common_voice_nan-tw_32192679.wav|nan_tw_spk1|長尾山娘（tn̂g-bué-suann-niû）
+wavs/common_voice_nan-tw_32192680.wav|nan_tw_spk1|下溪墘（Hā-khue-kînn）
+wavs/common_voice_nan-tw_32192681.wav|nan_tw_spk1|挑俍（thiau-lāng）
+wavs/common_voice_nan-tw_32192682.wav|nan_tw_spk1|民壯圍（Bîn-tsòng-uî）
+wavs/common_voice_nan-tw_32192683.wav|nan_tw_spk1|隨予白（suî-hōo-pe̍h）
+wavs/common_voice_nan-tw_32192684.wav|nan_tw_spk1|傷甜（siunn tinn）
+wavs/common_voice_nan-tw_32192685.wav|nan_tw_spk1|九歸算法 （kiú-kui-suàn-huat）
+wavs/common_voice_nan-tw_32192686.wav|nan_tw_spk1|隔轉工（keh-tuínn-kang）
+wavs/common_voice_nan-tw_32192687.wav|nan_tw_spk1|四界捋捋趖（sì-kè-lua̍h-lua̍h-sô）
+wavs/common_voice_nan-tw_32192688.wav|nan_tw_spk1|銅筋鐵肋（tâng-kin-thih-kut | tâng-kun-thih-kut）
+wavs/common_voice_nan-tw_32192690.wav|nan_tw_spk1|毋知熊抑虎（m̄ tsai hîm ia̍h hóo）
+wavs/common_voice_nan-tw_32192691.wav|nan_tw_spk1|萬聖節（Bān-sìng-tseh）
+wavs/common_voice_nan-tw_32192692.wav|nan_tw_spk1|咧睏（teh khùn | leh khùn）
+wavs/common_voice_nan-tw_32192693.wav|nan_tw_spk1|大筒仔蜂 （Tuā-tâng-á-phang）
+wavs/common_voice_nan-tw_32192694.wav|nan_tw_spk1|二十張（Lī-tsa̍p-tiunn | Lī-cha̍p-tiuⁿ）
+wavs/common_voice_nan-tw_32192695.wav|nan_tw_spk1|掣掣（tshuah-tshuah）
+wavs/common_voice_nan-tw_32192696.wav|nan_tw_spk1|巧士購（Khá-sū-kòo）
+wavs/common_voice_nan-tw_32192697.wav|nan_tw_spk1|火燒島（hué-sio-tó）
+wavs/common_voice_nan-tw_32192698.wav|nan_tw_spk1|伊看起來真落魄（I khuànn--khí-lâi tsin lo̍k-phik）
+wavs/common_voice_nan-tw_32192699.wav|nan_tw_spk1|伊有三間厝（I ū sann king tshù）
+wavs/common_voice_nan-tw_32192700.wav|nan_tw_spk1|嘉北（Ka-pak）
+wavs/common_voice_nan-tw_32192701.wav|nan_tw_spk1|膨鏡（phòng-kiànn）
+wavs/common_voice_nan-tw_32192702.wav|nan_tw_spk1|後壁（Āu-piah）
+wavs/common_voice_nan-tw_32192703.wav|nan_tw_spk1|儉喙（khiām-tshuì）
+wavs/common_voice_nan-tw_32192704.wav|nan_tw_spk1|新港糖仔（Sin-káng thn̂g-á）
+wavs/common_voice_nan-tw_32192705.wav|nan_tw_spk1|新竹縣（Sin-tik-kuān）
+wavs/common_voice_nan-tw_32192706.wav|nan_tw_spk1|茶海星（Tê-hái-tshenn）
+wavs/common_voice_nan-tw_32192707.wav|nan_tw_spk1|睏大豬（khùn-tuā-ti）
+wavs/common_voice_nan-tw_32192708.wav|nan_tw_spk1|袂恬（bē-tiām）
+wavs/common_voice_nan-tw_32192709.wav|nan_tw_spk1|模仔（bôo-á）
+wavs/common_voice_nan-tw_32192710.wav|nan_tw_spk1|七歪八斜 （tshit uai peh tshua̍h）
+wavs/common_voice_nan-tw_32192711.wav|nan_tw_spk1|新聞紙（sin-bûn tsuá）
+wavs/common_voice_nan-tw_32192712.wav|nan_tw_spk1|通貨膨脹（thong-hònn phòng-tiòng | thong-huè phòng-tiùnng）
+wavs/common_voice_nan-tw_32192713.wav|nan_tw_spk1|漢字文化箍仔（hàn-jī bûn-huà khoo-á）
+wavs/common_voice_nan-tw_32192714.wav|nan_tw_spk1|南靖（Lâm-tsīng）
+wavs/common_voice_nan-tw_32192715.wav|nan_tw_spk1|螢橋國小（Îng-kiô Kok-sió）
+wavs/common_voice_nan-tw_32192716.wav|nan_tw_spk1|痟藥仔（siáu-io̍h-á）
+wavs/common_voice_nan-tw_32192717.wav|nan_tw_spk1|甜甜（tinn-tinn）
+wavs/common_voice_nan-tw_32192718.wav|nan_tw_spk1|鑢仔（lù-á）
+wavs/common_voice_nan-tw_32192719.wav|nan_tw_spk1|興德（Hing-tik）
+wavs/common_voice_nan-tw_32192720.wav|nan_tw_spk1|綴路（tuè-lōo）
+wavs/common_voice_nan-tw_32192721.wav|nan_tw_spk1|中番仔湖（Tiong-huan-á-hôo）
+wavs/common_voice_nan-tw_32192722.wav|nan_tw_spk1|知行路（Chai-hâng-lō͘）
+wavs/common_voice_nan-tw_32192723.wav|nan_tw_spk1|泰雅渡假村（Thài-ngá Tōo-ká-tshuan）
+wavs/common_voice_nan-tw_32192724.wav|nan_tw_spk1|壁角仔囝（piah-kak-á-kiánn）
+wavs/common_voice_nan-tw_32192730.wav|nan_tw_spk1|腹腸（pak-tn̂g）
+wavs/common_voice_nan-tw_32192731.wav|nan_tw_spk1|韓國鹹菜（hân-kok kiâm-tshài）
+wavs/common_voice_nan-tw_32192732.wav|nan_tw_spk1|東光國小（Tang-kong-kok-sió）
+wavs/common_voice_nan-tw_32192733.wav|nan_tw_spk1|火星文（hué-tshenn-bûn | hé-tshinn-bûn）
+wavs/common_voice_nan-tw_32192734.wav|nan_tw_spk1|滷卵（lóo-nňg | lóo-nuī）
+wavs/common_voice_nan-tw_32192735.wav|nan_tw_spk1|跤手猛（kha-tshiú mé）
+wavs/common_voice_nan-tw_32192736.wav|nan_tw_spk1|指頭仔伸出來無平長（tsíng-thâu-á tshun-tshut-lâi bô pênn-tn̂g）
+wavs/common_voice_nan-tw_32192737.wav|nan_tw_spk1|貓老大（Niau-láu-tuā）
+wavs/common_voice_nan-tw_32192738.wav|nan_tw_spk1|里里擴擴（li-li-khok-khok）
+wavs/common_voice_nan-tw_32192739.wav|nan_tw_spk1|床頭拍，床尾和（tshn̂g-thâu phah tshn̂g-bué hô）
+wavs/common_voice_nan-tw_32192745.wav|nan_tw_spk1|馬蹄糋（bé-tê-tsìnn | bé-tuê-tsìnn）
+wavs/common_voice_nan-tw_32192746.wav|nan_tw_spk1|欲按怎用啊（beh án-tsuánn iōng--ah）
+wavs/common_voice_nan-tw_32192747.wav|nan_tw_spk1|合群（ha̍p-kûn）
+wavs/common_voice_nan-tw_32192748.wav|nan_tw_spk1|垢潔鉎（káu-kueh-sian）
+wavs/common_voice_nan-tw_32192749.wav|nan_tw_spk1|果園（kér-hn̂g | ké-hn̂g | kué-huînn | kué-hn̂g）
+wavs/common_voice_nan-tw_32192755.wav|nan_tw_spk1|大管薰 （tuā-kóng-hun）
+wavs/common_voice_nan-tw_32192756.wav|nan_tw_spk1|台灣就是台灣（Tâi-uân tō sī Tâi-uân）
+wavs/common_voice_nan-tw_32192757.wav|nan_tw_spk1|大潤發 （Tāi-jūn-huat）
+wavs/common_voice_nan-tw_32192758.wav|nan_tw_spk1|球箠（kiû-tshuê）
+wavs/common_voice_nan-tw_32192759.wav|nan_tw_spk1|拄拄好（tú-tú-hó）
+wavs/common_voice_nan-tw_32192765.wav|nan_tw_spk1|逐家攏真歡喜（ta̍k-ke lóng tsin huann-hí）
+wavs/common_voice_nan-tw_32192767.wav|nan_tw_spk1|五跪三叩頭（gōo kuī sann kháu-thâu）
+wavs/common_voice_nan-tw_32192768.wav|nan_tw_spk1|拍凊（phah-tshìn）
+wavs/common_voice_nan-tw_32192769.wav|nan_tw_spk1|舊宗（Kū-tsong）
+wavs/common_voice_nan-tw_32192770.wav|nan_tw_spk1|低收入戶（kē-siu-ji̍p-hōo）
+wavs/common_voice_nan-tw_32192771.wav|nan_tw_spk1|萬隆街（Bān-liông-kue | Bān-liông-koe）
+wavs/common_voice_nan-tw_32192772.wav|nan_tw_spk1|雞肉角（ke-bah-kak）
+wavs/common_voice_nan-tw_32192773.wav|nan_tw_spk1|名聲敨（miâ-siann tháu）
+wavs/common_voice_nan-tw_32192774.wav|nan_tw_spk1|絲線吊銅鐘（si-suànn tiàu tâng-tsing）
+wavs/common_voice_nan-tw_32192775.wav|nan_tw_spk1|自作多情（tsū-tsok-to-tsîng）
+wavs/common_voice_nan-tw_32192776.wav|nan_tw_spk1|溪洲（Khe-tsiu | Khue-tsiu）
+wavs/common_voice_nan-tw_32192777.wav|nan_tw_spk1|夯飯匙拄貓（giâ-pn̄g-sî-tú-niau）
+wavs/common_voice_nan-tw_32192778.wav|nan_tw_spk1|喙焦嚨喉渴（tshuì-ta nâ-âu-khuah）
+wavs/common_voice_nan-tw_32192779.wav|nan_tw_spk1|景豐街（Kíng-hong-kue）
+wavs/common_voice_nan-tw_32192780.wav|nan_tw_spk1|寧波西街（Lîng-pho Sai-kue | Lêng-pho Sai-koe）
+wavs/common_voice_nan-tw_32192781.wav|nan_tw_spk1|營帳（iânn-tiùnn）
+wavs/common_voice_nan-tw_32192782.wav|nan_tw_spk1|終其尾（tsiong-kî-bué）
+wavs/common_voice_nan-tw_32192783.wav|nan_tw_spk1|揜揜貼貼（iap-iap-thiap-thiap）
+wavs/common_voice_nan-tw_32192784.wav|nan_tw_spk1|磕挵（kha̍p-lòng）
+wavs/common_voice_nan-tw_32192785.wav|nan_tw_spk1|丸仔球 （uân-á-kiû）
+wavs/common_voice_nan-tw_32192786.wav|nan_tw_spk1|袂插得（bē tshap tit）
+wavs/common_voice_nan-tw_32192788.wav|nan_tw_spk1|三步做一伐 （sann pōo tsò tsi̍t hua̍h）
+wavs/common_voice_nan-tw_32192789.wav|nan_tw_spk1|光復國小（Kong-ho̍k-kok-sió）
+wavs/common_voice_nan-tw_32192795.wav|nan_tw_spk1|歹年冬厚痟人（pháinn-nî-tang kāu-siáu-lâng）
+wavs/common_voice_nan-tw_32192796.wav|nan_tw_spk1|紲力走標（suà-la̍t-tsáu-pio）
+wavs/common_voice_nan-tw_32192797.wav|nan_tw_spk1|次元（tshù-guân）
+wavs/common_voice_nan-tw_32192798.wav|nan_tw_spk1|水紋墘（tsuí-bûn-kînn）
+wavs/common_voice_nan-tw_32192799.wav|nan_tw_spk1|小寒 （sió-hân）
+wavs/common_voice_nan-tw_32192800.wav|nan_tw_spk1|田嬰機（tshân-enn-ki）
+wavs/common_voice_nan-tw_32192801.wav|nan_tw_spk1|絲襪仔（si-bue̍h-á）
+wavs/common_voice_nan-tw_32192802.wav|nan_tw_spk1|刺鼠（tshì-tshí | tshì-tshú）
+wavs/common_voice_nan-tw_32192803.wav|nan_tw_spk1|刺面（tshiah-bīn）
+wavs/common_voice_nan-tw_32192804.wav|nan_tw_spk1|三安里（Sann-an-lí）
+wavs/common_voice_nan-tw_32192815.wav|nan_tw_spk1|臺西（Tâi-se）
+wavs/common_voice_nan-tw_32192816.wav|nan_tw_spk1|利便商店（lī-piān-siong-tiàm）
+wavs/common_voice_nan-tw_32192817.wav|nan_tw_spk1|景美國小（Kíng-bé-kok-sió）
+wavs/common_voice_nan-tw_32192818.wav|nan_tw_spk1|蜂蜜雞卵糕（phang-bi̍t kue-nn̄g-ko | phang-bi̍t ke-nn̄g-ko）
+wavs/common_voice_nan-tw_32192819.wav|nan_tw_spk1|強力糊（kiông-li̍k-kôo）
+wavs/common_voice_nan-tw_32192825.wav|nan_tw_spk1|果子肉（kér-tsí-bah）
+wavs/common_voice_nan-tw_32192826.wav|nan_tw_spk1|降龍十八掌（Hâng-liông-si̍p-pat-tsiáng）
+wavs/common_voice_nan-tw_32192827.wav|nan_tw_spk1|拍gí仔（phah gi-á）
+wavs/common_voice_nan-tw_32192828.wav|nan_tw_spk1|跤毛（kha-moo）
+wavs/common_voice_nan-tw_32192829.wav|nan_tw_spk1|烘麭（hang-pháng）
+wavs/common_voice_nan-tw_32192835.wav|nan_tw_spk1|汞（hóng）
+wavs/common_voice_nan-tw_32192836.wav|nan_tw_spk1|屈尺（khut-tshioh）
+wavs/common_voice_nan-tw_32192837.wav|nan_tw_spk1|氣身惱命（khì-sin-lóo-miā）
+wavs/common_voice_nan-tw_32192838.wav|nan_tw_spk1|肺腑之言（hì-hú-tsi-giân | huì-hú-tsi-giân）
+wavs/common_voice_nan-tw_32192839.wav|nan_tw_spk1|西方（Sai-hong）
+wavs/common_voice_nan-tw_32192840.wav|nan_tw_spk1|玉環（Gio̍k-khuân）
+wavs/common_voice_nan-tw_32192841.wav|nan_tw_spk1|食無三把蕹菜著欲上西天（tsia̍h-bô sann pé ìng-tshài tio̍h-beh tsiūnn se-thian）
+wavs/common_voice_nan-tw_32192842.wav|nan_tw_spk1|眼腦線（gán-náu-suànn）
+wavs/common_voice_nan-tw_32192843.wav|nan_tw_spk1|果子酸（kué-tsí-sng | ké-tsí-sng）
+wavs/common_voice_nan-tw_32192854.wav|nan_tw_spk1|姑巡（koo-sûn）
+wavs/common_voice_nan-tw_32192875.wav|nan_tw_spk1|雲罩密密（hûn tà ba̍t-ba̍t）
+wavs/common_voice_nan-tw_32192876.wav|nan_tw_spk1|梅仔林（Muî-á-nâ）
+wavs/common_voice_nan-tw_32192877.wav|nan_tw_spk1|莫講較無魍（mài-kóng khah-bô báng）
+wavs/common_voice_nan-tw_32192878.wav|nan_tw_spk1|科工館（Kho-kang-kuán）
+wavs/common_voice_nan-tw_32192879.wav|nan_tw_spk1|刺龍爸（Tshì-liông-pē）
+wavs/common_voice_nan-tw_32192975.wav|nan_tw_spk1|食甲老老老（Tsia̍h kah lāu-lāu-lāu）
+wavs/common_voice_nan-tw_32192976.wav|nan_tw_spk1|無咧要緊（bô teh iàu-kín）
+wavs/common_voice_nan-tw_32192977.wav|nan_tw_spk1|頭犁犁（thâu lê-lê | thâu lerê-lerê | thâu luê-luê）
+wavs/common_voice_nan-tw_32192978.wav|nan_tw_spk1|摩勒都峇（Môo-li̍k-too-bâ）
+wavs/common_voice_nan-tw_32192979.wav|nan_tw_spk1|南京龍江路口（Lâm-kiann Liông-kang Lōo-kháu）
+wavs/common_voice_nan-tw_32192985.wav|nan_tw_spk1|看天凊凊（khuànn thinn tshìn tshìn）
+wavs/common_voice_nan-tw_32192986.wav|nan_tw_spk1|百票（pah-phiò）
+wavs/common_voice_nan-tw_32192987.wav|nan_tw_spk1|揮發（hui-huat）
+wavs/common_voice_nan-tw_32192988.wav|nan_tw_spk1|揜貼（iap-thiap）
+wavs/common_voice_nan-tw_32192989.wav|nan_tw_spk1|裂胸散甲（li̍h hing sàn kah）
+wavs/common_voice_nan-tw_32192995.wav|nan_tw_spk1|去倒（khì-tò）
+wavs/common_voice_nan-tw_32192996.wav|nan_tw_spk1|年頭到年尾（ni-thâu kàu nî-bué）
+wavs/common_voice_nan-tw_32193003.wav|nan_tw_spk1|魯蛇（lóo-tsuâ）
+wavs/common_voice_nan-tw_32193004.wav|nan_tw_spk1|粉蟯（hún-giô）
+wavs/common_voice_nan-tw_32193005.wav|nan_tw_spk1|潭子區（Thâm-tsú-khu）
+wavs/common_voice_nan-tw_32193007.wav|nan_tw_spk1|出去耍（tshut-khì sńg）
+wavs/common_voice_nan-tw_32193008.wav|nan_tw_spk1|吹焦（tshue-ta）
+wavs/common_voice_nan-tw_32193009.wav|nan_tw_spk1|頭盤（thâu-puânn）
+wavs/common_voice_nan-tw_32193010.wav|nan_tw_spk1|欺瞞（khi-muâ）
+wavs/common_voice_nan-tw_32193011.wav|nan_tw_spk1|領錢（niá-tsînn）
+wavs/common_voice_nan-tw_32193015.wav|nan_tw_spk1|巴圇哺草（pa-lûn pōo-tsháu）
+wavs/common_voice_nan-tw_32193016.wav|nan_tw_spk1|頭起先（thâu-khí-sing）
+wavs/common_voice_nan-tw_32193017.wav|nan_tw_spk1|祭品文（tsè-phín-bûn）
+wavs/common_voice_nan-tw_32193018.wav|nan_tw_spk1|使用人（sú-iōng-lâng）
+wavs/common_voice_nan-tw_32193019.wav|nan_tw_spk1|三請四姑情 （sam tshiánn sì koo-tsiânn）
+wavs/common_voice_nan-tw_32193020.wav|nan_tw_spk1|你咧講啥（Lí teh kóng siánn）
+wavs/common_voice_nan-tw_32193021.wav|nan_tw_spk1|高樹（Ko-tshiū）
+wavs/common_voice_nan-tw_32193022.wav|nan_tw_spk1|客無親疏，來者當受（kheh bô tshin-soo, lâi-tsiá tong siū）
+wavs/common_voice_nan-tw_32193023.wav|nan_tw_spk1|刺羅仔蟲（tshì-lô-á-thâng）
+wavs/common_voice_nan-tw_32193024.wav|nan_tw_spk1|七股 （Tshit-kóo）
+wavs/common_voice_nan-tw_32193031.wav|nan_tw_spk1|椰卵樹（Iâ-nn̄g-tshiū）
+wavs/common_voice_nan-tw_32193032.wav|nan_tw_spk1|桃園環線（Thô-hn̂g Khuân-suànn）
+wavs/common_voice_nan-tw_32193033.wav|nan_tw_spk1|塗魠（thôo-thoh | thôo-thuh）
+wavs/common_voice_nan-tw_32193034.wav|nan_tw_spk1|龜龜祟祟（ku-ku-sui-sui）
+wavs/common_voice_nan-tw_32193035.wav|nan_tw_spk1|親子丼（tshin-tsú-tóng）
+wavs/common_voice_nan-tw_32193036.wav|nan_tw_spk1|鴨仔聽雷（ah-á thiann luî）
+wavs/common_voice_nan-tw_32193037.wav|nan_tw_spk1|二水（Jī-tsuí）
+wavs/common_voice_nan-tw_32193038.wav|nan_tw_spk1|㧣風搢水（tu-hong-tsìnn-tsuí）
+wavs/common_voice_nan-tw_32193039.wav|nan_tw_spk1|油廠國小（Iû-tshiúnn Kok-sió）
+wavs/common_voice_nan-tw_32193045.wav|nan_tw_spk1|移花接木（î-hua-tsiap-bo̍k）
+wavs/common_voice_nan-tw_32193047.wav|nan_tw_spk1|貓仔上佮意臭臊的（Niau-á siōng kah-ì tshàu-tsho--ê）
+wavs/common_voice_nan-tw_32193048.wav|nan_tw_spk1|老舖（láu-phòo | ló-phòo）
+wavs/common_voice_nan-tw_32193050.wav|nan_tw_spk1|胮腫（hàng-tsíng）
+wavs/common_voice_nan-tw_32193051.wav|nan_tw_spk1|蔣經國（Tsiúnn Keng-kok）
+wavs/common_voice_nan-tw_32193053.wav|nan_tw_spk1|敢遮爾（kánn-tsiah-nī）
+wavs/common_voice_nan-tw_32198869.wav|nan_tw_spk1|蟯（giô）
+wavs/common_voice_nan-tw_32198870.wav|nan_tw_spk1|三千（Sam-tshian）
+wavs/common_voice_nan-tw_32198871.wav|nan_tw_spk1|卵包飯（nn̄g-pau-pn̄g）
+wavs/common_voice_nan-tw_32198872.wav|nan_tw_spk1|懷生國中（Huâi-sing Kok-tiong | Hoâi-seng Kok-tiong）
+wavs/common_voice_nan-tw_32198873.wav|nan_tw_spk1|毋通予豆油滴落來（M̄-thang hōo tāu-iû tih--lo̍h-lâi）
+wavs/common_voice_nan-tw_32198874.wav|nan_tw_spk1|鹿谷鄉（Lo̍k-kok-hiong）
+wavs/common_voice_nan-tw_32198875.wav|nan_tw_spk1|把水（pé-tsuí）
+wavs/common_voice_nan-tw_32198876.wav|nan_tw_spk1|偷來黯去（thau-lâi-ám-khì）
+wavs/common_voice_nan-tw_32198877.wav|nan_tw_spk1|紮走（tsah-tsáu）
+wavs/common_voice_nan-tw_32198878.wav|nan_tw_spk1|快取（khuài-tshú）
+wavs/common_voice_nan-tw_32198879.wav|nan_tw_spk1|你足媠（lí tsiok suí）
+wavs/common_voice_nan-tw_32198880.wav|nan_tw_spk1|達成目標（ta̍t-sîng bo̍k-piau）
+wavs/common_voice_nan-tw_32198881.wav|nan_tw_spk1|電腦仔批（tiān-náu-á phue）
+wavs/common_voice_nan-tw_32198882.wav|nan_tw_spk1|三重埔 （Sam-tiông-poo）
+wavs/common_voice_nan-tw_32198883.wav|nan_tw_spk1|廣西壯族自治區（Kńg-sai Tsòng-tso̍k Tsū-tī-khu）
+wavs/common_voice_nan-tw_32198884.wav|nan_tw_spk1|你毋通佇遐空喙哺舌亂造話（Lí m̄-thang tī hia khang-tshuì-pōo-tsi̍h luān tsō-uē）
+wavs/common_voice_nan-tw_32198885.wav|nan_tw_spk1|學田（Ha̍k-tiân）
+wavs/common_voice_nan-tw_32198886.wav|nan_tw_spk1|番仔公館（Huan-á Kong-kuán | Hoan-á Kong-koán）
+wavs/common_voice_nan-tw_32198887.wav|nan_tw_spk1|齒弓（khí-king）
+wavs/common_voice_nan-tw_32198888.wav|nan_tw_spk1|領錢片（niá-tsînn-phìnn）
+wavs/common_voice_nan-tw_38069395.wav|nan_tw_spk1|雞豆（ke-tāu）
+wavs/common_voice_nan-tw_38069396.wav|nan_tw_spk1|門派（bûn-phài | mn̂g-phài）
+wavs/common_voice_nan-tw_38069397.wav|nan_tw_spk1|拍定（phah-tiānn）
+wavs/common_voice_nan-tw_38069398.wav|nan_tw_spk1|磺溪中橋（Hông-khe-tiong-kiô）
+wavs/common_voice_nan-tw_38069399.wav|nan_tw_spk1|男友（lâm-iú）
+wavs/common_voice_nan-tw_38069425.wav|nan_tw_spk1|纏絆（tînn-puànn）
+wavs/common_voice_nan-tw_38069426.wav|nan_tw_spk1|伊無踏我个跤，我無踏伊个頭（i bô ta̍h guá-ê kha, guá bô ta̍h i-ê thâu）
+wavs/common_voice_nan-tw_38069427.wav|nan_tw_spk1|趨枋（tshu-pang）
+wavs/common_voice_nan-tw_38069428.wav|nan_tw_spk1|總鋪（tsóng-phoo）
+wavs/common_voice_nan-tw_38069429.wav|nan_tw_spk1|無字天書（Bô jī thian-su）
+wavs/common_voice_nan-tw_38069452.wav|nan_tw_spk1|毋捌寶（m̄ bat pó）
+wavs/common_voice_nan-tw_38069453.wav|nan_tw_spk1|胎孕糖尿病（thai-īn thn̂g-jiō-pēnn）
+wavs/common_voice_nan-tw_38069454.wav|nan_tw_spk1|凱旋中華（Khái-suân Tiong-huâ）
+wavs/common_voice_nan-tw_38069455.wav|nan_tw_spk1|生髮油（sing-huat-iû）
+wavs/common_voice_nan-tw_38069456.wav|nan_tw_spk1|塗墼厝（thôo-kat-tshù）
+wavs/common_voice_nan-tw_38069463.wav|nan_tw_spk1|顯靈（hián-lîng）
+wavs/common_voice_nan-tw_38069465.wav|nan_tw_spk1|厚篱㧎（kāu-lē-khê）
+wavs/common_voice_nan-tw_38069466.wav|nan_tw_spk1|釋迦佛（Sik-kia-hu̍t）
+wavs/common_voice_nan-tw_38069468.wav|nan_tw_spk1|鹽寮（Iâm-liâu）
+wavs/common_voice_nan-tw_38069469.wav|nan_tw_spk1|鄘風（Iông-hong）
+wavs/common_voice_nan-tw_38069487.wav|nan_tw_spk1|日久他鄉成故鄉（ji̍t kiú thann-hiong sîng kòo-hiong）
+wavs/common_voice_nan-tw_38069489.wav|nan_tw_spk1|海蔬仔（hái-se-á）
+wavs/common_voice_nan-tw_38069491.wav|nan_tw_spk1|水上鄉（Chúi-siōng-hiong）
+wavs/common_voice_nan-tw_38069492.wav|nan_tw_spk1|有當著仔（ū-tang-tio̍h-á）
+wavs/common_voice_nan-tw_38069494.wav|nan_tw_spk1|間色（kàinn-sik）
+wavs/common_voice_nan-tw_38069517.wav|nan_tw_spk1|鰇魚糋（jiû-hî-tsìnn）
+wavs/common_voice_nan-tw_38069518.wav|nan_tw_spk1|五級熱帶氣旋（gōo kip jia̍t-tài khì-suân）
+wavs/common_voice_nan-tw_38069519.wav|nan_tw_spk1|建成國中（Kiàn-sîng Kok-tiong | Kiàn-sêng Kok-tiong）
+wavs/common_voice_nan-tw_38069520.wav|nan_tw_spk1|東門圓環（Tang-mn̂g-înn-khuân）
+wavs/common_voice_nan-tw_38069521.wav|nan_tw_spk1|伊?山的時陣（I peh-suann ê sî-tsūn）
+wavs/common_voice_nan-tw_38069550.wav|nan_tw_spk1|遠端教學（hn̄g-tuan kàu-ha̍k）
+wavs/common_voice_nan-tw_38069551.wav|nan_tw_spk1|三叉河 （Sam-tshe-hô | Sann-tshe-hô）
+wavs/common_voice_nan-tw_38069552.wav|nan_tw_spk1|喙踏脫（tshuì ta̍h thut）
+wavs/common_voice_nan-tw_38069553.wav|nan_tw_spk1|猶會使（iáu--ē-sái）
+wavs/common_voice_nan-tw_38069554.wav|nan_tw_spk1|聽候鼎熱的時，愛趕緊下油落去（Thìng-hāu tiánn jia̍t ê sî, ài kuánn-kín hē iû lo̍h--khì）
+wavs/common_voice_nan-tw_38069580.wav|nan_tw_spk1|飄送（phiau-sàng）
+wavs/common_voice_nan-tw_38069581.wav|nan_tw_spk1|心內的歌（Sim-lāi ê kua）
+wavs/common_voice_nan-tw_38069582.wav|nan_tw_spk1|賊（tsi̍k）
+wavs/common_voice_nan-tw_38069583.wav|nan_tw_spk1|烈嶼鄉（Lia̍t-sū-hiong）
+wavs/common_voice_nan-tw_38069584.wav|nan_tw_spk1|後驛（āu-ia̍h）
+wavs/common_voice_nan-tw_38069590.wav|nan_tw_spk1|倒向（tò-hiànn）
+wavs/common_voice_nan-tw_38069591.wav|nan_tw_spk1|大稻埕（Tuā-tiū-tiânn）
+wavs/common_voice_nan-tw_38069592.wav|nan_tw_spk1|三弦 （sam-hiân）
+wavs/common_voice_nan-tw_38069593.wav|nan_tw_spk1|指頭仔（tsíng-thâu-á）
+wavs/common_voice_nan-tw_38069594.wav|nan_tw_spk1|吼面（háu-bīn）
+wavs/common_voice_nan-tw_38069605.wav|nan_tw_spk1|到塊（kàu-tè）
+wavs/common_voice_nan-tw_38069606.wav|nan_tw_spk1|熱貫（jia̍t-kuàn）
+wavs/common_voice_nan-tw_38069607.wav|nan_tw_spk1|大聲的 （tuā-siann--ê）
+wavs/common_voice_nan-tw_38069608.wav|nan_tw_spk1|悶悶不樂（būn-būn-put-lo̍k）
+wavs/common_voice_nan-tw_38069609.wav|nan_tw_spk1|男演員（lâm-ián-uân）
+wavs/common_voice_nan-tw_38069620.wav|nan_tw_spk1|大鼎菜 （tuā-tiánn-tshài）
+wavs/common_voice_nan-tw_38069621.wav|nan_tw_spk1|金山高中（Kim-suann Ko-tiong | Kim-soaⁿ Ko-tiong）
+wavs/common_voice_nan-tw_38069622.wav|nan_tw_spk1|林菝仔汁（ná-pa̍t-á-tsiap | ná-pua̍t-á-tsiap）
+wavs/common_voice_nan-tw_38069623.wav|nan_tw_spk1|阮毋是一个無感情的人（Gún m̄-sī tsi̍t-ê bô-kám-tsîng ê lâng）
+wavs/common_voice_nan-tw_43282968.wav|nan_tw_spk1|鋪（phoo）
+wavs/common_voice_nan-tw_43282974.wav|nan_tw_spk1|抓（jiàu | liàu）
+wavs/common_voice_nan-tw_43282975.wav|nan_tw_spk1|頇顢（hân-bān）
+wavs/common_voice_nan-tw_43282981.wav|nan_tw_spk1|啊若（ah nā）
+wavs/common_voice_nan-tw_43282990.wav|nan_tw_spk1|喔（ooh）
+wavs/common_voice_nan-tw_43282991.wav|nan_tw_spk1|注（tù）
+wavs/common_voice_nan-tw_43283089.wav|nan_tw_spk1|齊（tsiâu）
+wavs/common_voice_nan-tw_43283093.wav|nan_tw_spk1|拍算（phah-sǹg）
+wavs/common_voice_nan-tw_43283105.wav|nan_tw_spk1|快活（khuìnn-ua̍h | khuànn-ua̍h | khuàinn-ua̍h）
+wavs/common_voice_nan-tw_43283114.wav|nan_tw_spk1|緊（kín）
+wavs/common_voice_nan-tw_43283122.wav|nan_tw_spk1|到（kàu）
+wavs/common_voice_nan-tw_43283132.wav|nan_tw_spk1|軀（su）
+wavs/common_voice_nan-tw_43283144.wav|nan_tw_spk1|掀（hian）
+wavs/common_voice_nan-tw_43283146.wav|nan_tw_spk1|倩（tshiànn）
+wavs/common_voice_nan-tw_43283148.wav|nan_tw_spk1|入（ji̍p | li̍p）
+wavs/common_voice_nan-tw_43283164.wav|nan_tw_spk1|烏暗（oo-àm）
+wavs/common_voice_nan-tw_43283169.wav|nan_tw_spk1|生份（tshenn-hūn | tshinn-hūn | senn-hūn | sinn-hūn）
+wavs/common_voice_nan-tw_43283180.wav|nan_tw_spk1|才閣（tsiah-koh）
+wavs/common_voice_nan-tw_43283190.wav|nan_tw_spk1|袂當（bē-tàng | buē-tàng）
+wavs/common_voice_nan-tw_43283192.wav|nan_tw_spk1|斟（thîn）
+wavs/common_voice_nan-tw_43283216.wav|nan_tw_spk1|大官（ta-kuann）
+wavs/common_voice_nan-tw_43283234.wav|nan_tw_spk1|爍爁（sih-nah | sih-nà | sinnh-nà）

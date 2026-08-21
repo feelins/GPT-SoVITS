@@ -193,3 +193,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# ---- autodl 整合包补充 ----
+# 预训练模型权重（约 3G+，通过 download.py 获取）
+GPT_SoVITS/pretrained_models/
+# 运行时缓存 / 构建产物
+GPT_SoVITS/text/cmudict_cache.pickle
+GPT_SoVITS/text/ja_userdic/user.dict
+GPT_SoVITS/text/ja_userdic/userdict.md5
+# nan-tw 台语数据集的音频数据（仅提交代码与元数据）
+nan-tw/wavs/
+nan-tw/prepared/
