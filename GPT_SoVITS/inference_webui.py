@@ -189,6 +189,7 @@ dict_language_v2 = {
     i18n("韩英混合"): "ko",  # 按韩英混合识别####不变
     i18n("多语种混合"): "auto",  # 多语种启动切分识别语种
     i18n("多语种混合(粤语)"): "auto_yue",  # 多语种启动切分识别语种
+    i18n("潮汕话"): "teochew",  # 全部按潮汕话前端识别
 }
 dict_language = dict_language_v1 if version == "v1" else dict_language_v2
 

@@ -204,3 +204,6 @@ GPT_SoVITS/text/ja_userdic/userdict.md5
 # nan-tw 台语数据集的音频数据（仅提交代码与元数据）
 nan-tw/wavs/
 nan-tw/prepared/
+
+# 潮汕话本地参考文档（CodeBuddy 生成的参考实现，不提交）
+docs/teochew/

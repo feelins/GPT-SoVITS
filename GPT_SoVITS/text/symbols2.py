@@ -795,3 +795,19 @@ if __name__ == "__main__":
 韩文+粤语：
     732-322=410
 """
+
+# ===== 潮汕话 (Teochew) 新增音素 =====
+# 与训练侧 monolab 对齐的纯 ASCII 音素 (声母/韵母/停顿, 无 Y 前缀, 无调值数字)
+teochew_symbols = [
+    "sil", "silv", "ds", "ts",  # 停顿/特殊
+    "g", "z", "i", "s", "h", "ai", "d", "l", "e", "c", "k", "b", "ang", "m",
+    "t", "iu", "ao", "ehng", "a", "n", "u", "o", "ueh", "ing", "bh", "ou",
+    "r", "ui", "ehg", "iou", "ong", "uehng", "ia", "ian", "ung", "iang",
+    "ehn", "ua", "iehng", "iehn", "oi", "p", "ag", "ng", "eh", "ig", "ah",
+    "ug", "eng", "iehh", "in", "og", "iam", "im", "uang", "iah", "an", "uan",
+    "ieh", "aon", "am", "uehg", "ain", "ehh", "uehh", "gh", "mt", "oh", "oin",
+    "ib", "ab", "ih", "iehg", "iab", "uah", "iong", "ngt", "eg", "uai", "oun",
+    "uab", "oih", "iog", "uin", "iag", "uam", "iouh", "iun", "ieb", "uag",
+    "ieu", "uehn", "uh", "uain", "en", "iehm", "iem", "aoh", "iuh", "iao",
+]
+symbols += sorted(set(teochew_symbols))  ##潮汕话音素统一摆在末尾

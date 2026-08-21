@@ -142,6 +142,11 @@ class TextPreprocessor:
                 for tmp in LangSegmenter.getTexts(text,"ko"):
                     langlist.append(tmp["lang"])
                     textlist.append(tmp["text"])
+            elif language == "all_teochew":
+                for tmp in LangSegmenter.getTexts(text,"zh"):
+                    # 潮汕话无独立分词器, 按中文切分后统一标为 teochew
+                    langlist.append("teochew")
+                    textlist.append(tmp["text"])
             elif language == "en":
                 langlist.append("en")
                 textlist.append(text)
