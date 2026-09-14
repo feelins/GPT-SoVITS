@@ -23,6 +23,10 @@ from AR.models.embedding_cudagraph import (
 from AR.models.embedding_cudagraph import TokenEmbedding
 from AR.models.structs_cudagraph import T2SRequest, T2SResult, T2SSession
 
+# teochew 分支: symbols2.symbols 追加了 104 个音素(共 836),
+# 需保证 phoneme embedding 维度 >= 符号表长度, 否则加载 teochew 权重越界。
+from text import symbols2
+
 Tensor = torch.Tensor
 
 
@@ -307,7 +311,11 @@ class T2SDecoder(nn.Module):
         n_head = config["model"]["head"]
         n_layer = config["model"]["n_layer"]
         vocab_size = config["model"]["vocab_size"]
-        phoneme_vocab_size = config["model"]["phoneme_vocab_size"]
+        # 动态取 max(config 值, 当前符号表长度): 兼容 teochew 追加符号(836),
+        # 同时原始符号集(732)训练中文/粤语时仍用 732, 向后兼容。
+        phoneme_vocab_size = max(
+            config["model"]["phoneme_vocab_size"], len(symbols2.symbols)
+        )
         p_dropout = config["model"]["dropout"]
         EOS = config["model"]["EOS"]
         ffn_dim = hidden_dim * 4
@@ -598,5 +606,16 @@ class CUDAGraphRunner:
         config = dict_s1["config"]
         decoder = T2SDecoder(config, max_batch_size=max_batch_size)
         state_dict = dict_s1["weight"]
+        # teochew 分支: 若权重 embedding 维度(< 模型 836) 来自不含 teochew 的底模,
+        # 加载前把前 N 行保留、新增行零初始化, 避免 shape mismatch。
+        _pvs = decoder.phoneme_vocab_size
+        _prefix = "ar_text_embedding"
+        for _key in list(state_dict.keys()):
+            if _key.startswith(_prefix) and state_dict[_key].dim() == 2 \
+                    and state_dict[_key].shape[0] < _pvs:
+                _old = state_dict[_key]
+                _new = _old.new_zeros(_pvs, _old.shape[1])
+                _new[: _old.shape[0]] = _old
+                state_dict[_key] = _new
         decoder.load_state_dict(state_dict)
         return decoder.eval()

@@ -1,0 +1,14 @@
+# 歧义 / 旧词表缺失 项 (需人工确认)
+bb	->	b	# b
+ei	->	???	# 这个位置是一个英语A字母，可以完全忽略这个音素，在文本上也不要体现这个A字母。如果必须要用，直接用aa算了
+gg	->	g	# g
+ieg	->	iehg	# ighg
+ieng	->	iehng	# iehng
+kg	->	k	# k
+kk	->	k	# kg
+mmt	->	???	# mt
+ueng	->	ong	# ong
+uenn	->	uehn	# uehn
+uinn	->	uin	# uin
+uv	->	u	# u
+v	->	???	# 没有找到

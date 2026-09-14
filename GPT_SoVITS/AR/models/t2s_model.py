@@ -20,6 +20,9 @@ from AR.models.utils import (
 )
 from AR.modules.embedding import SinePositionalEmbedding, TokenEmbedding
 from AR.modules.transformer import LayerNorm, TransformerEncoder, TransformerEncoderLayer
+# teochew 分支往 symbols2.symbols 追加了 104 个音素(共 836),
+# 需保证 phoneme embedding 维度 >= 当前符号表长度, 否则训练时 phoneme id 越界。
+from text import symbols2
 
 default_config = {
     "embedding_dim": 512,
@@ -266,7 +269,11 @@ class Text2SemanticDecoder(nn.Module):
         self.num_layers = config["model"]["n_layer"]
         self.norm_first = norm_first
         self.vocab_size = config["model"]["vocab_size"]
-        self.phoneme_vocab_size = config["model"]["phoneme_vocab_size"]
+        # 动态取 max(config 值, 当前符号表长度): 兼容 teochew 追加符号(836),
+        # 同时原始符号集(732)训练中文/粤语时仍用 732, 不浪费参数, 向后兼容。
+        self.phoneme_vocab_size = max(
+            config["model"]["phoneme_vocab_size"], len(symbols2.symbols)
+        )
         self.p_dropout = config["model"]["dropout"]
         self.EOS = config["model"]["EOS"]
         self.norm_first = norm_first

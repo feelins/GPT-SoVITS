@@ -37,6 +37,7 @@ from module.models import (
     SynthesizerTrn,
 )
 from process_ckpt import savee
+from text import symbols2  # teochew 分支: symbols2.symbols 含追加的 104 个音素(共 836)
 
 torch.backends.cudnn.benchmark = False
 torch.backends.cudnn.deterministic = False
@@ -232,17 +233,27 @@ def run(rank, n_gpus, hps):
         ):
             if rank == 0:
                 logger.info("loaded pretrained %s" % hps.train.pretrained_s2G)
+            # teochew 分支往 symbols 追加了 104 个音素, 当前模型 enc_p.text_embedding
+            # 维度(836) 与底模(如 v2Pro/s2G488k, 不含 teochew) 不一致。底模没有
+            # 新符号的 embedding, 直接 load 会因 shape 不匹配报错。语义/声学部分
+            # 正常加载, 文本 embedding 层随机初始化后由 text_low_lr_rate 微调即可。
+            _tmp = torch.load(hps.train.pretrained_s2G, map_location="cpu", weights_only=False)
+            _sd = _tmp.get("weight", _tmp)
+            # teochew 分支把 n_symbols 从底模的 N 扩到 836。底模 enc_p.text_embedding
+            # 只有 N 行, 直接 load 会因 shape 不匹配失败。保留底模前 N 行原符号
+            # embedding, 仅新增的 teochew 符号行零初始化, 既继承知识又避免越界。
+            _key = "enc_p.text_embedding.weight"
+            _n_symbols = len(symbols2.symbols)  # teochew 扩展后总数(836)
+            if _key in _sd and _sd[_key].shape[0] < _n_symbols:
+                _old = _sd[_key]
+                _new = _old.new_zeros(_n_symbols, _old.shape[1])
+                _new[: _old.shape[0]] = _old
+                _sd[_key] = _new
             print(
                 "loaded pretrained %s" % hps.train.pretrained_s2G,
-                net_g.module.load_state_dict(
-                    torch.load(hps.train.pretrained_s2G, map_location="cpu", weights_only=False)["weight"],
-                    strict=False,
-                )
+                net_g.module.load_state_dict(_sd, strict=False)
                 if torch.cuda.is_available()
-                else net_g.load_state_dict(
-                    torch.load(hps.train.pretrained_s2G, map_location="cpu", weights_only=False)["weight"],
-                    strict=False,
-                ),
+                else net_g.load_state_dict(_sd, strict=False),
             )  ##测试不加载优化器
         if (
             hps.train.pretrained_s2D != ""

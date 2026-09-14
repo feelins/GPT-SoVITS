@@ -21,7 +21,7 @@ import re
 # 默认数据目录 (潮汕话标注). 可用环境变量 TEOW_DATA 覆盖。
 DATA_DIR = os.environ.get(
     "TEOW_DATA",
-    r"/root/autodl-tmp/GPT-SoVITS/data/04_ChaoShan",
+    r"E:/005_others/005_others/04_ChaoShan",
 )
 
 from text.symbols2 import punctuation  # 复用通用标点定义
@@ -244,23 +244,6 @@ def g2p(text):
     return phones, word2ph
 
 
-def out_of_dict(text):
-    """返回文本中词典未收录的字符集合 (用于训练数据筛选)。
-
-    优先选择全部字符都在词典内的句子, 可保证 g2p 不产生 UNK 占位,
-    避免训练/推理时出现无效音素。
-    """
-    _ensure_loaded()
-    norm = text_normalize(text)
-    oov = set()
-    for ch in norm:
-        if ch in punctuation:
-            continue
-        if ch not in _CHAR_DICT:
-            oov.add(ch)
-    return oov
-
-
 if __name__ == "__main__":
     # 快速自测
     test = "一念之慈"
@@ -268,5 +251,3 @@ if __name__ == "__main__":
     print("text:", test)
     print("phones:", p)
     print("word2ph:", w)
-    oov = out_of_dict("一念之慈，佢呾话")
-    print("oov chars:", sorted(oov))

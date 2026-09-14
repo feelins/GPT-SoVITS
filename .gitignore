@@ -205,5 +205,22 @@ GPT_SoVITS/text/ja_userdic/userdict.md5
 nan-tw/wavs/
 nan-tw/prepared/
 
-# 潮汕话本地参考文档（CodeBuddy 生成的参考实现，不提交）
-docs/teochew/
+# 潮汕话数据目录（wav / 词典 / 生成的 train.list / 中间 raw / build 产物，均不提交）
+data/04_ChaoShan/
+# 注：docs/teochew/ 为潮汕话分支的代码参考与训练排错记录，需纳入版本库
+
+# ---- 大模型权重 / 训练产物（体积大，不提交，运行时获取或训练生成）----
+# pretrained_models 是指向仓库外 autodl-fs 的符号链接，忽略该链接本身
+GPT_SoVITS/pretrained_models
+# 以下权重目录均为指向仓库外 autodl-fs 的符号链接，忽略链接本身（权重内容不在仓库内）
+GPT_weights
+GPT_weights_v2Pro
+SoVITS_weights
+SoVITS_weights_v2Pro
+outputs
+
+# nan-tw 台语数据集（音频与预处理产物，指向仓库外符号链接，仅提交代码与元数据）
+nan-tw/wavs
+nan-tw/prepared
+
+

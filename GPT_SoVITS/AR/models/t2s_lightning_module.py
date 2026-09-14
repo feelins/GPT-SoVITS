@@ -24,15 +24,31 @@ class Text2SemanticLightningModule(LightningModule):
         pretrained_s1 = config.get("pretrained_s1")
         if pretrained_s1 and is_train:
             # print(self.load_state_dict(torch.load(pretrained_s1,map_location="cpu")["state_dict"]))
-            print(
-                self.load_state_dict(
-                    torch.load(
-                        pretrained_s1,
-                        map_location="cpu",
-                        weights_only=False,
-                    )["weight"],
-                )
-            )
+            # teochew 分支往 symbols 追加了 104 个音素, 当前模型 ar_text_embedding
+            # 维度(836) 与底模(不含 teochew) 不一致。底模没有新符号的 phoneme
+            # embedding, 直接 load(strict=True) 会因 shape 不匹配报错。剔除该层后
+            # 随机初始化, 其余权重正常加载。
+            _s1 = torch.load(
+                pretrained_s1,
+                map_location="cpu",
+                weights_only=False,
+            )["weight"]
+            # teochew 分支把 phoneme_vocab_size 从底模的 732 扩到 836(见 t2s_model.py)。
+            # 底模 ar_text_embedding 只有 732 行, 直接 load 会因 shape 不匹配失败。
+            # 这里把底模 embedding 前 732 行原样保留, 仅新增的 733~835 行(teochew
+            # 新符号)做零初始化, 这样既继承原符号知识又避免越界。
+            # 实际 checkpoint 中 phoneme embedding 的 key 为
+            # "model.ar_text_embedding.word_embeddings.weight"（报错已确认），
+            # 用子串匹配以兼容不同底模命名。
+            _prefix = "model.ar_text_embedding"
+            for _key in list(_s1.keys()):
+                if _key.startswith(_prefix) and _s1[_key].shape.__len__() == 2 \
+                        and _s1[_key].shape[0] < self.model.phoneme_vocab_size:
+                    _old = _s1[_key]
+                    _new = _old.new_zeros(self.model.phoneme_vocab_size, _old.shape[1])
+                    _new[: _old.shape[0]] = _old
+                    _s1[_key] = _new
+            print(self.load_state_dict(_s1, strict=False))
         if is_train:
             self.automatic_optimization = False
             self.save_hyperparameters()

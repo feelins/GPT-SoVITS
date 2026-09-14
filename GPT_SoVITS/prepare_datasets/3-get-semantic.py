@@ -80,11 +80,14 @@ if os.path.exists(semantic_path) == False:
     vq_model.eval()
     # utils.load_checkpoint(utils.latest_checkpoint_path(hps.s2_ckpt_dir, "G_*.pth"), vq_model, None, True)
     # utils.load_checkpoint(pretrained_s2G, vq_model, None, True)
-    print(
-        vq_model.load_state_dict(
-            torch.load(pretrained_s2G, map_location="cpu", weights_only=False)["weight"], strict=False
-        )
-    )
+    # teochew 分支在 symbols 中追加了 104 个新符号, 导致 enc_p.text_embedding
+    # 维度从底模的 732 变为 836。底模 checkpoint 没有这些新符号的 embedding,
+    # 直接 load 会因 shape 不匹配报错。语义提取只用 VQ 部分, 文本 embedding
+    # 不影响结果, 故从 checkpoint 中剔除该层, 保留其余声学/VQ 权重。
+    _ckpt = torch.load(pretrained_s2G, map_location="cpu", weights_only=False)
+    _sd = _ckpt.get("weight", _ckpt)
+    _sd.pop("enc_p.text_embedding.weight", None)
+    print(vq_model.load_state_dict(_sd, strict=False))
 
     def name2go(wav_name, lines):
         hubert_path = "%s/%s.pt" % (hubert_dir, wav_name)
