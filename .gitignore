@@ -193,8 +193,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-
-# 潮汕话(teochew): docs/teochew/ 为代码参考与训练排错记录, 需纳入版本库;
-# docs/ 下其余文件(音频/图片/数据包)一律忽略
-docs/*
-!docs/teochew/
