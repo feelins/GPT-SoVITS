@@ -26,7 +26,7 @@ def clean_text(text, language, version=None):
         language_module_map = {"zh": "chinese", "ja": "japanese", "en": "english"}
     else:
         symbols = symbols_v2.symbols
-        language_module_map = {"zh": "chinese2", "ja": "japanese", "en": "english", "ko": "korean", "yue": "cantonese"}
+        language_module_map = {"zh": "chinese2", "ja": "japanese", "en": "english", "ko": "korean", "yue": "cantonese", "teochew": "teochew"}
 
     if language not in language_module_map:
         language = "en"
@@ -39,7 +39,7 @@ def clean_text(text, language, version=None):
         norm_text = language_module.text_normalize(text)
     else:
         norm_text = text
-    if language == "zh" or language == "yue":  ##########
+    if language == "zh" or language == "yue" or language == "teochew":  ##########
         phones, word2ph = language_module.g2p(norm_text)
         assert len(phones) == sum(word2ph)
         assert len(norm_text) == len(word2ph)
@@ -63,7 +63,7 @@ def clean_special(text, language, special_s, target_symbol, version=None):
         language_module_map = {"zh": "chinese", "ja": "japanese", "en": "english"}
     else:
         symbols = symbols_v2.symbols
-        language_module_map = {"zh": "chinese2", "ja": "japanese", "en": "english", "ko": "korean", "yue": "cantonese"}
+        language_module_map = {"zh": "chinese2", "ja": "japanese", "en": "english", "ko": "korean", "yue": "cantonese", "teochew": "teochew"}
 
     """
     特殊静音段sp符号处理

@@ -422,20 +422,7 @@ def change_gpt_weights(gpt_path):
     config = dict_s1["config"]
     max_sec = config["data"]["max_sec"]
     t2s_model = Text2SemanticLightningModule(config, "****", is_train=False)
-    # teochew 分支: 当前推理模型 ar_text_embedding 为 836 维(符号表含 104 新增音素),
-    # 但底模/旧 ckpt 只有 732 行。加载前把 embedding 前 732 行原样保留、新增行零初始化,
-    # 否则 load_state_dict 会因 shape 不匹配(RuntimeError)直接崩溃, 推理 webui 起不来。
-    _sd = dict_s1["weight"]
-    _pvs = getattr(t2s_model.model, "phoneme_vocab_size", None)
-    _prefix = "model.ar_text_embedding"
-    if _pvs is not None:
-        for _key in list(_sd.keys()):
-            if _key.startswith(_prefix) and _sd[_key].dim() == 2 and _sd[_key].shape[0] < _pvs:
-                _old = _sd[_key]
-                _new = _old.new_zeros(_pvs, _old.shape[1])
-                _new[: _old.shape[0]] = _old
-                _sd[_key] = _new
-    t2s_model.load_state_dict(_sd)
+    t2s_model.load_state_dict(dict_s1["weight"])
     if is_half == True:
         t2s_model = t2s_model.half()
     t2s_model = t2s_model.to(device)
@@ -496,8 +483,7 @@ def init_bigvgan():
 
     bigvgan_model = bigvgan.BigVGAN.from_pretrained(
         "%s/GPT_SoVITS/pretrained_models/models--nvidia--bigvgan_v2_24khz_100band_256x" % (now_dir,),
-        use_cuda_kernel=False,
-    )  # if True, RuntimeError: Ninja is required to load C++ extensions
+    )
     # remove weight norm in the model and set to eval mode
     bigvgan_model.remove_weight_norm()
     bigvgan_model = bigvgan_model.eval()
