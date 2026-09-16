@@ -1,0 +1,7 @@
+=== train.list 前3行 (格式: 路径|spk|yue|汉字) ===
+
+E:\008-datasets\mcv-scripted-nan-tw-v23.0\cv-corpus-23.0-2025-09-05\nan-tw\single_speaker\wavs\common_voice_nan-tw_32135920.wav|nan_tw_01|yue|公館
+E:\008-datasets\mcv-scripted-nan-tw-v23.0\cv-corpus-23.0-2025-09-05\nan-tw\single_speaker\wavs\common_voice_nan-tw_32135921.wav|nan_tw_01|yue|三觀五覆
+E:\008-datasets\mcv-scripted-nan-tw-v23.0\cv-corpus-23.0-2025-09-05\nan-tw\single_speaker\wavs\common_voice_nan-tw_32135922.wav|nan_tw_01|yue|蟮蟲仔
+
+含残留括号的行数: 0

@@ -1,0 +1,9 @@
+=== 文件名含 yue/jyut/cantonese/g2p 等 ===
+E:\003_ProgramLanguage\GPT-SoVITS\GPT_SoVITS\text\cantonese.py
+E:\003_ProgramLanguage\GPT-SoVITS\GPT_SoVITS\text\opencpop-strict.txt
+E:\003_ProgramLanguage\GPT-SoVITS\GPT_SoVITS\text\g2pw\g2pw.py
+
+=== 内容含 jyutping/cantonese 的文件 ===
+E:\003_ProgramLanguage\GPT-SoVITS\GPT_SoVITS\text\cantonese.py
+E:\003_ProgramLanguage\GPT-SoVITS\GPT_SoVITS\text\cleaner.py
+E:\003_ProgramLanguage\GPT-SoVITS\GPT_SoVITS\text\zh_normalization\char_convert.py
