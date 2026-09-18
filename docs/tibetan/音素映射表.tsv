@@ -1,0 +1,47 @@
+kind	ipa	ascii	count	note
+onset	(零声母)	-	164	零声母，不产出 token
+onset	p	Tp	6849	独立 token
+onset	pʰ	Tph	3287	独立 token
+onset	t	Tt	4834	独立 token
+onset	tʰ	Tth	5976	独立 token
+onset	k	Tk	2472	独立 token
+onset	kʰ	Tkh	3591	独立 token
+onset	ts	Tts	1505	独立 token
+onset	tsʰ	Ttsh	1702	独立 token
+onset	tɕ	Tc	6041	独立 token
+onset	tɕʰ	Tch	5333	独立 token
+onset	ʈʂ	Ttr	1322	独立 token
+onset	ʈʂʰ	Ttrh	1544	独立 token
+onset	m	Tm	3662	独立 token
+onset	n	Tn	5330	独立 token
+onset	ŋ	Tng	1402	独立 token
+onset	ɲ	Tny	136	独立 token
+onset	ɳ	Tnr	3	独立 token
+onset	s	Ts	1938	独立 token
+onset	ɕ	Tx	166	独立 token
+onset	ʂ	Tsr	32	独立 token
+onset	z	Tz	915	独立 token
+onset	ʑ	Tzh	2503	独立 token
+onset	h	Th	1401	独立 token
+onset	ʔ	Tq	3422	独立 token
+onset	j	Ty	3362	独立 token
+onset	r	Tr	2682	独立 token
+onset	l	Tl	3821	独立 token
+onset	w	Tw	17	独立 token
+vowel	a	Ta	19465	与声调拼成 1 个 token（如 TA + 55 = TA55）
+vowel	ã	TA	8464	与声调拼成 1 个 token（如 TA + 55 = TA55）
+vowel	e	Te	6530	与声调拼成 1 个 token（如 TA + 55 = TA55）
+vowel	ẽ	TE	1134	与声调拼成 1 个 token（如 TA + 55 = TA55）
+vowel	i	Ti	11944	与声调拼成 1 个 token（如 TA + 55 = TA55）
+vowel	ĩ	TI	2648	与声调拼成 1 个 token（如 TA + 55 = TA55）
+vowel	o	To	9344	与声调拼成 1 个 token（如 TA + 55 = TA55）
+vowel	õ	TO	3103	与声调拼成 1 个 token（如 TA + 55 = TA55）
+vowel	u	Tu	5323	与声调拼成 1 个 token（如 TA + 55 = TA55）
+vowel	ũ	TU	2173	与声调拼成 1 个 token（如 TA + 55 = TA55）
+vowel	ɛ	Tae	2996	与声调拼成 1 个 token（如 TA + 55 = TA55）
+vowel	ø	Toe	1013	与声调拼成 1 个 token（如 TA + 55 = TA55）
+vowel	y	Tue	1275	与声调拼成 1 个 token（如 TA + 55 = TA55）
+tone	55	55	24896	拼在韵母 token 末尾
+tone	53	53	12575	拼在韵母 token 末尾
+tone	13	13	26385	拼在韵母 token 末尾
+tone	12	12	11556	拼在韵母 token 末尾

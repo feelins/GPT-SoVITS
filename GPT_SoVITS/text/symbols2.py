@@ -779,6 +779,47 @@ yue_symbols = {
     "Yyun2",
 }
 
+# ---------------------------------------------------------------------------
+# 藏语（拉萨话）：声母 28 + 韵母带调 13×4 = 80 个 symbol
+#
+# 与粤语同理，统一加 T 前缀，避免与普通话/粤语/日文/英文/韩文符号重名（已核查）。
+#
+# 韵母与声调粘成**一个** symbol（如 TA55），而不是拆成 "TA" + "55" 两个 ——
+# 普通话的 "ang1"、粤语的 "Yaan5" 都是这么做的，GPT-SoVITS 的 word2ph 与
+# BERT 特征对齐（assert len(phones) == sum(word2ph)）是按这个结构设计训的。
+# 零声母音节因此只有 1 个 symbol（如 a55 -> Ta55）。
+#
+# 映射自 IPA：
+#   送气 = 后缀 h（pʰ->Tph）      卷舌 = 后缀 r（ʈʂ->Ttr、ʂ->Tsr、ɳ->Tnr）
+#   腭化 = 单字母（tɕ->Tc、ɕ->Tx） 鼻化元音 = 大写（ã->TA、ĩ->TI、õ->TO）
+#   r/l 变音 = 二合字母（ɛ->Tae、ø->Toe、y->Tue）
+#   声调 = 调值原样（55/53/13/12）
+#
+# 映射是**双射**（韵母×声调 组合无碰撞），反查表可由映射表直接生成。
+# 语料里实际出现 74 个（ɛ/ø/y 的 12、53 调组合未出现），此处按规则加满 80 个，
+# 以免后续语料出现未见组合时 OOV。
+#
+# 顺序：声母（按发音部位分组）+ 韵母×声调，整体追加在 symbols 末尾，
+# 不打乱已有顺序，也不去重已有符号。
+# ---------------------------------------------------------------------------
+tibetan_c = [
+    "Tp", "Tph", "Tt", "Tth", "Tk", "Tkh",      # 塞音：清不送气 / 清送气
+    "Tts", "Ttsh", "Tc", "Tch", "Ttr", "Ttrh",  # 塞擦音：齿龈 / 腭化 / 卷舌
+    "Tm", "Tn", "Tng", "Tny", "Tnr",            # 鼻音
+    "Ts", "Tx", "Tsr", "Tz", "Tzh",             # 擦音：齿龈 / 腭化 / 卷舌 / 浊
+    "Th", "Tq",                                 # 喉擦音 / 喉塞音
+    "Ty", "Tr", "Tl", "Tw",                     # 近音
+]
+tibetan_v_wo_tone = [
+    "a", "A", "e", "E", "i", "I", "o", "O", "u", "U",  # 大写 = 鼻化
+    "ae", "oe", "ue",                                   # a/o/u 的 r、l 变音
+]
+tibetan_tone = ["55", "53", "13", "12"]
+tibetan_symbols = tibetan_c + [
+    "T%s%s" % (v, t) for v in tibetan_v_wo_tone for t in tibetan_tone
+]
+assert len(tibetan_symbols) == len(set(tibetan_symbols)), "藏语符号内部重名"
+
 # symbols = [pad] + c + v + ja_symbols + pu_symbols + list(arpa)+list(ko_symbols)#+list(yue_symbols)###直接这么加yue顺序乱了
 symbols = [pad] + c + v + ja_symbols + pu_symbols + list(arpa)
 symbols = sorted(set(symbols))
@@ -786,9 +827,13 @@ symbols = sorted(set(symbols))
 symbols += ["[", "]"]  ##日文新增上升下降调型
 symbols += sorted(list(ko_symbols))
 symbols += sorted(list(yue_symbols))  ##新加的yue统一摆在后头#已查过开头加Y后没有重复，韩文显然不会重复
+symbols += tibetan_symbols            ##新加的藏语统一摆在后头#开头T，已核查与中/日/英/韩/粤均无重名
 # print(len(symbols))
 if __name__ == "__main__":
     print(len(symbols))
+    _dup = [s for s in set(symbols) if symbols.count(s) > 1]
+    print("重复符号:", _dup if _dup else "无")
+    print("藏语符号:", len(tibetan_symbols))
 """
 粤语：
     732-353=379
